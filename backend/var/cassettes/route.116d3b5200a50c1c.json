@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Straits Advanced Materials is not named in the real company filings (Part B) but could plausibly be a synthetic entity in the context of the synthetic world (Part A), which covers petrochemical plants, cracker operations, and related topics. The brief concerns cracker operations, which fits the scope of Part A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

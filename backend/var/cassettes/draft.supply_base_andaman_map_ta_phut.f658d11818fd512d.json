@@ -1,0 +1,39 @@
+{
+  "claims": [
+    {
+      "text": "Andaman Polymer Group operates the Map Ta Phut PP 1 polypropylene plant at Map Ta Phut with a capacity of 350.0 kta, using a Gas Phase process route, and the plant is operating since 2016.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-030",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group operates the Map Ta Phut PP 2 polypropylene plant at Map Ta Phut with a capacity of 250.0 kta, using a Gas Phase process route, and the plant is operating since 2020.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-031",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group has the Map Ta Phut PP 3 polypropylene plant under construction at Map Ta Phut with a capacity of 300.0 kta, using a Gas Phase process route, and the plant is scheduled to start up in 2028.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-032",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All claims are directly supported by plant register data for Andaman Polymer Group's polypropylene plants at Map Ta Phut. No evidence was found for other plants or process routes."
+}

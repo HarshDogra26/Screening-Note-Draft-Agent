@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The describe_corpus result confirms that there are two relevant price series for Southeast Asia propylene: 'Propylene|Southeast Asia CFR|Spot' (from 2024-01 to 2025-12) and 'Propylene|Southeast Asia CFR|Contract' (from 2026-01 to 2026-08). There are no gaps or months with blank prices in either series. The change in assessment basis occurs at the end of 2025: the spot series ends in December 2025, and the contract series begins in January 2026. This fully answers both section questions: the gap is a discontinuity between the two series, and the change in basis is from spot to contract at the turn of 2026. No further evidence is needed."
+}

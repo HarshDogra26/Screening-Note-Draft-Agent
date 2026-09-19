@@ -1,0 +1,12 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "PTT Global Chemical's definition of adjusted EBITDA",
+      "reason": "not_disclosed",
+      "detail": "No evidence was retrieved regarding how PTT Global Chemical defines adjusted EBITDA or which items are excluded from EBITDA to arrive at adjusted EBITDA.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "No filings or documents were provided that describe PTT Global Chemical's definition of adjusted EBITDA or the specific exclusions used in its calculation."
+}

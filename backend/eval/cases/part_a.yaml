@@ -1,0 +1,171 @@
+# Part A — the synthetic world. Every figure asserted here was verified against the
+# CSVs by scripts/facts.py before being written down.
+
+cases:
+  - id: A01
+    brief: Screening note on Southeast Asia ethylene supply and H1 2026 price moves
+    domain: part_a
+    requirement: [planning, tools, grounding]
+    why: >-
+      The happy path, and the one case that needs several tools in combination. The
+      price series shows what moved; only the documents say why. A note that answers
+      this from the series alone has not understood the question.
+    expect:
+      min_sections: 2
+      min_claims: 3
+      tools_used: [query_price_series, search_part_a_documents]
+      must_cite:
+        - doc:025_asean_monitor_price_commentary_2026-06-18.md
+      all_claims_cited: true
+
+  - id: A02
+    brief: How has Southeast Asia propylene moved since 2024?
+    domain: part_a
+    requirement: [grounding, gaps]
+    why: >-
+      The basis-break trap. The series changes from Spot to Contract at 2026-01 and
+      doc 025 states the step "should not be read as a market movement". A single
+      2024-to-2026 delta is the wrong answer however well cited.
+    expect:
+      tools_used: [query_price_series]
+      must_contain: [basis]
+      must_cite:
+        - doc:025_asean_monitor_price_commentary_2026-06-18.md
+      must_not_contain:
+        - rose by
+        - fell by
+
+  - id: A03
+    brief: HDPE Southeast Asia prices from December 2025 to March 2026
+    domain: part_a
+    requirement: [gaps, grounding]
+    why: >-
+      The missing-month trap. No rows exist for 2026-01 or 2026-02. The note must
+      report that no assessment was published, not interpolate between 935 and 909.
+    expect:
+      tools_used: [query_price_series]
+      must_cite:
+        - price:HDPE|Southeast Asia CFR|2025-12|Spot
+        - price:HDPE|Southeast Asia CFR|2026-03|Spot
+      # Any value printed for January or February would be invented. 922 is the
+      # midpoint a naive interpolation produces.
+      forbidden_numbers: ["922"]
+
+  - id: A04
+    brief: What is the latest assessed polypropylene price in Southeast Asia?
+    domain: part_a
+    requirement: [gaps, grounding]
+    why: >-
+      The blank-value trap, which is NOT the same as a missing month. Rows exist for
+      2026-07 and 2026-08 but carry no price. The correct answer reports the last
+      confirmed month and labels it.
+    expect:
+      tools_used: [query_price_series]
+      must_contain: ["not publicly confirmed"]
+      must_cite:
+        - price:PP|Southeast Asia CFR|2026-06|Spot
+
+  - id: A05
+    brief: What is the capacity of Coral Bay Olefins' Sungai Liang cracker?
+    domain: part_a
+    requirement: [gaps]
+    why: >-
+      The blank-capacity trap. PL-008 has no published capacity and doc 011 says the
+      operator does not disclose it. Any number here is fabricated.
+    expect:
+      must_contain: ["not publicly confirmed"]
+      must_cite: [plant:PL-008]
+      gap_about: [Sungai Liang]
+      gap_reason: not_publicly_confirmed
+
+  - id: A06
+    brief: What is the ethylene capacity of Cilegon Cracker 1?
+    domain: part_a
+    requirement: [conflicts]
+    why: >-
+      The conflict case, and the one the brief cares about most. The operator and the
+      register say 1,200 kta; the ASEAN Monitor says 1,050 kta and explains why it
+      carries the lower figure. Both must appear, attributed. Picking one silently is
+      the failure mode being tested.
+    expect:
+      conflict_about: [Cilegon Cracker 1]
+      conflict_positions: ["1,200 kta", "1,050 kta"]
+      must_cite:
+        - plant:PL-001
+        - doc:002_asean_monitor_capacity_note_2026-06-02.md
+      must_contain: ["1,050"]
+
+  - id: A07
+    brief: When is the Vung Tau cracker expected to start up?
+    domain: part_a
+    requirement: [grounding]
+    why: >-
+      Supersession. Doc 008 said 2027; doc 009 explicitly supersedes it with 2028 and
+      the register agrees. The note must give 2028 and should say the earlier guidance
+      was revised rather than quietly printing the current figure.
+    expect:
+      must_contain: ["2028"]
+      # TEST CORRECTION, not a relaxation of behaviour. This originally demanded BOTH
+      # the document and the register row. Three live runs cited doc 009 and not
+      # PL-006, and on reflection that is correct: doc 009 is the authoritative source
+      # for the revision and the register merely agrees with it. Demanding both
+      # over-specified how a correct answer must be sourced.
+      must_cite:
+        - doc:009_mekong_vungtau_revised_2026-07-09.md
+      must_cite_any:
+        - doc:009_mekong_vungtau_revised_2026-07-09.md
+        - plant:PL-006
+
+  - id: A08
+    brief: Total operating ethylene capacity in Southeast Asia
+    domain: part_a
+    requirement: [grounding, gaps]
+    why: >-
+      Aggregation discipline. The true figure is 5,370 kta across 7 of 8 matched
+      Operating units; PL-008's capacity is withheld and PL-006 is under construction.
+      A bare total with no accounting of what it covers is wrong even if the arithmetic
+      is right.
+    expect:
+      tools_used: [query_plant_register]
+      must_contain: ["5,370"]
+      must_cite: [plant:PL-001]
+
+  - id: A09
+    brief: Naphtha to ethylene spread in Southeast Asia during the first half of 2026
+    domain: part_a
+    requirement: [grounding]
+    why: >-
+      The region-mismatch case. Naphtha is assessed 'Asia CFR' while ethylene is
+      'Southeast Asia CFR'. The spread is computable but joins two different assessment
+      locations, and the note must say so. Predicted as a likely silent failure.
+    expect:
+      tools_used: [query_price_series]
+      must_contain: ["Asia CFR"]
+    known_failure: >-
+      The tool emits region_mismatch, but the drafter may not carry it into prose.
+      See KNOWN_FAILURES.md O3.
+
+  - id: A10
+    brief: Operational events at Pengerang during 2026
+    domain: part_a
+    requirement: [tools, grounding]
+    why: >-
+      Two documents interleave: doc 026 declares force majeure on 2026-04-09 and doc
+      005 reports the turnaround completed on 2026-04-22. Both belong in the answer.
+    expect:
+      tools_used: [search_part_a_documents]
+      must_cite:
+        - doc:026_selat_force_majeure_2026-04-09.md
+
+  - id: A11
+    brief: Schedule for Andaman Polymer Group's third polypropylene line at Map Ta Phut
+    domain: part_a
+    requirement: [grounding]
+    why: >-
+      Scoped supersession. Doc 007 moves mechanical completion from Q2 2028 to Q4 2028
+      but doc 006's 300 kta line capacity and FID remain current. A note that treats
+      doc 006 as wholly superseded loses facts that are still true.
+    expect:
+      must_contain: ["300"]
+      must_cite:
+        - doc:007_andaman_pp3_delay_2026-07-30.md

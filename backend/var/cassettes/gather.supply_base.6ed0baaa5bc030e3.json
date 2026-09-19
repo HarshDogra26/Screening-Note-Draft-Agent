@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene capacity expansion OR new cracker OR supply base change OR startup OR debottleneck OR turnaround OR force majeure",
+      "k": 8
+    },
+    "why": "To identify recent changes or expansions in the Southeast Asia ethylene supply base since late 2025, as well as any operational disruptions or debottlenecking that could affect supply. This will supplement the plant register data with recent developments."
+  },
+  "reason": "The plant register provides the current and under-construction plant list, but recent changes, expansions, or operational events since late 2025 require document review for confirmation and context."
+}

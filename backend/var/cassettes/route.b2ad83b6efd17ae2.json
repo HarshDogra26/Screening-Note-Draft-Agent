@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for the latest assessed polypropylene price in Southeast Asia. The synthetic world in PART_A includes monthly price assessments for PP (polypropylene) and covers the period up to 2026-08, which is historical and can be reported. No real company filings or financials are involved, so PART_A is the correct dataset.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

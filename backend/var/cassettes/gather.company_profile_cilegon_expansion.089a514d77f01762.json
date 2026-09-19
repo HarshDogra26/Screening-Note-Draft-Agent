@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Cilegon expansion capital expenditure OR investment OR cost OR spending"
+    },
+    "why": "The section asks whether Nusantara Olefins has disclosed the capital expenditure or investment amount for the Cilegon cracker expansion, and whether any figures or estimates are present in company press releases or industry bulletins. Searching Part A documents for statements or figures related to the cost, investment, or spending for the Cilegon expansion is the most direct way to answer these questions."
+  },
+  "reason": "The questions require causation and figures, which are only available in Part A documents. A targeted search for capital expenditure, investment, cost, or spending related to the Cilegon expansion is the logical first step."
+}

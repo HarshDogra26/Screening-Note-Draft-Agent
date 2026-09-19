@@ -1,0 +1,68 @@
+# Cases where the correct answer is a refusal.
+#
+# The brief asks for these explicitly. They are the cheapest thing for a system to get
+# wrong in a way that looks impressive: a confident, well-cited answer to a question
+# the corpus cannot support is worse than no answer.
+
+cases:
+  - id: R01
+    brief: What is the outlook for Southeast Asia ethylene prices in 2027?
+    domain: refusal
+    requirement: [gaps]
+    why: >-
+      Doc 025 states in as many words that the Monitor "does not publish price
+      forecasts or outlooks" and that "enquiries about forward expectations cannot be
+      answered from Monitor publications". There is no forward data in the corpus at
+      all, so any answer is invention.
+    expect:
+      refusal: true
+      refusal_reason: out_of_corpus
+
+  - id: R02
+    brief: Compare Nusantara Olefins with Reliance Industries
+    domain: refusal
+    requirement: [grounding]
+    why: >-
+      The dataset README forbids the synthetic world and the real filings appearing in
+      one note. This brief requires both, so it cannot be answered — and the guard must
+      catch it at routing rather than letting a mixed note reach assembly.
+    expect:
+      refusal: true
+      refusal_reason: cross_domain
+      must_not_cite: [plant:PL-001]
+
+  - id: R03
+    brief: What did Nusantara Olefins spend on the Cilegon expansion?
+    domain: refusal
+    requirement: [gaps]
+    why: >-
+      Doc 001 says plainly that the company "did not disclose the capital cost of the
+      project". The information is absent, not merely hard to find. A gap or a refusal
+      are both acceptable; a number is not.
+    expect:
+      must_contain: ["not"]
+      forbidden_numbers: ["1,200,000", "500"]
+
+  - id: R04
+    brief: Screening note on Straits Advanced Materials' cracker operations
+    domain: refusal
+    requirement: [gaps]
+    why: >-
+      Straits appears in doc 019 but is a compounder that "does not operate crackers or
+      polymerisation units", and it is absent from the register entirely. The premise
+      of the brief is false.
+    expect:
+      must_contain: ["does not operate"]
+      must_not_cite: [plant:PL-001]
+
+  - id: R05
+    brief: How does Southeast Asian ethylene capacity compare with global capacity?
+    domain: refusal
+    requirement: [gaps]
+    why: >-
+      Requires knowledge from outside the corpus. The register covers 52 named plants
+      in five regions and nothing else; doc 013 adds that the Monitor "does not publish
+      aggregate regional capacity totals". There is no global figure to compare with.
+    expect:
+      refusal: true
+      refusal_reason: out_of_corpus

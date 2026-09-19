@@ -1,0 +1,34 @@
+{
+  "claims": [
+    {
+      "text": "There are no assessed prices for polypropylene (PP) in Southeast Asia CFR basis in the available price data.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Latest assessed polypropylene price in Southeast Asia",
+      "reason": "no_assessment",
+      "detail": "The price series inventory confirms that 'PP|Southeast Asia CFR|Spot' exists, but there are no assessments for product='PP' region='Southeast Asia'.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "No price assessments are available for polypropylene (PP) in Southeast Asia CFR spot basis in the current data. The section cannot provide a latest price figure."
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "Pengerang",
+      "k": 10
+    },
+    "why": "To identify any company filings in 2026 that mention operational events at the Pengerang facility, including shutdowns, incidents, restarts, or maintenance. This is the most direct way to find relevant evidence."
+  },
+  "reason": "The section requires evidence of operational events at Pengerang in 2026, and searching for 'Pengerang' in company filings is the most targeted approach to begin gathering such evidence."
+}

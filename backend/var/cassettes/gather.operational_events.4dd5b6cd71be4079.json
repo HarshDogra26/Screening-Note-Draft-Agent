@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence includes a company press release from Straits Advanced Materials (dated 2026-06-12) which explicitly states: \"The company does not operate crackers or polymerisation units and purchases base resin from third parties.\" This directly answers both questions for the section: there have been no recent operational events, expansions, turnarounds, or strategic developments related to Straits Advanced Materials' cracker operations, because the company does not operate any cracker units. No relevant press releases or industry bulletins mention Straits Advanced Materials' cracker activities in the past year, as the company is not active in this area. The question is fully answered by the corpus, and further tool calls are unnecessary."
+}

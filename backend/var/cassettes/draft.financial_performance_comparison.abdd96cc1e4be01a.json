@@ -1,0 +1,268 @@
+{
+  "claims": [
+    {
+      "text": "GC reports revenue from sale of goods and rendering of services of THB 321,623,378,078 for the six-month period ended 30 June 2026.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC reports profit attributable to owners of the company of THB 15,440,108,311 for the six-month period ended 30 June 2026.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC reports revenue from sale of goods and rendering of services of THB 267,039,166,374 for the six-month period ended 30 June 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC reports loss attributable to owners of the company of THB -6,183,328,551 for the six-month period ended 30 June 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's most recent quarterly revenue (three months ended 30 June 2026) was THB 173,868,786,522.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 5",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's most recent quarterly profit attributable to owners of the company (three months ended 30 June 2026) was THB 12,208,350,223.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 5",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC reports in Thai Baht (THB) and uses 'ones' as units; the fiscal year end is not explicitly stated in the evidence.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reports revenue from continuing operations of RM 266.1 billion for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reports EBITDA of RM 103.0 billion for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reports profit after tax (PAT) from continuing operations of RM 45.4 billion for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group's most recent half-year revenue (first half ended 30 June 2025) was RM 132.6 billion.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "Financial Report 1H 2025.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group's most recent half-year EBITDA (first half ended 30 June 2025) was RM 54.4 billion.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "Financial Report 1H 2025.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group's most recent half-year profit after tax (PAT) (first half ended 30 June 2025) was RM 26.2 billion.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "Financial Report 1H 2025.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reports in Malaysian Ringgit (MYR) and uses 'millions' as units; fiscal year end is 31 December.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 6,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "No financial results for Reliance Industries Limited or Reliance's petrochemical segment are present in the evidence provided.",
+      "citations": [],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "No financial results for PETRONAS Chemicals Group (PCG) are present in the evidence provided; all PETRONAS figures are for the PETRONAS Group as a whole.",
+      "citations": [],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "GC does not disclose adjusted EBITDA in the evidence provided.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "PETRONAS Group describes its outlook as impacted by lower average realised prices, foreign exchange, and lower sales volume, with profitability and ROACE declining in 2025 compared to 2024.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Reliance Industries Limited financial performance",
+      "reason": "not_publicly_confirmed",
+      "detail": "No financial results for Reliance Industries Limited or its petrochemical segment are present in the evidence provided.",
+      "citations": []
+    },
+    {
+      "subject": "PETRONAS Chemicals Group (PCG) financial performance",
+      "reason": "not_publicly_confirmed",
+      "detail": "No financial results for PETRONAS Chemicals Group (PCG) are present in the evidence provided; all PETRONAS figures are for the PETRONAS Group as a whole.",
+      "citations": []
+    },
+    {
+      "subject": "GC adjusted EBITDA",
+      "reason": "not_publicly_confirmed",
+      "detail": "GC does not disclose adjusted EBITDA in the evidence provided.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "FINANCIAL_STATEMENTS.XLSX",
+          "page": null,
+          "sheet": "PL 7",
+          "cell_range": "A7:Q34"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Evidence is available for GC and PETRONAS Group, but not for Reliance Industries Limited or PETRONAS Chemicals Group (PCG). GC figures are for six-month and three-month periods, not full-year. PETRONAS figures are for the group, not PCG specifically."
+}

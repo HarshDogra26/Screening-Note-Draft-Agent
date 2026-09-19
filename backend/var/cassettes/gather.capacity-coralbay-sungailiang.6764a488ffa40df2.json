@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The plant register entry for Coral Bay Olefins' Sungai Liang Cracker explicitly states that its capacity is 'not publicly confirmed.' The associated HDPE line's capacity is disclosed (250 kta), but the cracker's is not. The company press release (doc:011_coralbay_commissioning_2025-09-18.md) confirms that Coral Bay Olefins does not disclose the nameplate capacity for the cracker, and provides no indirect estimate or commentary on its scale. No other document or register entry offers a capacity figure or indirect estimate. Therefore, the question is unanswerable from this corpus, and the evidence shows the reason is explicit non-disclosure by the operator."
+}

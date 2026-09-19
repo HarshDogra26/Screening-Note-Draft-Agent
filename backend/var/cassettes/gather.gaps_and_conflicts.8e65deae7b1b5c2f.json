@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene"
+    },
+    "why": "To identify all ethylene plants in Southeast Asia and check for any with capacity not publicly confirmed, as well as to review their status and details for gaps or uncertainties."
+  },
+  "reason": "The register directly flags plants with unconfirmed capacity; querying for ethylene plants in Southeast Asia will allow us to cross-check this and identify any gaps or uncertainties in the capacity base."
+}

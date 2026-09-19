@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Straits Advanced Materials"
+    },
+    "why": "To determine if Straits Advanced Materials operates any cracker assets and retrieve their main characteristics, as required by the section questions."
+  },
+  "reason": "The plant register is the authoritative source for asset operation and characteristics. This call will establish whether Straits Advanced Materials operates any cracker assets and provide details if so."
+}

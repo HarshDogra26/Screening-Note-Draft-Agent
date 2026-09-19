@@ -1,0 +1,27 @@
+{
+  "brief": "Total operating ethylene capacity in Southeast Asia",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base_sea_ethylene",
+      "kind": "supply_base",
+      "title": "Operating Ethylene Capacity in Southeast Asia",
+      "questions": [
+        "What is the total operating ethylene capacity in Southeast Asia as of the latest available data?",
+        "Which plants contribute to this total, and are there any limitations or exclusions in the published figures?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register provides the list and nameplate capacities of all operating ethylene plants in Southeast Asia, while documents may clarify any recent changes, expansions, or exclusions (such as plants with undisclosed capacity).",
+      "unanswerable_if": "If the register does not contain capacity figures for operating ethylene plants in Southeast Asia, or if all relevant plants have undisclosed capacity and no aggregate is published in documents."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Aggregate regional capacity total from industry association bulletins",
+      "reason": "ASEAN Petrochemical Monitor explicitly states it does not publish aggregate regional capacity totals in its bulletins."
+    }
+  ]
+}

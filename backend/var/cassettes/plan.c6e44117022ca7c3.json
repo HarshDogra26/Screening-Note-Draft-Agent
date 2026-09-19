@@ -1,0 +1,31 @@
+{
+  "brief": "Compare the Malaysian, Thai and Indian groups over the first half of 2026",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "competitor_comparison-1h2026",
+      "kind": "competitor_comparison",
+      "title": "Competitor Comparison: 1H 2026",
+      "questions": [
+        "How did PETRONAS (Malaysia), GC (Thailand), and RIL (India) perform financially and operationally in the first half of 2026?",
+        "What are the key differences in revenue, profit, and other headline metrics among the three groups for 1H 2026?",
+        "Are there notable trends or events affecting their comparative performance in this period?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "search_part_b_filings is needed to extract and compare the relevant financial and operational data for 1H 2026 from each group's filings.",
+      "unanswerable_if": "If any of the three groups (PETRONAS, GC, RIL) do not have filings covering the first half of 2026, or if the filings lack sufficient detail for comparison."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Comparison of PETRONAS Chemicals Group (PCG) specifically",
+      "reason": "The corpus contains only PETRONAS Group filings, not those of the listed chemicals subsidiary PCG."
+    },
+    {
+      "topic": "Full-year 2026 data",
+      "reason": "Filings for the full year 2026 are not present; only 1H 2026 is available for PETRONAS, and the latest for GC and RIL may not extend into 2H 2026."
+    }
+  ]
+}

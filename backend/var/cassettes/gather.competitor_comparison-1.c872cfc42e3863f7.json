@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "query": "financial and operational performance Q1 FY2026-27",
+      "k": 5
+    },
+    "why": "RIL's fiscal year ends March 31, so 1H 2026 spans Q1 and Q2 of FY2026-27. The annual report covers up to March 2026, but to compare 1H 2026, I need Q1 FY2026-27 (April-June 2026) performance. There is a media release for Q1 FY2026-27 in the corpus; searching for this will provide relevant evidence."
+  },
+  "reason": "To ensure comparability for 1H 2026, I need RIL's Q1 FY2026-27 results (April-June 2026), which are likely in the media release. This will complete the evidence for the Indian group."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Propylene",
+      "region": "Southeast Asia",
+      "compute": "none"
+    },
+    "why": "To retrieve the monthly price movement for Southeast Asia propylene since January 2024, and check for gaps or changes in the price assessment basis."
+  },
+  "reason": "The section requires evidence of monthly price movement and assessment continuity for Southeast Asia propylene since 2024. The price series inventory confirms two relevant series: spot (2024-01 to 2025-12) and contract (2026-01 to 2026-08). Querying these will provide the needed data and reveal any gaps or changes."
+}

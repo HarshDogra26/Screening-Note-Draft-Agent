@@ -1,0 +1,273 @@
+{
+  "claims": [
+    {
+      "text": "Polypropylene (PP) spot prices in Southeast Asia CFR ranged from 998 USD/tonne (May 2024) to 1102 USD/tonne (May 2026) between January 2024 and August 2026, with a mean of 1046.83 USD/tonne over 30 confirmed months.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2024-05",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PP spot price assessments were published for all months from January 2024 to June 2026; values for July and August 2026 are not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-07",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "High-density polyethylene (HDPE) spot prices in Southeast Asia CFR ranged from 886 USD/tonne (June 2026) to 1015 USD/tonne (January 2024), with a mean of 937.6 USD/tonne over 30 months with published assessments.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "HDPE spot price assessments are missing for January and February 2026; these months are not interpolated and do not indicate zero or unchanged prices.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "PP prices were consistently higher than HDPE prices throughout the period, with the spread (HDPE minus PP) ranging from +1 USD/tonne (January 2024) to -211 USD/tonne (June 2026).",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The spread between HDPE and PP widened over the period, moving from near parity in early 2024 to a maximum negative spread of -211 USD/tonne in June 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Both PP and HDPE price series show periods of volatility, with PP peaking at 1102 USD/tonne in May 2026 and HDPE dropping to 886 USD/tonne in June 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "No assessment was published for HDPE in January and February 2026, and PP values for July and August 2026 are not publicly confirmed, creating gaps in the series.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-07",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Monitor commentary notes that Southeast Asian olefin spot assessments, including feedstocks, were volatile through the first half of 2026, with an April peak attributed to supply outages and firming naphtha feedstock costs.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Southeast Asian ethylene spot assessments were volatile through the first half of 2026. The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March. Assessments eased through May and June as both units returned. Feedstock costs contributed. Asian naphtha firmed steadily across the period on Northeast Asian refinery maintenance, compressing cracker margins even where olefin prices rose."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Berth congestion at Southeast Asian container terminals in October and November 2025 led to firmer regional polyethylene and polypropylene offers as prompt cargoes tightened.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "027_port_congestion_note_2025-11-20.md",
+          "quote": "Berth congestion at several Southeast Asian container terminals lengthened waiting times for polymer export cargoes through October and November, with delays of up to eleven days reported at peak. Resin shipments were among the affected categories. Regional polyethylene and polypropylene offers firmed over the period as available prompt cargoes tightened."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "PP price assessment for July and August 2026",
+      "reason": "not_publicly_confirmed",
+      "detail": "Assessment rows exist but values are not publicly confirmed for 2026-07 and 2026-08.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-07",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ]
+    },
+    {
+      "subject": "HDPE price assessment for January and February 2026",
+      "reason": "no_assessment",
+      "detail": "No assessment published for 2026-01 and 2026-02. These months are not interpolated.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Monthly price assessments for PP and HDPE in Southeast Asia CFR are available for most months from January 2024 to August 2026, with gaps for HDPE in January and February 2026 and unconfirmed PP values for July and August 2026. Price series are comparable with caveats noted for missing and unconfirmed months."
+}

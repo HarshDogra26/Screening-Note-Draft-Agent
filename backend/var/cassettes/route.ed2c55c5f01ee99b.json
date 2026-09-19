@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about total operating ethylene capacity in Southeast Asia, which is a regional aggregate. The synthetic dataset (PART_A) contains a register of 52 petrochemical plants, including their capacities and process routes, and covers companies operating in Southeast Asia. However, the dataset does not provide regional or industry-wide totals beyond the companies and plants it lists. Since the brief does not name any specific company or plant, and only requests a regional total, it is out of scope because the corpus does not contain comprehensive regional capacity data.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The corpus does not contain regional or industry-wide capacity totals; it only covers individual plant and company data.",
+  "requires_both_domains": false
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Map Ta Phut PP Line 3 project status",
+      "company": "Andaman Polymer Group"
+    },
+    "why": "The section asks about the current status and recent updates for Andaman Polymer Group’s third polypropylene line at Map Ta Phut. Company press releases are likely to contain operational events, milestones, or delays. Searching documents for relevant project status information is the most direct way to answer these questions."
+  },
+  "reason": "The questions require causation and project event evidence, which is only available in Part A documents. This search will identify if any documents discuss the status or recent updates for Map Ta Phut PP Line 3."
+}

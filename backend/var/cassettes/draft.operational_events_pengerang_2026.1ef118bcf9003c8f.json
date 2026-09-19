@@ -1,0 +1,69 @@
+{
+  "claims": [
+    {
+      "text": "In May 2026, PETRONAS and its wholly-owned subsidiary PETRONAS Refinery and Petrochemical Corporation Sdn. Bhd. (PRPC) signed a Share Purchase Agreement with Aramco Overseas Company B.V. (AOC) for PRPC to acquire AOC’s 50% equity stake in Pengerang Refining Company Sdn. Bhd. (PRC) and Pengerang Petrochemical Company Sdn. Bhd. (PPC), collectively known as PRefChem.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The completion of the share transfer is subject to customary closing conditions and is expected to occur during the second half of 2026, after which PRefChem will become wholly-owned subsidiaries of PETRONAS Group.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Company filings state that the transaction is intended to enhance operational alignment and flexibility across PRefChem’s value chain, allowing PETRONAS to leverage its international supply network and integrated operating model to support reliability across varying market conditions.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Crude supply arrangements between Saudi Arabian Oil Company (Aramco) and PETRONAS under existing commercial agreements remain unaffected by the transaction.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Shutdowns, incidents, restarts, or major maintenance activities at Pengerang in 2026",
+      "reason": "not_disclosed",
+      "detail": "No company filings or reports in the evidence explicitly mention any shutdowns, incidents, restarts, or major maintenance activities at the Pengerang facility during 2026.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "The only operational event at Pengerang in 2026 described in the evidence is the PETRONAS acquisition of Aramco's stake in PRefChem. No evidence was found for shutdowns, incidents, restarts, or major maintenance activities at the facility during 2026."
+}

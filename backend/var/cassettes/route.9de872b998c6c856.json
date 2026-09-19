@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about total operating ethylene capacity in Southeast Asia. The synthetic world (PART_A) contains plant-level data, including capacity and process routes, for petrochemical plants in Southeast Asia. However, the corpus does not contain regional totals, only individual plant data. The brief is answerable only if it refers to the sum of capacities from the plants in PART_A, not a broader industry-wide or global total.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

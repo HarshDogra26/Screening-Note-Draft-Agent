@@ -1,0 +1,22 @@
+{
+  "brief": "Schedule for Andaman Polymer Group's third polypropylene line at Map Ta Phut",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "andaman-pp3-schedule",
+      "kind": "capacity_changes",
+      "title": "Schedule for Andaman Polymer Group's Third Polypropylene Line at Map Ta Phut",
+      "questions": [
+        "What is the current schedule for the third polypropylene (PP) line at Map Ta Phut operated by Andaman Polymer Group?",
+        "Have there been any recent updates, delays, or changes to the timeline for this project?",
+        "What is the most recent public information on the expected startup or commissioning date?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Searching the documents is necessary to find company press releases or industry bulletins that provide the latest updates, FID announcements, and any reported delays or changes to the project schedule.",
+      "unanswerable_if": "No documents in the corpus mention Andaman Polymer Group's third PP line at Map Ta Phut or provide schedule updates."
+    }
+  ],
+  "excluded": []
+}

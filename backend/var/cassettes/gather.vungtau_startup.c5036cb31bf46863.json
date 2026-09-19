@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Vung Tau cracker startup schedule",
+      "k": 5
+    },
+    "why": "The section asks for the latest disclosed startup schedule and any recent changes for the Vung Tau cracker. Searching for documents discussing its startup schedule is the most direct way to find causation and timing evidence."
+  },
+  "reason": "The question is about disclosed startup timing and changes, which are only answered by documents. This search will identify relevant disclosures."
+}

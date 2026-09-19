@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Straits Advanced Materials cracker",
+      "k": 5
+    },
+    "why": "To directly check for any recent operational events, expansions, turnarounds, or strategic developments related to Straits Advanced Materials' cracker operations, as well as relevant press releases or bulletins mentioning their cracker activities."
+  },
+  "reason": "The section requires evidence of recent operational events or strategic developments for Straits Advanced Materials' cracker operations. Searching documents for mentions of 'Straits Advanced Materials cracker' is the most direct way to find relevant causation or event information."
+}

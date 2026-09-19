@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about historical price movements of propylene in Southeast Asia since 2024. This falls under the synthetic world dataset (PART_A), which includes monthly price assessments for propylene. No real company financials or cross-domain information is required.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

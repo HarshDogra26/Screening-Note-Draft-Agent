@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Sungai Liang ethane cracker capacity expansion new build debottleneck turnaround delay FID milestone Brunei since 2025"
+    },
+    "why": "The plant register confirms the only ethane-based cracker in Southeast Asia is the Sungai Liang Cracker in Brunei, with capacity not publicly confirmed. To ensure no recent or announced capacity changes, delays, or milestones for this unit have been reported since 2025, a targeted document search is needed."
+  },
+  "reason": "A targeted search for capacity changes and project milestones at the Sungai Liang ethane cracker in Brunei will confirm whether any relevant events have occurred or been announced since 2025, addressing the section's questions."
+}

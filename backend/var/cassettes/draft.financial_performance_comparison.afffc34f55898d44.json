@@ -1,0 +1,251 @@
+{
+  "claims": [
+    {
+      "text": "GC reported sales revenue of THB 484,907 million for the year ended 31 December 2025, a decline of 20% from the previous year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 66,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC recorded Adjusted EBITDA of THB 20,846 million for the year ended 31 December 2025, down 34% from the prior year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 66,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC reported a net loss of THB 14,600 million for the year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 63,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's reporting currency is Thai Baht (THB), with figures presented in millions, and its fiscal year ends on 31 December.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 11,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reported revenue of MYR 266,135 million for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group recorded EBITDA of MYR 103,000 million for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group reported profit after tax (PAT) of MYR 45,390 million for the financial year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group's reporting currency is Malaysian Ringgit (MYR), with figures presented in millions, and its fiscal year ends on 31 December.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Reliance Industries Limited (RIL) reported consolidated revenue of INR 11,75,919 crore for the year ended 31 March 2026, up 9.8% year-on-year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 5,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL recorded consolidated EBITDA of INR 2,07,911 crore for the year ended 31 March 2026, up 13.4% year-on-year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 5,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL reported consolidated profit after tax (PAT) of INR 95,754 crore for the year ended 31 March 2026, up 17.8% year-on-year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 5,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's reporting currency is Indian Rupee (INR), with figures presented in crore, and its fiscal year ends on 31 March.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 5,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "For the quarter ended 31 March 2026 (Q4 FY26), RIL reported gross revenue of INR 3,25,290 crore and EBITDA of INR 48,588 crore.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "24042026_Media_Release_RIL_Q4_FY2025-26_Financial_and_Operational_Performance.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "For the quarter ended 30 June 2026 (Q1 FY27), RIL reported gross revenue of INR 3,40,257 crore and EBITDA of INR 54,067 crore.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC describes its outlook as impacted by lower sales revenue in upstream business due to declining prices and reduced volumes, but notes improvement in performance chemicals and cost control measures.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 66,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group attributes its lower revenue and earnings in FY2025 to lower average realised prices, foreign exchange impact, and lower sales volume mainly from crude & condensates, and notes continued capital investment in upstream development activities.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 3,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL states its profitability for O2C business was driven by improved margin environment for transportation fuels, offsetting subdued downstream petrochemical deltas, and highlights strong performances in Digital Services and O2C segments as drivers of EBITDA growth.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 5,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "PETRONAS Chemicals Group (PCG) specific financial performance",
+      "reason": "not_disclosed",
+      "detail": "No evidence was retrieved for PCG's standalone revenue, earnings, or EBITDA for the most recent full financial year or quarter. All available figures are for PETRONAS Group as a whole, not PCG.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "PETRONAS Chemicals Group (PCG) standalone financials are not covered; only PETRONAS Group consolidated figures are available. GC and RIL are covered with both full-year and recent quarterly results."
+}

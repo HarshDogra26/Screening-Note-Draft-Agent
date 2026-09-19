@@ -1,0 +1,23 @@
+{
+  "brief": "Naphtha to ethylene spread in Southeast Asia during the first half of 2026",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "feedstock-margin-1",
+      "kind": "feedstock_margin",
+      "title": "Naphtha to Ethylene Spread in Southeast Asia (H1 2026)",
+      "questions": [
+        "What was the monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in the first half of 2026?",
+        "How did this spread evolve month by month from January to June 2026?",
+        "Are there any notable events or commentary in the documents that help explain movements in the spread during this period?"
+      ],
+      "intended_tools": [
+        "query_price_series",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The price series provide the monthly naphtha and ethylene spot prices needed to calculate the spread and its evolution; documents may offer context or explanations for significant changes in the spread.",
+      "unanswerable_if": "If either the naphtha (Asia CFR spot) or ethylene (Southeast Asia CFR spot) price series is missing data for any month in H1 2026, or if no documents discuss relevant market events or commentary for this period."
+    }
+  ],
+  "excluded": []
+}

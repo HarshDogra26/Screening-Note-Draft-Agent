@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "operational events affecting polypropylene or HDPE production in Southeast Asia during 2025-2026",
+      "k": 27
+    },
+    "why": "To identify documents describing major operational events (startups, shutdowns, expansions, force majeures) relevant to PP and HDPE production in Southeast Asia during 2025-2026, as required by the section questions."
+  },
+  "reason": "The section requires evidence of operational events and their links to price movements. Part A documents are the only source of causation, so searching them is the correct first step."
+}

@@ -1,0 +1,16 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Nusantara Olefins",
+      "product": "Ethylene",
+      "status": [
+        "Operating"
+      ],
+      "aggregate": false
+    },
+    "why": "Nusantara Olefins is the operator of the Cilegon crackers. Filtering by company, product, and status should return the relevant ethylene plant(s) and their capacity figures if publicly available."
+  },
+  "reason": "The previous call failed due to an invalid argument ('city'). The correct approach is to filter by company, product, and status, which matches the register's filterable columns and targets the operator of Cilegon Cracker 1."
+}

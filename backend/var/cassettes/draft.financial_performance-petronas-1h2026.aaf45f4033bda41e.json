@@ -1,0 +1,21 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "PETRONAS revenue for 1H 2026",
+      "reason": "not_extractable",
+      "detail": "No revenue figure for PETRONAS for the half year ended 30 June 2026 was found in the retrieved evidence. The search of the interim financial report did not return any results for 'revenue'.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": null,
+          "sheet": null,
+          "cell_range": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The search of the PETRONAS Interim Financial Report for 1H 2026 did not yield any revenue figures or relevant notes. No claims can be made for this section based on the available evidence."
+}

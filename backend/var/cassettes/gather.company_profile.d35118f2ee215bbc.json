@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The plant register query for Straits Advanced Materials returned zero results, indicating that the company does not appear as an operator of any cracker units in the register. As per the section's 'unanswerable if' condition, this is a valid finding: Straits Advanced Materials does not operate any cracker units according to the available plant register. No further evidence gathering is required for this section."
+}

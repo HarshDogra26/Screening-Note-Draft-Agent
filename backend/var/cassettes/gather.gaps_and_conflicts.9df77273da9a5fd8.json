@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "capacity not publicly confirmed OR data gap OR uncertainty OR limitation OR caveat OR Coral Bay Olefins OR Sungai Liang",
+      "k": 8
+    },
+    "why": "The register flags one plant (Sungai Liang Cracker, Coral Bay Olefins) with unconfirmed capacity. To answer the questions about explicit limitations, data gaps, and uncertainties, I need to check the documents for any mention of these issues, especially regarding this plant or general regional capacity coverage."
+  },
+  "reason": "The register alone identifies one unconfirmed capacity, but the section also asks about explicit limitations and broader data gaps. Documents may provide further context or caveats."
+}

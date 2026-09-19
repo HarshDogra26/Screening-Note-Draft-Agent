@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "text": "There is no public evidence confirming that Straits Advanced Materials operates any cracker assets.",
+      "citations": [],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Straits Advanced Materials cracker asset details",
+      "reason": "not_publicly_confirmed",
+      "detail": "No cracker assets operated by Straits Advanced Materials are listed in the available plant register evidence.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "The plant register query returned no entries for Straits Advanced Materials, so there is no public confirmation of any cracker operations or asset characteristics."
+}

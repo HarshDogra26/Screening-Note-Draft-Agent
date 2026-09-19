@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "PETRONAS Chemicals Group",
+      "company": "PETRONAS"
+    },
+    "why": "To check if any PETRONAS Group filings mention PETRONAS Chemicals Group and provide subsidiary-level details relevant to the company profile section."
+  },
+  "reason": "The section asks about subsidiary-level information for PETRONAS Chemicals Group. The corpus description states there are no direct PCG filings, but PETRONAS Group filings may mention PCG. Searching for mentions of PETRONAS Chemicals Group in PETRONAS filings is necessary to determine if any relevant information exists."
+}

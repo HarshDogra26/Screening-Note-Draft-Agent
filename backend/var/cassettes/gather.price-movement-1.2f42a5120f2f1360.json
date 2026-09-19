@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The monthly spot price series for Southeast Asian ethylene from March 2025 to August 2026 is complete, with no missing months. This evidence directly answers both questions: it shows how prices moved (with all monthly values) and allows identification of key inflection points and trends (e.g., notable rises in September 2025 and April 2026). No further evidence is needed for this section."
+}

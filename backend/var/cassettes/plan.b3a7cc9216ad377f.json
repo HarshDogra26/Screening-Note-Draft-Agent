@@ -1,0 +1,22 @@
+{
+  "brief": "Summarise Reliance Industries' performance in Q1 FY2026-27",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "ril-q1-fy2026-27-summary",
+      "kind": "financial_performance",
+      "title": "Reliance Industries Financial Performance: Q1 FY2026-27",
+      "questions": [
+        "What were Reliance Industries' key financial results for Q1 FY2026-27?",
+        "What were the main drivers or explanations for performance in this quarter?",
+        "Were there any notable trends or changes compared to previous quarters?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "The Q1 FY2026-27 performance is only available in the RIL Q1 FY2026-27 media release and possibly the annual report; searching filings is necessary to extract the relevant figures and management commentary.",
+      "unanswerable_if": "No RIL filing covers Q1 FY2026-27."
+    }
+  ],
+  "excluded": []
+}

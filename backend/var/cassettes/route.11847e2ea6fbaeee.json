@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Straits Advanced Materials is not named in the real company filings (PART_B), and the brief requests a screening note on cracker operations, which relates to plant operations, capacity, or process routes. This falls under the synthetic world (PART_A), which covers such topics for its register of petrochemical plants and companies.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "Straits Advanced Materials is not present in the synthetic register or the real company filings, so no information is available on this entity in either dataset.",
+  "requires_both_domains": false
+}

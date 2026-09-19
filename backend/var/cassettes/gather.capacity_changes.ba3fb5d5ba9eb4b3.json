@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The search of Part A documents has returned direct evidence addressing both questions: major ethylene capacity changes and operational events in Southeast Asia since late 2025. The results include: (1) a completed expansion at Nusantara Olefins' Cilegon cracker in March 2026, (2) a force majeure and extended turnaround at Selat Kimia Berhad's Pengerang complex in April 2026, and (3) commentary from the ASEAN Petrochemical Monitor confirming these outages as the principal supply events affecting the region in H1 2026. No other significant expansions, debottleneckings, or force majeures are reported for ethylene in this period. The evidence is sufficient and directly answers the section's questions; further tool calls are unnecessary."
+}

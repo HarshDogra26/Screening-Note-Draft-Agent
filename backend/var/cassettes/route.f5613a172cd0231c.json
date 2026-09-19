@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information about the naphtha to ethylene spread in Southeast Asia, which relates to price movements and process routes for petrochemical products; these are covered in the synthetic world dataset (PART_A).",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

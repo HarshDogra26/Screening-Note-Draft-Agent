@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "Both questions for the section are fully answered by the evidence gathered. The monthly price movement for Southeast Asia propylene since January 2024 is covered by two series: the spot series (Jan 2024–Dec 2025) and the contract series (Jan 2026–Aug 2026). There are no gaps in either series, and each basis is assessed continuously for its respective period. The change in assessment basis (from spot to contract) occurs at the turn of 2026, and values on different bases are not directly comparable, as noted in the corpus. No further tool calls are needed."
+}

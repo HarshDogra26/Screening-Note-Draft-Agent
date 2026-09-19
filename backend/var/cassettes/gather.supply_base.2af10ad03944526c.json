@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers all section questions. The plant register provides a list of all currently operating and under-construction ethylene plants in Southeast Asia, with capacities and company details, identifying main contributors and current capacity. Recent changes or expansions are covered by Part A documents: the March 2026 expansion of Cilegon Cracker 1 (Nusantara Olefins), the April 2026 force majeure and extended turnaround at Pengerang (Selat Kimia Berhad), and confirmation that the Map Ta Phut turnaround (Andaman Polymer Group) did not change capacity. No other recent expansions or new startups are reported since late 2025. The register notes that Coral Bay Olefins' Sungai Liang Cracker capacity is not publicly confirmed, which is a valid limitation. All questions are addressed with available evidence."
+}

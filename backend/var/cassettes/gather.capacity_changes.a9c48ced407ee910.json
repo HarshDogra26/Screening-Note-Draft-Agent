@@ -1,0 +1,16 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene",
+      "status": [
+        "Operating",
+        "Under construction"
+      ]
+    },
+    "why": "To cross-check and confirm the current ethylene capacity base and identify any new, expanded, or under-construction units in Southeast Asia, supplementing the document findings with register data."
+  },
+  "reason": "Documents provide narrative evidence of expansions, debottleneckings, and operational events, but the plant register can confirm the current capacity base and highlight any new or under-construction ethylene units, addressing the section's questions more comprehensively."
+}

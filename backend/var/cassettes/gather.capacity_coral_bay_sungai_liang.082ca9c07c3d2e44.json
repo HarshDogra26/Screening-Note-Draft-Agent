@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Sungai Liang capacity",
+      "company": "Coral Bay Olefins",
+      "k": 5
+    },
+    "why": "The plant register confirms the Sungai Liang cracker is operating but does not publicly confirm its capacity. Searching Part A documents for any mention of 'Sungai Liang capacity' from Coral Bay Olefins may reveal a press release or industry bulletin with a disclosed or estimated figure, or confirm that no such disclosure exists."
+  },
+  "reason": "The register alone does not answer whether any public confirmation or estimate exists. Part A documents may contain a relevant disclosure or statement."
+}

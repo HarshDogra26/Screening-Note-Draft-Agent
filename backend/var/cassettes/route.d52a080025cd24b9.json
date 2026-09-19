@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests operational events at Pengerang during 2026, which is a plant named in the synthetic register (PART_A). The period requested (2026) is within the historical coverage for both price assessments and documents, so the brief is answerable using PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

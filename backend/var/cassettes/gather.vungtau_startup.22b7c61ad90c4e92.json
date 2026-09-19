@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Vung Tau cracker startup schedule",
+      "k": 5
+    },
+    "why": "The section asks for the latest disclosed startup schedule and any recent changes for the Vung Tau cracker. Searching documents for 'Vung Tau cracker startup schedule' will directly target relevant disclosures."
+  },
+  "reason": "The question is about disclosed startup timing and changes, which are only answered by causation documents. The corpus contains two Mekong Chemical Industries press releases mentioning Vung Tau in their titles, so searching for startup schedule is the most direct approach."
+}

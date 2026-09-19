@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Sungai Liang Cracker capacity"
+    },
+    "why": "The register shows that the capacity of the Sungai Liang Cracker (Coral Bay Olefins) is not publicly confirmed. To answer the section's requirement for total operating capacity, I need to check if any Part A document provides a publicly confirmed figure for this plant."
+  },
+  "reason": "The total operating ethylene capacity in Southeast Asia cannot be fully answered unless the capacity of the Sungai Liang Cracker is confirmed. Searching documents for this missing figure is necessary before concluding."
+}

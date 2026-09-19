@@ -1,0 +1,151 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins operates the Cilegon Cracker 1 in Cilegon, Indonesia, with a publicly stated ethylene capacity of 1,200 kta, using steam cracking of naphtha, and the plant is operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals operates two ethylene crackers on Jurong Island, Singapore: Jurong Cracker 1 (mixed feed, 850 kta, operating since 2012) and Jurong Cracker 2 (naphtha, 600 kta, operating since 2021), both currently operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals states its combined ethylene capacity at Jurong Island is 1,450 kta, which the company describes as the largest single-operator ethylene position in Southeast Asia.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "003_meridian_jurong_utilisation_2026-02-19.md",
+          "quote": "Meridian states that its combined ethylene capacity across the two units is 1,450 kta, which the company describes as the largest single-operator ethylene position in Southeast Asia."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad operates the Pengerang Cracker in Malaysia, with a publicly stated ethylene capacity of 1,000 kta, using steam cracking of naphtha, and the plant is operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group operates the Map Ta Phut Cracker in Thailand, with a publicly stated ethylene capacity of 900 kta, using steam cracking of mixed feed, and the plant is operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Mekong Chemical Industries is constructing the Vung Tau Cracker in Vietnam, with a publicly stated ethylene capacity of 750 kta, using steam cracking of naphtha, and the plant is under construction with startup scheduled for 2028.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Luzon Resins Corporation operates the Batangas Cracker in the Philippines, with a publicly stated ethylene capacity of 320 kta, using steam cracking of naphtha, and the plant is operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Coral Bay Olefins operates the Sungai Liang Cracker in Brunei, using steam cracking of ethane, and the plant is operating, but the company does not disclose nameplate ethylene capacity.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        },
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Java Timur Petrochemical operates the Gresik Cracker in Indonesia, with a publicly stated ethylene capacity of 500 kta, using steam cracking of naphtha, and the plant is operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Naphtha is the dominant feedstock for ethylene production in Southeast Asia, except in Brunei where ethane is used.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "Naphtha remains the dominant feedstock across the region, with the exception of Brunei, where ethane is used."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Aggregate ethylene production capacity in Southeast Asia",
+      "reason": "not_disclosed",
+      "detail": "The ASEAN Petrochemical Monitor does not publish aggregate regional capacity totals in its bulletins; only individual plant figures are available.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin."
+        }
+      ]
+    },
+    {
+      "subject": "Coral Bay Olefins Sungai Liang Cracker ethylene capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "Coral Bay Olefins does not disclose the nameplate capacity for its Sungai Liang ethane cracker in Brunei.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "All plant-level capacity figures are drawn from the plant register and company disclosures. Aggregate regional capacity is not published in industry bulletins. Coral Bay Olefins' Sungai Liang Cracker capacity is not publicly confirmed."
+}

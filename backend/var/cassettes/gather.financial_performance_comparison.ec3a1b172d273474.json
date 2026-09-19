@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "doc_type": "interim_report",
+      "query": "revenue earnings EBITDA quarter"
+    },
+    "why": "To obtain Reliance's most recent quarterly financial results, including revenue, earnings, and EBITDA, from its interim report. This will allow comparison of the latest quarter for RIL alongside the full-year figures already gathered."
+  },
+  "reason": "We have full-year figures for RIL from the annual report, but need the most recent quarterly results for comparison. The interim report is likely to contain these."
+}

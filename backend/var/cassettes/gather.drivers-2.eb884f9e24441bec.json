@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered from Part A documents fully addresses the section's questions. Multiple documents from the past eighteen months discuss operational, supply, and demand events relevant to ethylene in Southeast Asia. These include: (1) the Nusantara Olefins Cilegon cracker expansion and associated outage, (2) Selat Kimia's force majeure and extended turnaround at Pengerang, (3) commentary from the ASEAN Petrochemical Monitor attributing price volatility to these outages and feedstock cost increases, (4) a summary of stable operations at Luzon Resins, and (5) a government note on port congestion affecting polymer shipments. Feedstock developments (naphtha firming) and structural context (dominance of naphtha, regional capacity concentration) are also covered. No further tool calls are needed; the available evidence is sufficient to answer both questions in the section."
+}

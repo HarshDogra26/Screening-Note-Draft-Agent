@@ -1,0 +1,57 @@
+{
+  "claims": [
+    {
+      "text": "Coral Bay Olefins operates the Sungai Liang Cracker in Sungai Liang, Brunei, using steam cracking of ethane to produce ethylene.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The plant register entry for the Sungai Liang Cracker lists its capacity status as 'not publicly confirmed' and does not provide a nameplate or design capacity figure.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_status"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "A company press release from Coral Bay Olefins states that it does not disclose the nameplate capacity for the Sungai Liang cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Nameplate or design capacity of Sungai Liang cracker",
+      "reason": "not_publicly_confirmed",
+      "detail": "Neither the plant register nor company statements provide a capacity figure or indirect estimate for the Sungai Liang cracker. The company explicitly states it does not disclose this information.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_status"
+        },
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Evidence is limited to the plant register and a company press release, both of which confirm that the capacity of the Sungai Liang cracker is not publicly disclosed. No indirect estimates or commentary on its scale are present in the corpus."
+}

@@ -1,0 +1,48 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Polypropylene (PP) price trend in Southeast Asia (Jan 2024 - Aug 2026)",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for polypropylene (PP) in Southeast Asia for the period January 2024 to August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ]
+    },
+    {
+      "subject": "High-density polyethylene (HDPE) price trend in Southeast Asia (Jan 2024 - Aug 2026)",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for high-density polyethylene (HDPE) in Southeast Asia for the period January 2024 to August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "No price data or assessments are available for PP or HDPE in Southeast Asia for the period January 2024 to August 2026. No documented explanations for price movements can be provided due to lack of evidence."
+}

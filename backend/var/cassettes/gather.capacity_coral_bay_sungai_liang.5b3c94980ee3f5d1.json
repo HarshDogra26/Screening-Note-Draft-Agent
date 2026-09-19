@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Coral Bay Olefins",
+      "plant_ids": [
+        "PL-008"
+      ]
+    },
+    "why": "The register entry notes that Coral Bay Olefins operates the Sungai Liang cracker, but its capacity is 'not publicly confirmed.' Querying the plant register directly for this plant will confirm whether any capacity figure or estimate is available, or if the register explicitly states it is undisclosed."
+  },
+  "reason": "The register is the primary source for plant-level capacity disclosures or their absence. This will establish if the capacity is publicly confirmed or not."
+}

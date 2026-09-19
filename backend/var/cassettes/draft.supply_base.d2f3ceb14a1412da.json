@@ -1,0 +1,239 @@
+{
+  "claims": [
+    {
+      "text": "The current Southeast Asia ethylene supply base consists of nine operating and under-construction plants, as listed in the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The main contributors to regional supply are Nusantara Olefins (Cilegon Cracker 1, Indonesia, 1,200 kta), Meridian Petrochemicals (Jurong Cracker 1, Singapore, 850 kta; Jurong Cracker 2, Singapore, 600 kta), Selat Kimia Berhad (Pengerang Cracker, Malaysia, 1,000 kta), Andaman Polymer Group (Map Ta Phut Cracker, Thailand, 900 kta), Mekong Chemical Industries (Vung Tau Cracker, Vietnam, 750 kta, under construction), Luzon Resins Corporation (Batangas Cracker, Philippines, 320 kta), Coral Bay Olefins (Sungai Liang Cracker, Brunei, capacity not publicly confirmed), and Java Timur Petrochemical (Gresik Cracker, Indonesia, 500 kta).",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Singapore, Malaysia, Indonesia, and Thailand account for the large majority of regional ethylene output, according to the ASEAN Petrochemical Monitor.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "Singapore, Malaysia, Indonesia and Thailand accounting for the large majority of regional ethylene output."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Naphtha is the dominant feedstock for ethylene production in Southeast Asia, except in Brunei where ethane is used.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "Naphtha remains the dominant feedstock across the region, with the exception of Brunei, where ethane is used."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Cilegon Cracker 1 (Nusantara Olefins, Indonesia) underwent an expansion completed in March 2026, with the company describing the unit as having an ethylene capacity of 1,200 kta post-expansion.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Map Ta Phut Cracker (Andaman Polymer Group, Thailand) completed a scheduled turnaround in September 2025 with no change to capacity reported.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "020_andaman_turnaround_2025-09-11.md",
+          "quote": "The company reported no change to capacity and said all downstream units have resumed normal rates."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Pengerang Cracker (Selat Kimia Berhad, Malaysia) completed a scheduled turnaround in April 2026, extended by a force majeure declaration due to corrosion repairs; the company reported no change to nameplate capacity as a result of the turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "The company said it does not expect the work to affect nameplate capacity once complete."
+        },
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "The company reported no change to nameplate capacities as a result of the turnaround."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals plans to modify the feed system at Jurong Cracker 1 (Singapore) to allow a higher proportion of LPG, with engineering work scheduled for 2027; the company states this does not change the nameplate ethylene capacity.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "004_meridian_feed_flexibility_2026-08-07.md",
+          "quote": "The company said the modification is intended to improve margin resilience when naphtha cracking economics deteriorate, and that it does not change the nameplate ethylene capacity of the unit."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Vung Tau Cracker (Mekong Chemical Industries, Vietnam) is under construction with a planned capacity of 750 kta and has secured a multi-year naphtha supply agreement.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "document",
+          "filename": "021_mekong_feedstock_agreement_2026-03-20.md",
+          "quote": "Mekong Chemical Industries has signed a multi-year naphtha supply agreement covering feedstock for its Vung Tau cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The capacity of the Sungai Liang Cracker (Coral Bay Olefins, Brunei) is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Aggregate regional ethylene production capacity",
+      "reason": "not_disclosed",
+      "detail": "No aggregate regional capacity total is published in the available evidence. The ASEAN Petrochemical Monitor bulletin does not provide a total and advises consulting its capacity database for plant-level figures.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Plant-level capacity figures are available for most units, but aggregate regional capacity is not published in the evidence. The supply base is well-covered for main contributors and recent changes, with the exception of the Brunei unit's capacity, which is not publicly confirmed."
+}

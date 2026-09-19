@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "query": "revenue earnings EBITDA annual full year quarter"
+    },
+    "why": "To retrieve PETRONAS's most recent full financial year and latest quarterly results for revenue, earnings, and adjusted EBITDA, as well as reporting currency and fiscal year end, for comparison with GC."
+  },
+  "reason": "GC results have been retrieved. PETRONAS is the next company to compare, and its filings are available. The query will target both annual and quarterly results."
+}

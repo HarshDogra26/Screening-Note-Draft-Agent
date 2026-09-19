@@ -1,0 +1,163 @@
+{
+  "claims": [
+    {
+      "text": "The current publicly confirmed ethylene production capacity in Southeast Asia is the sum of the following operating plants: Cilegon Cracker 1 (1,200 kta), Jurong Cracker 1 (850 kta), Jurong Cracker 2 (600 kta), Pengerang Cracker (1,000 kta), Map Ta Phut Cracker (900 kta), Batangas Cracker (320 kta), and Gresik Cracker (500 kta).",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins (Cilegon Cracker 1), Meridian Petrochemicals (Jurong Cracker 1 and 2), Selat Kimia Berhad (Pengerang Cracker), Andaman Polymer Group (Map Ta Phut Cracker), Luzon Resins Corporation (Batangas Cracker), and Java Timur Petrochemical (Gresik Cracker) are the main contributors to regional ethylene supply, based on plant capacities and operating status.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "company"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "company"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Cilegon Cracker 1 operated by Nusantara Olefins underwent an expansion completed in March 2026, with the company describing the unit as having an ethylene capacity of 1,200 kta after the expansion.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Map Ta Phut Cracker operated by Andaman Polymer Group completed a scheduled turnaround in September 2025, with the company reporting no change to capacity.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "020_andaman_turnaround_2025-09-11.md",
+          "quote": "The company reported no change to capacity and said all downstream units have resumed normal rates."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Pengerang Cracker operated by Selat Kimia Berhad underwent a planned turnaround in April 2026, which was extended due to a force majeure declaration, but the company stated that the work does not affect nameplate capacity once complete.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "The company said it does not expect the work to affect nameplate capacity once complete."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Vung Tau Cracker in Vietnam, operated by Mekong Chemical Industries, is under construction with a publicly stated capacity of 750 kta and a startup year of 2028.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": "startup_year"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Sungai Liang Cracker in Brunei, operated by Coral Bay Olefins, is listed as operating since 2024, but its ethylene capacity is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All operating and under-construction plants with publicly confirmed capacities are included. The capacity for Sungai Liang Cracker is not publicly confirmed. Recent expansions and turnarounds are documented for Cilegon, Map Ta Phut, and Pengerang. No new startups or idled plants are reported since late 2025, apart from the Vung Tau project (startup 2028)."
+}

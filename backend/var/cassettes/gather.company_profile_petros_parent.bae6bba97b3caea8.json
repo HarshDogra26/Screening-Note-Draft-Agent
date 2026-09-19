@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS"
+    },
+    "why": "To identify any references to PETRONAS Chemicals Group (PCG) and to understand the legal entity and reporting structure of PETRONAS Group as represented in the available parent filings."
+  },
+  "reason": "The section requires evidence from PETRONAS Group filings regarding legal entity, reporting structure, and any mention of PCG. Searching the parent filings is the direct way to answer both questions."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": null,
+  "reasoning": "The brief explicitly asks for a comparison between a company from the synthetic world (Nusantara Olefins) and a real company (Reliance Industries), which is not permitted according to the routing rules.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "This brief requires information about both Nusantara Olefins (from the synthetic dataset) and Reliance Industries (from the real company filings), which cannot be combined in a single note.",
+  "requires_both_domains": true
+}

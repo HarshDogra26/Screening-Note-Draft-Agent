@@ -1,0 +1,15 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "product": "Ethylene",
+      "region": "Southeast Asia",
+      "status": [
+        "Operating"
+      ]
+    },
+    "why": "To identify the individual operating ethylene plants in Southeast Asia, their capacities, and any limitations or exclusions in the published figures, supplementing the aggregate with plant-level detail."
+  },
+  "reason": "The aggregate capacity is known, but the section also asks which plants contribute to this total and for any limitations or exclusions. Listing the individual plants and their capacities will answer this, and clarify the exclusion of the Coral Bay Olefins unit."
+}

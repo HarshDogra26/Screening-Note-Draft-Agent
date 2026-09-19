@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for a comparison between Southeast Asian ethylene capacity (which can be totaled from the synthetic register in PART_A) and global capacity. However, global capacity figures are not present in either dataset, making the comparison unanswerable.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "Global ethylene capacity is not available in the datasets, so the comparison cannot be made.",
+  "requires_both_domains": false
+}

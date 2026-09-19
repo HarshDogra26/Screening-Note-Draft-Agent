@@ -1,0 +1,40 @@
+{
+  "brief": "How has Southeast Asia propylene moved since 2024?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "price_movement_sea_propylene",
+      "kind": "price_movement",
+      "title": "Southeast Asia Propylene Price Movement Since 2024",
+      "questions": [
+        "What has been the monthly price movement for Southeast Asia propylene since January 2024?",
+        "Are there any gaps or changes in the price assessment basis over this period?"
+      ],
+      "intended_tools": [
+        "query_price_series"
+      ],
+      "tool_rationale": "The price series for 'Propylene|Southeast Asia CFR|Spot' (2024-01 to 2025-12) and 'Propylene|Southeast Asia CFR|Contract' (2026-01 to 2026-08) provide the direct evidence for price movement; both are needed to cover the full period since 2024.",
+      "unanswerable_if": "If both the spot and contract price series for Southeast Asia propylene are missing or do not cover the period since 2024, this section cannot be answered."
+    },
+    {
+      "id": "gaps_and_conflicts_propylene",
+      "kind": "gaps_and_conflicts",
+      "title": "Gaps and Changes in Southeast Asia Propylene Price Series",
+      "questions": [
+        "Are there any gaps, discontinuities, or changes in the available Southeast Asia propylene price series since 2024?",
+        "Is there a change in the assessment basis (e.g., from spot to contract) and when does it occur?"
+      ],
+      "intended_tools": [
+        "describe_corpus"
+      ],
+      "tool_rationale": "Describing the corpus is necessary to identify the coverage, gaps, and any changes in the price series for Southeast Asia propylene.",
+      "unanswerable_if": "If there is no price series for Southeast Asia propylene in the corpus, this section cannot be answered."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Price forecast or outlook for Southeast Asia propylene",
+      "reason": "The corpus and price commentary explicitly state that forecasts or forward expectations are not published or available."
+    }
+  ]
+}

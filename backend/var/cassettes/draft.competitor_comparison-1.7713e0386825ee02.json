@@ -1,0 +1,361 @@
+{
+  "claims": [
+    {
+      "text": "PETRONAS reported revenue of RM68.1 billion for the first half of 2026, an increase of RM8.1 billion or 14% compared to the same period in 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS reported profit after tax (PAT) of RM16.7 billion for the first half of 2026, up RM6.3 billion from RM10.4 billion in 1H 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS reported capital investments of RM5.4 billion for the first half of 2026, comparable to RM5.4 billion in 1H 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS reported Malaysia average sales gas volume of 3,111 mmscfd and gross LNG sales volume of 20.29 million tonnes for 1H 2026, both higher than the prior year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS reports in Malaysian Ringgit (MYR), with fiscal year ending 31 December, and uses millions as units.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PTT Global Chemical (GC) reports in Thai Baht (THB), with fiscal year ending 31 December, and uses millions as units.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 52,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC uses adjusted EBITDA as a key measure, defined as EBITDA excluding stock gain/(loss), NRV, gain/(loss) from commodity hedging, and extra items.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 52,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's Upstream Business reported an adjusted EBITDA of THB 7,398 million in 2025, with an adjusted EBITDA margin of 3%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 64,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's petroleum and petrochemical product sales volumes in 2025 were 58.2 million barrels and 4.9 million tons, respectively, affected by planned maintenance shutdowns.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 64,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's performance in 2025 was impacted by planned maintenance shutdowns in Olefins Plant 2/1, Refinery, and Aromatics 2, and by declining crude oil prices and product spreads.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 64,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Reliance Industries Limited (RIL) reports in Indian Rupees (INR), with fiscal year ending 31 March, and uses crore as units.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 26,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's retail business registered gross revenue of ₹90,408 crore for the quarter ended 30 June 2026, up 7.4% year-on-year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's retail EBITDA from operations was ₹5,935 crore for the quarter ended 30 June 2026, down 1.8% year-on-year, with an EBITDA margin from operations of 7.4%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's retail EBITDA was ₹6,309 crore for the quarter ended 30 June 2026, down 1.1% year-on-year, with an EBITDA margin of 7.9%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's retail margin moderation of 80 basis points in 1Q FY27 reflects growing contribution of Digital Commerce and associated infrastructure investments increasing fixed cost.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's JioStar business reported revenue from operations of ₹10,946 crore in 1Q FY27, up 14% year-on-year, and EBITDA from operations of ₹933 crore, up 30.7% year-on-year, with an EBITDA margin of 9.6%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 18,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's Oil to Chemicals (O2C) segment revenue increased by 30.4% year-on-year in 1Q FY27, driven by sharp increase in crude prices partially offset by lower production meant for sale.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's Oil and Gas segment revenue increased by 3.2% year-on-year in 1Q FY27, aided by higher realization on KG D6 oil/condensate and favourable exchange rate movement.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL's capital expenditure for the quarter ended 30 June 2026 was ₹38,682 crore, with continued progress on projects in O2C and New Energy business, and investment in consumer business infrastructure.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There are differences in reporting currency and fiscal year among the groups: PETRONAS reports in MYR with fiscal year ending 31 December, GC in THB with fiscal year ending 31 December, and RIL in INR with fiscal year ending 31 March.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 4,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 52,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 26,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC's reporting for 1H 2026 is not available; the latest available figures are for the year ended 31 December 2025.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 64,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "RIL's reporting for 1H 2026 is available only for the quarter ended 30 June 2026; no half-year consolidated figures are provided in the evidence.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "GC financial and operational performance for 1H 2026",
+      "reason": "not_publicly_confirmed",
+      "detail": "No interim or half-year figures for 2026 are available; only full-year 2025 data is reported.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 64,
+          "sheet": null,
+          "cell_range": null
+        }
+      ]
+    },
+    {
+      "subject": "RIL consolidated financial and operational performance for 1H 2026",
+      "reason": "not_publicly_confirmed",
+      "detail": "Only quarterly figures for Q1 FY27 (ended 30 June 2026) are available; no half-year summary is reported in the evidence.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 8,
+          "sheet": null,
+          "cell_range": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "PETRONAS provides full half-year figures for 1H 2026. GC only reports full-year 2025 data; no 1H 2026 interim results are available. RIL provides quarterly figures for Q1 FY27 (ended 30 June 2026), but no consolidated half-year summary. Comparability is limited by differences in reporting currency, fiscal year, and available periods."
+}

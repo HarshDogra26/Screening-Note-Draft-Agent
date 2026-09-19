@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "basis": "Contract",
+      "compute": "none",
+      "product": "Propylene",
+      "region": "Southeast Asia CFR"
+    },
+    "why": "The corpus inventory shows a 'Propylene|Southeast Asia CFR|Contract' series from Jan 2026 to Aug 2026. To fully answer the question about price movement since 2024, I need to check for price movement and gaps in the contract series as well, since the spot series ends in Dec 2025."
+  },
+  "reason": "The spot series covers Jan 2024 to Dec 2025, but the contract series covers Jan 2026 to Aug 2026. To provide a complete view of price movement since 2024, both series must be checked for continuity and gaps."
+}

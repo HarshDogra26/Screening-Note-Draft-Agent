@@ -1,0 +1,32 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": [
+        "PETRONAS",
+        "GC",
+        "RIL"
+      ],
+      "period": [
+        "1H 2026"
+      ],
+      "metrics": [
+        "revenue",
+        "profit",
+        "headline",
+        "operational"
+      ],
+      "filings": [
+        "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+        "pttgc-one-report2025-en.pdf",
+        "24042026_Media_Release_RIL_Q4_FY2025-26_Financial_and_Operational_Performance.pdf",
+        "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+        "RIL-Integrated-Annual-Report-2025-26.pdf"
+      ],
+      "basis_of_preparation": "headline"
+    },
+    "why": "To retrieve financial and operational performance details for PETRONAS, GC, and RIL for 1H 2026, enabling comparison of revenue, profit, and headline metrics, and to identify notable trends or events affecting their performance."
+  },
+  "reason": "The section requires comparative headline figures and operational context for 1H 2026. The corpus contains relevant filings for PETRONAS and RIL for this period, but GC's latest filing is for 2025. This call will confirm the available evidence and whether all three groups can be compared for 1H 2026."
+}

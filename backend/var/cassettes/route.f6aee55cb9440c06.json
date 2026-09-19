@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests a summary of Reliance Industries' performance for a specific quarter, which is covered by the real published filings dataset (PART_B).",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Cilegon Cracker 1 ethylene capacity expansion debottleneck",
+      "k": 5
+    },
+    "why": "The plant register confirms a public ethylene capacity for Cilegon Cracker 1, but to answer whether there have been any recent expansions, debottlenecks, or changes, I need to check relevant documents for updates or changes to the capacity."
+  },
+  "reason": "The register provides the current capacity, but the section also asks about recent changes. Searching documents for expansion or debottleneck evidence will address this."
+}

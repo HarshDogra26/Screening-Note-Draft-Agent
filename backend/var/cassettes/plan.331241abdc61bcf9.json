@@ -1,0 +1,27 @@
+{
+  "brief": "What is the ethylene capacity of Cilegon Cracker 1?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "capacity_cilegon_cracker_1",
+      "kind": "capacity_changes",
+      "title": "Cilegon Cracker 1 Ethylene Capacity",
+      "questions": [
+        "What is the current ethylene capacity of Cilegon Cracker 1?",
+        "Have there been any recent expansions or changes to its capacity, and what are the effective dates?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register provides the official capacity figure if available; searching documents is necessary to capture any recent expansions or changes (e.g., press releases about expansions) that may not yet be reflected in the register.",
+      "unanswerable_if": "Neither the plant register nor the available documents provide a specific ethylene capacity figure for Cilegon Cracker 1."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Capacity forecast or future planned expansions beyond what is already announced or completed.",
+      "reason": "The corpus does not contain forward-looking statements or forecasts, only completed or officially announced changes."
+    }
+  ]
+}

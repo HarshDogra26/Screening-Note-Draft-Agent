@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Straits Advanced Materials cracker operational events"
+    },
+    "why": "To directly search for any documents mentioning recent operational events (turnarounds, expansions, outages, startups, changes) at Straits Advanced Materials' cracker units, as required by the section."
+  },
+  "reason": "The section requires evidence of operational events at Straits Advanced Materials' cracker units, and Part A documents are the only source of causation and event reporting."
+}

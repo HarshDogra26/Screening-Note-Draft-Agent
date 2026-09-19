@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All available price series for Southeast Asia propylene (spot: Jan 2024–Dec 2025, contract: Jan 2026–Aug 2026) return errors stating 'no assessments' for the product and region. This means there are no published price assessments for any month since January 2024, for either contract or spot basis. Therefore, the questions about price movement, trends, contract vs spot comparison, and data gaps cannot be answered from this corpus. The absence of price data is itself a valid finding."
+}

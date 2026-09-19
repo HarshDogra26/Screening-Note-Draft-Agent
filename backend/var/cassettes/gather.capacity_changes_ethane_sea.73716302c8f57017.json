@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers the section's questions. The only ethane-based cracker in Southeast Asia is the Sungai Liang Cracker in Brunei, commissioned in September 2025. The plant register confirms its status as operating, with capacity not publicly confirmed. A targeted document search found no reports of expansions, debottlenecks, delays, FIDs, or milestones for this unit since commissioning. The only other relevant capacity change is the expansion of Nusantara Olefins' Cilegon Cracker 1 in Indonesia, but this is not confirmed as ethane-based (the region is predominantly naphtha-fed except Brunei). No other documents since 2025 mention capacity changes, expansions, or project milestones for ethane-based ethylene crackers in Southeast Asia. This corpus therefore provides a complete answer: Sungai Liang is the only ethane-based cracker, commissioned in 2025, with no subsequent capacity changes or milestones reported."
+}

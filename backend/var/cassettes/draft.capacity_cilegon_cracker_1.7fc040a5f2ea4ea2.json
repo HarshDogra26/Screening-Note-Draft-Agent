@@ -1,0 +1,61 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins describes the current ethylene capacity of Cilegon Cracker 1 as 1,200 kta following the March 2026 expansion, which replaced four cracking furnaces and upgraded the quench section.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The plant register lists Cilegon Cracker 1 (Nusantara Olefins) at an ethylene capacity of 1,200 kta, with status 'Operating' and startup year 2019.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor's June 2026 capacity review lists Cilegon Cracker 1 at a confirmed nameplate ethylene capacity of 1,050 kta, and notes that the operator has publicly referenced a higher figure following the March 2026 furnace replacement programme.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor's June capacity review lists Cilegon Cracker 1 (Nusantara Olefins) at a confirmed nameplate ethylene capacity of 1,050 kta. The Monitor notes that the operator has publicly referenced a higher figure following the March 2026 furnace replacement programme."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "The Monitor states that the additional volume referenced by the operator is contingent on a debottlenecking step that has not yet been independently verified, and it will continue to carry the lower figure (1,050 kta) until operating data supports a revision.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor's position is that the additional volume is contingent on a debottlenecking step that has not yet been independently verified, and it will continue to carry the lower figure until operating data supports a revision."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "The expansion of Cilegon Cracker 1 was mechanically completed in March 2026, during a planned 45-day turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Nusantara Olefins announced today that the expansion of Cilegon Cracker 1 has been mechanically completed and the unit has returned to service. ... The company said the project was executed during a planned 45-day turnaround."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "Both the operator and plant register cite 1,200 kta as the current capacity, but the ASEAN Petrochemical Monitor continues to carry 1,050 kta pending independent verification of the higher figure. The effective date for the expansion is March 2026. No other recent expansions or changes are reported in the evidence."
+}

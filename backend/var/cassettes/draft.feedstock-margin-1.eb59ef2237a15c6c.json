@@ -1,0 +1,164 @@
+{
+  "claims": [
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in January 2026 was -282 USD/tonne, with naphtha assessed higher than ethylene.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in February 2026 was -288 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in March 2026 was -357 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-03",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-03",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in April 2026 was -429 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in May 2026 was -425 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The monthly spread between naphtha (Asia CFR spot) and ethylene (Southeast Asia CFR spot) in June 2026 was -346 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Naphtha",
+          "region": "Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The spread calculation joins naphtha (Asia CFR) and ethylene (Southeast Asia CFR) series on different geographies; the evidence warns that these are not strictly comparable.",
+      "citations": [],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor attributes the April 2026 peak in Southeast Asian ethylene spot assessments to concurrent supply outages: a planned turnaround at Pengerang, extended into a force majeure declaration, and the tail of the Cilegon furnace replacement programme in March.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Assessments eased through May and June 2026 as both Pengerang and Cilegon units returned to operation.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Assessments eased through May and June as both units returned."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Asian naphtha prices firmed steadily across the first half of 2026 due to Northeast Asian refinery maintenance, compressing cracker margins even where olefin prices rose.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Feedstock costs contributed. Asian naphtha firmed steadily across the period on Northeast Asian refinery maintenance, compressing cracker margins even where olefin prices rose."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All monthly spreads for H1 2026 are directly cited from price series. Commentary on notable events and margin movements is sourced from the ASEAN Petrochemical Monitor. The spread calculation is subject to a region mismatch warning, as naphtha and ethylene are assessed in different geographies."
+}

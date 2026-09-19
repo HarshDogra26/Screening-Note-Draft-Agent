@@ -1,0 +1,53 @@
+plant_id,plant_name,company,city,country,region,product,capacity_kta,process_route,startup_year,status,complex_id,source_type
+PL-001,Cilegon Cracker 1,Nusantara Olefins,Cilegon,Indonesia,Southeast Asia,Ethylene,1200,Steam Cracking (Naphtha),2019,Operating,CPX-ID-01,Company announcement
+PL-002,Jurong Cracker 1,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,Ethylene,850,Steam Cracking (Mixed Feed),2012,Operating,CPX-SG-01,Company announcement
+PL-003,Jurong Cracker 2,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,Ethylene,600,Steam Cracking (Naphtha),2021,Operating,CPX-SG-01,Company announcement
+PL-004,Pengerang Cracker,Selat Kimia Berhad,Pengerang,Malaysia,Southeast Asia,Ethylene,1000,Steam Cracking (Naphtha),2020,Operating,CPX-MY-01,Company announcement
+PL-005,Map Ta Phut Cracker,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,Ethylene,900,Steam Cracking (Mixed Feed),2016,Operating,CPX-TH-01,Company announcement
+PL-006,Vung Tau Cracker,Mekong Chemical Industries,Vung Tau,Vietnam,Southeast Asia,Ethylene,750,Steam Cracking (Naphtha),2028,Under construction,CPX-VN-01,Company announcement
+PL-007,Batangas Cracker,Luzon Resins Corporation,Batangas,Philippines,Southeast Asia,Ethylene,320,Steam Cracking (Naphtha),2009,Operating,CPX-PH-01,Regulatory filing
+PL-008,Sungai Liang Cracker,Coral Bay Olefins,Sungai Liang,Brunei,Southeast Asia,Ethylene,,Steam Cracking (Ethane),2024,Operating,CPX-BN-01,Not publicly confirmed
+PL-009,Gresik Cracker,Java Timur Petrochemical,Gresik,Indonesia,Southeast Asia,Ethylene,500,Steam Cracking (Naphtha),2015,Operating,CPX-ID-02,Company announcement
+PL-010,Cilegon Propylene Unit,Nusantara Olefins,Cilegon,Indonesia,Southeast Asia,Propylene,600,Steam Cracking (Naphtha),2019,Operating,CPX-ID-01,Company announcement
+PL-011,Jurong Propylene Unit,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,Propylene,480,Steam Cracking (Mixed Feed),2012,Operating,CPX-SG-01,Company announcement
+PL-012,Pengerang PDH,Selat Kimia Berhad,Pengerang,Malaysia,Southeast Asia,Propylene,450,PDH,2022,Operating,CPX-MY-01,Company announcement
+PL-013,Map Ta Phut Propylene Unit,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,Propylene,410,Steam Cracking (Mixed Feed),2016,Operating,CPX-TH-01,Company announcement
+PL-014,Gresik Propylene Unit,Java Timur Petrochemical,Gresik,Indonesia,Southeast Asia,Propylene,250,Steam Cracking (Naphtha),2015,Operating,CPX-ID-02,Regulatory filing
+PL-015,Batangas PDH,Luzon Resins Corporation,Batangas,Philippines,Southeast Asia,Propylene,300,PDH,2026,Under construction,CPX-PH-01,Company announcement
+PL-016,Cilegon HDPE 1,Nusantara Olefins,Cilegon,Indonesia,Southeast Asia,HDPE,400,Slurry Loop,2019,Operating,CPX-ID-01,Company announcement
+PL-017,Cilegon LLDPE 1,Nusantara Olefins,Cilegon,Indonesia,Southeast Asia,LLDPE,350,Gas Phase,2020,Operating,CPX-ID-01,Company announcement
+PL-018,Jurong HDPE 1,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,HDPE,300,Slurry Loop,2013,Operating,CPX-SG-01,Company announcement
+PL-019,Jurong LDPE 1,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,LDPE,220,Tubular LDPE,2013,Operating,CPX-SG-01,Company announcement
+PL-020,Pengerang HDPE 1,Selat Kimia Berhad,Pengerang,Malaysia,Southeast Asia,HDPE,380,Slurry Loop,2025,Operating,CPX-MY-01,Company announcement
+PL-021,Pengerang LLDPE 1,Selat Kimia Berhad,Pengerang,Malaysia,Southeast Asia,LLDPE,340,Gas Phase,2021,Operating,CPX-MY-01,Company announcement
+PL-022,Map Ta Phut LLDPE 1,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,LLDPE,300,Solution,2017,Operating,CPX-TH-01,Company announcement
+PL-023,Gresik LLDPE 1,Java Timur Petrochemical,Gresik,Indonesia,Southeast Asia,LLDPE,200,Gas Phase,2016,Operating,CPX-ID-02,Company announcement
+PL-024,Batangas HDPE 1,Luzon Resins Corporation,Batangas,Philippines,Southeast Asia,HDPE,150,Slurry Loop,2010,Operating,CPX-PH-01,Regulatory filing
+PL-025,Sungai Liang HDPE 1,Coral Bay Olefins,Sungai Liang,Brunei,Southeast Asia,HDPE,250,Slurry Loop,2024,Operating,CPX-BN-01,Company announcement
+PL-026,Vung Tau HDPE 1,Mekong Chemical Industries,Vung Tau,Vietnam,Southeast Asia,HDPE,300,Slurry Loop,2028,Under construction,CPX-VN-01,Company announcement
+PL-027,Cilegon PP 1,Nusantara Olefins,Cilegon,Indonesia,Southeast Asia,PP,450,Gas Phase,2019,Operating,CPX-ID-01,Company announcement
+PL-028,Jurong PP 1,Meridian Petrochemicals,Jurong Island,Singapore,Southeast Asia,PP,380,Gas Phase,2014,Operating,CPX-SG-01,Company announcement
+PL-029,Pengerang PP 1,Selat Kimia Berhad,Pengerang,Malaysia,Southeast Asia,PP,420,Gas Phase,2022,Operating,CPX-MY-01,Company announcement
+PL-030,Map Ta Phut PP 1,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,PP,350,Gas Phase,2016,Operating,CPX-TH-01,Company announcement
+PL-031,Map Ta Phut PP 2,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,PP,250,Gas Phase,2020,Operating,CPX-TH-01,Company announcement
+PL-032,Map Ta Phut PP 3,Andaman Polymer Group,Map Ta Phut,Thailand,Southeast Asia,PP,300,Gas Phase,2028,Under construction,CPX-TH-01,Company announcement
+PL-033,Gresik PP 1,Java Timur Petrochemical,Gresik,Indonesia,Southeast Asia,PP,220,Gas Phase,2015,Operating,CPX-ID-02,Regulatory filing
+PL-034,Batangas PP 1,Luzon Resins Corporation,Batangas,Philippines,Southeast Asia,PP,180,Gas Phase,2011,Operating,CPX-PH-01,Not publicly confirmed
+PL-035,Bohai Cracker 1,Bohai Sea Chemical,Tianjin,China,Northeast Asia,Ethylene,1400,Steam Cracking (Naphtha),2018,Operating,CPX-CN-01,Company announcement
+PL-036,Bohai HDPE 1,Bohai Sea Chemical,Tianjin,China,Northeast Asia,HDPE,450,Slurry Loop,2018,Operating,CPX-CN-01,Company announcement
+PL-037,Bohai PP 1,Bohai Sea Chemical,Tianjin,China,Northeast Asia,PP,500,Gas Phase,2019,Operating,CPX-CN-01,Company announcement
+PL-038,Ulsan Cracker 1,Hanyang Olefins,Ulsan,South Korea,Northeast Asia,Ethylene,1100,Steam Cracking (Naphtha),2014,Operating,CPX-KR-01,Company announcement
+PL-039,Ulsan LLDPE 1,Hanyang Olefins,Ulsan,South Korea,Northeast Asia,LLDPE,320,Gas Phase,2015,Operating,CPX-KR-01,Company announcement
+PL-040,Haldia Cracker,Bengal Petrochem Ltd,Haldia,India,South Asia,Ethylene,700,Steam Cracking (Naphtha),2017,Operating,CPX-IN-01,Company announcement
+PL-041,Haldia PDH,Bengal Petrochem Ltd,Haldia,India,South Asia,Propylene,500,PDH,2027,Under construction,CPX-IN-01,Company announcement
+PL-042,Haldia HDPE 1,Bengal Petrochem Ltd,Haldia,India,South Asia,HDPE,350,Slurry Loop,2017,Operating,CPX-IN-01,Company announcement
+PL-043,Dahej PP 1,Narmada Polymers,Dahej,India,South Asia,PP,400,Gas Phase,2019,Operating,CPX-IN-02,Regulatory filing
+PL-044,Jubail Ethane Cracker 1,Gulf Meridian Chemicals,Jubail,Saudi Arabia,Middle East,Ethylene,1500,Steam Cracking (Ethane),2013,Operating,CPX-SA-01,Company announcement
+PL-045,Jubail Ethane Cracker 2,Gulf Meridian Chemicals,Jubail,Saudi Arabia,Middle East,Ethylene,1300,Steam Cracking (Ethane),2027,Under construction,CPX-SA-01,Company announcement
+PL-046,Jubail HDPE 1,Gulf Meridian Chemicals,Jubail,Saudi Arabia,Middle East,HDPE,600,Slurry Loop,2013,Operating,CPX-SA-01,Company announcement
+PL-047,Jubail LLDPE 1,Gulf Meridian Chemicals,Jubail,Saudi Arabia,Middle East,LLDPE,550,Gas Phase,2014,Operating,CPX-SA-01,Company announcement
+PL-048,Sohar Cracker,Batinah Olefins,Sohar,Oman,Middle East,Ethylene,850,Steam Cracking (Ethane),2020,Operating,CPX-OM-01,Company announcement
+PL-049,Antwerp Cracker 1,Scheldt Chemical NV,Antwerp,Belgium,NW Europe,Ethylene,750,Steam Cracking (Naphtha),1998,Operating,CPX-BE-01,Company announcement
+PL-050,Antwerp LDPE 1,Scheldt Chemical NV,Antwerp,Belgium,NW Europe,LDPE,280,Autoclave LDPE,1999,Operating,CPX-BE-01,Regulatory filing
+PL-051,Teesside Cracker,Northsea Olefins Ltd,Teesside,United Kingdom,NW Europe,Ethylene,620,Steam Cracking (Mixed Feed),2005,Idled,CPX-UK-01,Company announcement
+PL-052,Teesside HDPE 1,Northsea Olefins Ltd,Teesside,United Kingdom,NW Europe,HDPE,240,Slurry Loop,2006,Idled,CPX-UK-01,Not publicly confirmed

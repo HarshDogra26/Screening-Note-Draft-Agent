@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about the capacity of Coral Bay Olefins' Sungai Liang cracker, which is a plant named in the synthetic register (PART_A). This is a plant/capacity question and does not require any information from the real company filings (PART_B).",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

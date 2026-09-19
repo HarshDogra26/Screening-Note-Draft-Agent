@@ -1,0 +1,32 @@
+{
+  "brief": "What is the capacity of Coral Bay Olefins' Sungai Liang cracker?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "capacity-coralbay-sungailiang",
+      "kind": "capacity_changes",
+      "title": "Capacity of Coral Bay Olefins' Sungai Liang Cracker",
+      "questions": [
+        "What is the nameplate or publicly disclosed capacity of the Sungai Liang cracker operated by Coral Bay Olefins?",
+        "Is there any indication in the corpus as to why the capacity is not disclosed, or any indirect estimate or commentary on its scale?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register confirms that capacity is not publicly disclosed; searching the documents may reveal any company statements, press releases, or industry commentary that mention the capacity or reasons for non-disclosure; describe_corpus ensures no relevant source is overlooked.",
+      "unanswerable_if": "No document or register entry provides a capacity figure or indirect estimate for the Sungai Liang cracker."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Capacity forecast or future expansions for Sungai Liang cracker",
+      "reason": "The brief only asks for current capacity, and the corpus does not contain forward-looking statements or forecasts for this plant."
+    },
+    {
+      "topic": "Aggregate regional capacity including Sungai Liang",
+      "reason": "The corpus and industry bulletins explicitly do not publish aggregate regional capacity totals, and the register marks Sungai Liang's capacity as not publicly confirmed."
+    }
+  ]
+}

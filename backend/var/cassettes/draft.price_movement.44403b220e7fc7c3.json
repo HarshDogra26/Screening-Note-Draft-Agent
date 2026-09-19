@@ -1,0 +1,138 @@
+{
+  "claims": [
+    {
+      "text": "Southeast Asia CFR spot ethylene prices rose from USD 887/tonne in January 2026 to a peak of USD 1059/tonne in April, before easing to USD 960/tonne in June 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Monitor attributes the April 2026 price peak in Southeast Asia principally to concurrent supply outages: a planned turnaround at Pengerang, which was extended into a force majeure declaration, and the tail of the Cilegon furnace replacement programme in March.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026, extending the outage beyond the planned duration due to corrosion identified during the scheduled turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect. The company said inspection during the current scheduled turnaround identified corrosion in a quench tower internal that requires replacement, extending the outage beyond the planned duration."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad completed the scheduled turnaround at its Pengerang cracker after 38 days, with all downstream units returning to normal rates by late April 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "Selat Kimia Berhad has completed a scheduled turnaround at its Pengerang cracker. The unit was offline for 38 days. All downstream units, including the propane dehydrogenation unit and the polyethylene and polypropylene lines, have returned to normal rates."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Feedstock costs contributed to price movements, as Asian naphtha firmed steadily across H1 2026 due to Northeast Asian refinery maintenance, compressing cracker margins even where olefin prices rose.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Feedstock costs contributed. Asian naphtha firmed steadily across the period on Northeast Asian refinery maintenance, compressing cracker margins even where olefin prices rose."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Northeast Asia CFR spot ethylene prices started at USD 941/tonne in January 2026, peaked at USD 1016/tonne in May, and ended at USD 995/tonne in June 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Northeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Northeast Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Northeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Both Southeast Asia and Northeast Asia CFR spot ethylene prices showed a similar pattern in H1 2026: rising to a peak in April-May and easing by June.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Northeast Asia CFR",
+          "month": "2026-05",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Northeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All claims are directly supported by price assessments and industry commentary for H1 2026. No gaps in monthly price data or event coverage for the period."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The search_part_a_documents call returned multiple documents directly describing operational events affecting polypropylene and HDPE production in Southeast Asia during 2025-2026. These include plant expansions (Nusantara Olefins Cilegon cracker), startups (Selat Kimia Pengerang HDPE line, Coral Bay Olefins Sungai Liang complex), turnarounds and force majeures (Selat Kimia Pengerang), debottlenecking (Nusantara Olefins PP line), and construction delays (Andaman PP3, Mekong Vung Tau). The ASEAN Petrochemical Monitor price commentary (doc:025) explicitly links the April 2026 price peak to concurrent supply outages at Pengerang and Cilegon, confirming causation. Other documents note effects on production rates and supply tightness. The evidence is sufficient to answer both section questions: major events are documented, and at least one is causally linked to price movements. No further tool calls are needed."
+}

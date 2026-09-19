@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "operational events ethylene Southeast Asia",
+      "date_from": "2025-03",
+      "date_to": "2026-08"
+    },
+    "why": "To identify documents discussing operational, supply, or demand events relevant to ethylene in Southeast Asia within the past eighteen months, as required by the section's questions."
+  },
+  "reason": "The section requires evidence of operational events affecting ethylene prices; searching for relevant documents is the correct first step."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Straits Advanced Materials is not one of the real listed groups in Part B, but fits the synthetic world of Part A, which covers petrochemical plants, including cracker operations. The brief concerns plant operations, which is within Part A's scope.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

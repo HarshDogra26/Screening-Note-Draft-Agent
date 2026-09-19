@@ -1,0 +1,42 @@
+{
+  "brief": "HDPE Southeast Asia prices from December 2025 to March 2026",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "price-movement-hdpe-sea-dec25-mar26",
+      "kind": "price_movement",
+      "title": "HDPE Southeast Asia Price Movement (Dec 2025 - Mar 2026)",
+      "questions": [
+        "What were the assessed HDPE Southeast Asia CFR spot prices for each month from December 2025 to March 2026?",
+        "Are there any gaps or missing values in the price series for these months?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_price_series"
+      ],
+      "tool_rationale": "'describe_corpus' confirms the coverage and any gaps in the price series; 'query_price_series' retrieves the actual monthly price values for the specified period.",
+      "unanswerable_if": "If the HDPE|Southeast Asia CFR|Spot price series does not cover December 2025 to March 2026, or if all months in this range are missing values."
+    },
+    {
+      "id": "gaps-and-conflicts-hdpe-sea-dec25-mar26",
+      "kind": "gaps_and_conflicts",
+      "title": "Gaps and Conflicts in HDPE Southeast Asia Price Data (Dec 2025 - Mar 2026)",
+      "questions": [
+        "Which months in the requested period lack price data for HDPE Southeast Asia CFR spot?",
+        "Is there any explanation for missing data in the corpus?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_price_series"
+      ],
+      "tool_rationale": "'describe_corpus' identifies months with missing data; 'query_price_series' confirms which months are affected and whether any explanation is available in the metadata.",
+      "unanswerable_if": "If the corpus does not indicate which months are missing or provide any metadata on gaps."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Price forecast or outlook for HDPE Southeast Asia after March 2026",
+      "reason": "The corpus only contains historical price assessments up to August 2026 and explicitly does not publish forecasts or outlooks."
+    }
+  ]
+}

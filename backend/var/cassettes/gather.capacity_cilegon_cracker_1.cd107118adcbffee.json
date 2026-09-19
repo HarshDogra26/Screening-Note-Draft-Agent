@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Cilegon Cracker 1 ethylene capacity expansion debottleneck",
+      "k": 5
+    },
+    "why": "To check for any recent expansions, debottlenecks, or other changes affecting the ethylene capacity of Cilegon Cracker 1, as required by the section's second question."
+  },
+  "reason": "The plant register confirms the current public capacity (1200 kta) for Cilegon Cracker 1, but does not indicate whether there have been recent changes. Part A documents may provide evidence of expansions or debottlenecks."
+}

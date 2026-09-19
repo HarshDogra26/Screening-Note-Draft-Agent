@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered from both the plant register and Part A documents provides a comprehensive account of recent and ongoing ethylene capacity developments in Southeast Asia. The register confirms the current base and identifies new and under-construction units, while the documents detail expansions (e.g., Cilegon Cracker 1), debottlenecking studies (Batangas), delays (Vung Tau cracker), operational events (force majeure at Pengerang), and project announcements (pre-FEED for Cilegon 2). The evidence also highlights what cannot be confirmed: the capacity of Coral Bay Olefins' Sungai Liang cracker is not publicly disclosed, and some capacity figures (e.g., post-expansion Cilegon) are disputed between operator and industry sources. No further tool calls are needed; all section questions are addressed or limitations are documented."
+}

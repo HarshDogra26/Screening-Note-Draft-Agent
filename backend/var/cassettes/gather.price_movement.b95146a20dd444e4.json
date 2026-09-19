@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The price series for Southeast Asia CFR spot ethylene is missing for H1 2026, as confirmed by the error returned from the price series query. This means the primary question about price movement cannot be answered from this corpus. Since price movement evidence is unavailable, causation and regional comparison cannot be meaningfully addressed either. This section is unanswerable from the available dataset, which is a valid finding."
+}

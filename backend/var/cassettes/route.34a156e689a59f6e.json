@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "Pengerang refers to the PETRONAS Pengerang Integrated Complex, which is part of the PETRONAS Group, a real company covered in PART_B. The brief asks about operational events at this site during 2026, which falls within the historical period for the filings dataset.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

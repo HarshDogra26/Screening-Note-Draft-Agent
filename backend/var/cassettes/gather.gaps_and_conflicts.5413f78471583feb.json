@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence answers all section questions. The plant register confirms that the Sungai Liang Cracker (Coral Bay Olefins) is the only ethylene plant in Southeast Asia with unconfirmed capacity. Part A documents provide explicit source limitations: the ASEAN Petrochemical Monitor does not publish estimates for units where the operator has not disclosed nameplate capacity, and published figures for some units (e.g., Cilegon Cracker 1) may differ depending on source and verification status. The Regional Energy Statistics Office does not publish plant-level capacity data. No other plants are flagged as unconfirmed, and the main gaps are explicitly stated. There is no evidence of additional unconfirmed capacities or unstated gaps. The section is fully addressed."
+}

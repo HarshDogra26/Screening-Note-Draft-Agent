@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "doc_type": "interim_report",
+      "query": "outlook OR forward-looking OR prospects OR guidance OR strategy OR market conditions OR future"
+    },
+    "why": "PETRONAS's annual report search returned no results, but the corpus contains interim reports for more recent periods. These may contain outlook or forward-looking statements, so searching the interim report is warranted before concluding absence."
+  },
+  "reason": "GC's outlook is well covered from its annual report. PETRONAS's annual report returned no outlook statements, but interim reports may contain them. RIL has not yet been searched; PETRONAS interim report is the next logical step before moving to RIL."
+}

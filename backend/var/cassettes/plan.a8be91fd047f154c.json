@@ -1,0 +1,21 @@
+{
+  "brief": "How does PTT Global Chemical define adjusted EBITDA?",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "company_profile-pttgc-adjusted-ebitda-definition",
+      "kind": "company_profile",
+      "title": "PTT Global Chemical: Definition of Adjusted EBITDA",
+      "questions": [
+        "How does PTT Global Chemical define adjusted EBITDA in its filings?",
+        "What specific items are excluded from EBITDA to arrive at adjusted EBITDA according to PTT Global Chemical?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "The definition of adjusted EBITDA is a company-specific disclosure found in the text of filings, not in structured data or price series.",
+      "unanswerable_if": "No PTT Global Chemical filing in the corpus provides a definition or description of adjusted EBITDA."
+    }
+  ],
+  "excluded": []
+}

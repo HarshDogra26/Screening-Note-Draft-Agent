@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests a screening note on polypropylene and HDPE price trends in Southeast Asia through 2026. The synthetic dataset (PART_A) contains monthly price assessments for these products up to 2026-08, which is historical and can be reported. No real company filings or entities from PART_B are mentioned or required.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

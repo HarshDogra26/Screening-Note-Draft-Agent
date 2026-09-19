@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "doc_type": "financial_report",
+      "query": "revenue earnings EBITDA fiscal year"
+    },
+    "why": "PETRONAS's annual report did not return results, but the corpus contains financial reports for PETRONAS. These may contain the required financial performance figures for the most recent full financial year."
+  },
+  "reason": "PETRONAS's annual report search returned no results, but financial reports are available in the corpus. Searching these may yield the required revenue, earnings, and EBITDA figures for PETRONAS."
+}

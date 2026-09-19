@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers all section questions. The plant register provides a list of currently operating and under-construction ethylene plants in Southeast Asia, including their capacities, companies, and plant details. This identifies the main contributors to regional supply and the current capacity (with the exception of Coral Bay Olefins, whose capacity is not publicly confirmed). Recent changes and expansions are documented in company press releases: Nusantara Olefins completed a major expansion at Cilegon Cracker 1 in March 2026, Selat Kimia Berhad had a force majeure and turnaround at Pengerang in April 2026 (with no change to nameplate capacity), and Mekong Chemical Industries revised the Vung Tau cracker startup to 2028. Industry bulletins confirm that aggregate capacity totals are not published, but the supply base is concentrated in Singapore, Malaysia, Indonesia, and Thailand. No further tool calls are needed."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers all section questions. The register provides a list of currently operating ethylene plants in Southeast Asia, with publicly confirmed nameplate capacities for all except the Sungai Liang Cracker (Coral Bay Olefins). A targeted document search confirms that Coral Bay Olefins does not disclose the nameplate capacity for Sungai Liang, and the industry association does not publish estimates for units without operator disclosure. Therefore, the total operating ethylene capacity in Southeast Asia can only be calculated from publicly confirmed figures, explicitly excluding Sungai Liang. This is a valid and complete answer, with the limitation clearly documented."
+}

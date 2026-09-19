@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about propylene price movements in Southeast Asia since 2024. The synthetic dataset (PART_A) contains monthly price assessments for propylene and other petrochemical products, covering the period from 2024-01 to 2026-08. No real company filings or financial results are mentioned, and the brief does not require information from both datasets. Therefore, this is answerable using PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

@@ -1,0 +1,21 @@
+{
+  "brief": "Operational events at Pengerang during 2026",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "operational_events_pengerang_2026",
+      "kind": "operational_events",
+      "title": "Operational Events at Pengerang in 2026",
+      "questions": [
+        "What operational events occurred at Pengerang in 2026?",
+        "Were there any turnarounds, force majeures, or other significant disruptions or restarts at Pengerang during 2026?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Searching the documents is necessary to identify and summarize any reported operational events at Pengerang in 2026, as only company press releases and bulletins provide such event-specific information.",
+      "unanswerable_if": "No documents in the corpus report operational events at Pengerang during 2026."
+    }
+  ],
+  "excluded": []
+}

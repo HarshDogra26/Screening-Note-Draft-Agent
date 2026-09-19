@@ -1,0 +1,27 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Southeast Asia CFR spot ethylene price movement in H1 2026",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for ethylene in Southeast Asia CFR for the period January to June 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "No price data or assessments are available for Southeast Asia CFR spot ethylene in H1 2026, so price movement and comparison to Northeast Asia cannot be addressed."
+}

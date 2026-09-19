@@ -1,0 +1,21 @@
+{
+  "brief": "Revenue reported by PETRONAS for the half year ended 30 June 2026",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "financial_performance-petronas-1h2026",
+      "kind": "financial_performance",
+      "title": "PETRONAS Revenue for 1H 2026",
+      "questions": [
+        "What revenue did PETRONAS report for the half year ended 30 June 2026?",
+        "Is the figure consolidated for the group, and what is the reporting currency and units?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "The revenue figure and its context are only available in PETRONAS's official filings for the relevant period, which must be searched directly.",
+      "unanswerable_if": "If none of the PETRONAS filings for 1H 2026 (specifically 'PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf') contain a revenue figure for the group."
+    }
+  ],
+  "excluded": []
+}

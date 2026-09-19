@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests a comparison of financial performance (revenue, earnings, outlook) for GC, PCG, and Reliance, all of which are companies covered in the real published filings dataset (PART_B). The brief does not mention any synthetic companies or require information from the synthetic world. The request for outlook is answerable as long as it refers to what each company says about its own outlook in their filings, not a forecast beyond the data period.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

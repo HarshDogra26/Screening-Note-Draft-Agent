@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All questions for the section are answered by the evidence retrieved from PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf. The reported revenue for the half year ended 30 June 2026 is RM152,441 million (MYR, millions). The reporting currency and unit are confirmed as MYR (Malaysian Ringgit), millions. Relevant notes and context are provided in the explanatory notes and segment breakdowns, including reconciliation of disaggregated revenue, segment performance reviews, and explanations for changes in revenue. No adjusted measures are used, and the basis of preparation is clear. There is no need for further tool calls."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "outlook OR forward-looking OR prospects OR guidance OR strategy OR market conditions OR future",
+      "company": "GC",
+      "doc_type": "annual_report"
+    },
+    "why": "To find GC's most recent outlook or forward-looking statements in its annual report, as these typically contain company outlooks and strategic commentary."
+  },
+  "reason": "The section asks for each company's outlook statements. Starting with GC's annual report, as it is the most comprehensive and recent source for such statements."
+}

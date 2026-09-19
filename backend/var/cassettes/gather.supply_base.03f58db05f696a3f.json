@@ -1,0 +1,17 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene",
+      "status": [
+        "Operating",
+        "Idled",
+        "Under construction"
+      ]
+    },
+    "why": "To identify all ethylene plants in Southeast Asia, their capacities, companies, and status. This addresses the questions about current capacity, main contributors, and recent changes or expansions."
+  },
+  "reason": "The plant register is the primary source for supply base and capacity data. Filtering for ethylene plants in Southeast Asia with relevant statuses will provide a list of contributors and highlight any recent changes or expansions."
+}

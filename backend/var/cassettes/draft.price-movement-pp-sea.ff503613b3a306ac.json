@@ -1,0 +1,68 @@
+{
+  "claims": [
+    {
+      "text": "There are no assessed polypropylene (PP) prices for Southeast Asia for the months 2026-06, 2026-07, or 2026-08.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The price series for polypropylene (PP) in Southeast Asia CFR is present, but the latest months queried (2026-06 to 2026-08) are blank, indicating no assessments were published for these periods.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-07",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Latest assessed polypropylene price in Southeast Asia (2026-06 to 2026-08)",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for polypropylene (PP) in Southeast Asia for the months 2026-06, 2026-07, or 2026-08.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-07",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "PP",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The evidence confirms that the latest months in the price series (2026-06 to 2026-08) are blank, with no assessed prices published. No numerical price is available for these periods."
+}

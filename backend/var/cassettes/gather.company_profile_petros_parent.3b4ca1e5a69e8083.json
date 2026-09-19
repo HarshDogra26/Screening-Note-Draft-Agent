@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "document": "Financial Report 1H 2025.pdf"
+    },
+    "why": "Previous calls failed due to incorrect argument names. The corpus description uses 'document' as the argument for the file name. I will search the PETRONAS Group's 'Financial Report 1H 2025.pdf' for legal entity, reporting structure, and any mention of PETRONAS Chemicals Group (PCG)."
+  },
+  "reason": "The correct argument for the file name appears to be 'document', not 'filing'. This call should retrieve relevant content from the parent PETRONAS Group filing to answer both questions."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for the latest assessed polypropylene price in Southeast Asia. Price assessments for polypropylene are included in the synthetic world dataset (PART_A), which covers monthly prices up to 2026-08. No real company or entity from PART_B is named, and the request is for historical data, not a forecast.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

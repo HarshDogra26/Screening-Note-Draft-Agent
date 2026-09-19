@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for an outlook (i.e., a forecast) for Southeast Asia ethylene prices in 2027. The synthetic dataset (PART_A) contains price assessments for ethylene, but only up to 2026-08. The sources explicitly state that they do not publish forward-looking assessments, and 2027 is outside the available data range.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requests a forecast for a period (2027) after the data ends, which is not provided by the sources.",
+  "requires_both_domains": false
+}

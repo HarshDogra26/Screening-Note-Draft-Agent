@@ -1,0 +1,9 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "describe_corpus",
+    "arguments": {},
+    "why": "The error from query_price_series suggests there may be a mismatch in available series or filter values. describe_corpus will confirm the exact price series names, coverage periods, and any gaps or limitations for Southeast Asia propylene, so I can target the next query accurately."
+  },
+  "reason": "The initial query returned an error, indicating no assessments for the filter used. I need to clarify the available price series and their exact filter values before proceeding."
+}

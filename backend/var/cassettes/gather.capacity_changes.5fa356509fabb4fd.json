@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene capacity expansion, addition, turnaround, debottlenecking, force majeure, operational event Southeast Asia",
+      "date_from": "2025-10-01"
+    },
+    "why": "To directly answer the section's questions about major ethylene capacity changes and operational events in Southeast Asia since late 2025, including expansions, turnarounds, debottleneckings, and force majeures."
+  },
+  "reason": "The section requires causation and event evidence, which is only available in Part A documents. The query targets ethylene supply events in Southeast Asia from late 2025 onward."
+}

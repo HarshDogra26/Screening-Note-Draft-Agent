@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "k": 5,
+      "query": "financial and operational performance 1H 2026"
+    },
+    "why": "Reliance Industries Limited (RIL) is the Indian group. The corpus lists several filings for RIL, including quarterly and annual reports. Searching for financial and operational performance for 1H 2026 will confirm if any filings cover the relevant period and provide comparable data."
+  },
+  "reason": "PETRONAS and GC results are in hand. To complete the comparison, evidence for RIL's financial and operational performance in 1H 2026 is needed."
+}

@@ -1,0 +1,43 @@
+edges:
+  - superseded: 008_mekong_vungtau_schedule_2026-01-28.md
+    superseded_by: 009_mekong_vungtau_revised_2026-07-09.md
+    company: Mekong Chemical Industries
+    scope:
+      - startup_year
+      - construction_schedule
+    superseded_values:
+      startup_year: "2027"
+    current_values:
+      startup_year: "2028"
+    still_current_in_superseded:
+      - ethylene design capacity 750 kta
+      - associated HDPE line 300 kta
+    strength: explicit
+    evidence: >-
+      This announcement supersedes the schedule guidance issued by the company in
+      January 2026.
+    register_agrees: PL-006
+
+  - superseded: 006_andaman_pp3_fid_2026-01-15.md
+    superseded_by: 007_andaman_pp3_delay_2026-07-30.md
+    company: Andaman Polymer Group
+    scope:
+      - mechanical_completion_schedule
+    superseded_values:
+      mechanical_completion: "Q2 2028"
+    current_values:
+      mechanical_completion: "Q4 2028"
+    still_current_in_superseded:
+      - line capacity 300 kta
+      - gas-phase technology
+      - final investment decision taken
+      - propylene supplied from the existing Map Ta Phut unit
+      - no additional cracker capacity required
+    strength: implicit
+    evidence: >-
+      The company said mechanical completion has moved from the second quarter of 2028
+      to the fourth quarter of 2028.
+    note: >-
+      Doc 007 does not use supersession language. It is a scoped update: it explicitly
+      states the capital estimate is unchanged and that the delay does not affect the
+      existing two polypropylene lines or the cracker.

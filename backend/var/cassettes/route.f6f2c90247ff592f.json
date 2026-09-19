@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "PETRONAS Chemicals Group is part of the PETRONAS Group, which is included in the real published filings dataset (PART_B). The brief does not mention any synthetic world companies or require information from PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

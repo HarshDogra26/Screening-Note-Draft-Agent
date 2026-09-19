@@ -1,0 +1,45 @@
+{
+  "brief": "Screening note on Straits Advanced Materials' cracker operations",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "company_profile",
+      "kind": "company_profile",
+      "title": "Straits Advanced Materials: Company and Cracker Operations Profile",
+      "questions": [
+        "Does Straits Advanced Materials operate any cracker units? If so, where are they located and what are their key characteristics (e.g., process route, product slate, status)?",
+        "Are there any recent developments or operational events related to Straits Advanced Materials' cracker operations?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register will confirm whether Straits Advanced Materials operates any cracker units and provide their characteristics; searching documents will identify any recent developments or operational events related to these operations.",
+      "unanswerable_if": "Straits Advanced Materials does not appear in the plant register as an operator of any cracker units."
+    },
+    {
+      "id": "operational_events",
+      "kind": "operational_events",
+      "title": "Recent Operational Events Affecting Straits Advanced Materials' Crackers",
+      "questions": [
+        "Have there been any recent operational events (e.g., turnarounds, expansions, outages, new startups) at Straits Advanced Materials' cracker units?",
+        "Are there any press releases or bulletins mentioning changes in operation, capacity, or feedstock flexibility for these units?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Only documents can provide details on recent operational events, as the register is static and does not capture ongoing or recent changes.",
+      "unanswerable_if": "No documents in the corpus mention operational events or changes related to Straits Advanced Materials' cracker units."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Financial performance or margin analysis for Straits Advanced Materials",
+      "reason": "The corpus does not contain financial data or margin analysis for any company."
+    },
+    {
+      "topic": "Price forecast or outlook for cracker products",
+      "reason": "The corpus and price commentary explicitly exclude forecasts or forward-looking price expectations."
+    }
+  ]
+}

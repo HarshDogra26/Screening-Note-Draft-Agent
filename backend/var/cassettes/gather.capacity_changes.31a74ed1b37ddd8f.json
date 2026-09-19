@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene project announcement OR cracker construction OR startup OR commissioning OR FID OR pre-FEED OR expansion OR debottleneck OR delay OR cancellation OR force majeure OR turnaround OR outage",
+      "k": 10
+    },
+    "why": "To ensure coverage of any additional recent or upcoming ethylene capacity projects, expansions, debottleneckings, delays, cancellations, or significant operational events in Southeast Asia that may not have been captured in the previous document search, especially using alternative terminology (e.g., FID, pre-FEED, commissioning, force majeure, turnaround, outage)."
+  },
+  "reason": "The previous document search may not have captured all relevant developments due to query limitations. A broader search with alternative keywords will help ensure all significant recent and ongoing ethylene capacity events are identified for a comprehensive answer."
+}

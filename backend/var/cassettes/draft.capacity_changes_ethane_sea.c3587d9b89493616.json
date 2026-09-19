@@ -1,0 +1,106 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins announced mechanical completion of the Cilegon Cracker 1 expansion in March 2026, with the unit returning to service after a planned 45-day turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Nusantara Olefins announced today that the expansion of Cilegon Cracker 1 has been mechanically completed and the unit has returned to service. The expansion replaced four cracking furnaces and upgraded the quench section. The company said the project was executed during a planned 45-day turnaround."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Following the expansion, Nusantara Olefins describes Cilegon Cracker 1 as having an ethylene capacity of 1,200 kta.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Coral Bay Olefins commissioned its Sungai Liang ethane cracker in Brunei in September 2025, but does not disclose the nameplate capacity for the cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "Coral Bay Olefins has commissioned its Sungai Liang ethane cracker and associated HDPE line in Brunei. The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "The plant register lists Coral Bay Olefins' Sungai Liang Cracker as operating in Brunei, with capacity not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_status"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Andaman Polymer Group completed a scheduled turnaround at its Map Ta Phut steam cracker in September 2025, with the unit offline for 31 days and no change to capacity reported.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "020_andaman_turnaround_2025-09-11.md",
+          "quote": "Andaman Polymer Group has completed a scheduled turnaround at its Map Ta Phut steam cracker. The unit was offline for 31 days. The company reported no change to capacity and said all downstream units have resumed normal rates."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group took final investment decision (FID) in January 2026 on a third polypropylene line at Map Ta Phut, designed for 300 kta, with propylene supplied from the existing unit and no additional cracker capacity required.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "006_andaman_pp3_fid_2026-01-15.md",
+          "quote": "Andaman Polymer Group has taken a final investment decision on a third polypropylene line at its Map Ta Phut complex in Thailand. The line is designed for 300 kta... The company said propylene will be supplied from the existing Map Ta Phut propylene unit, and that no additional cracker capacity is required."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The mechanical completion schedule for Andaman Polymer Group's third polypropylene line at Map Ta Phut was revised in July 2026 from Q2 2028 to Q4 2028; this does not affect cracker capacity.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "006_andaman_pp3_fid_2026-01-15.md",
+          "quote": "mechanical_completion_schedule superseded: now Q4 2028, was Q2 2028; no additional cracker capacity required"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Coral Bay Olefins Sungai Liang Cracker capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "Coral Bay Olefins does not disclose the nameplate capacity for its Sungai Liang ethane cracker in Brunei.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_status"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Capacity changes are confirmed for Nusantara Olefins (Cilegon Cracker 1 expansion) and Coral Bay Olefins (Sungai Liang commissioning), but Coral Bay's capacity is not publicly confirmed. No new ethane cracker capacity is associated with Andaman Polymer Group's recent FID or turnaround. No other ethane-based cracker expansions, debottlenecks, or major turnarounds in Southeast Asia since 2025 are identified in the evidence."
+}

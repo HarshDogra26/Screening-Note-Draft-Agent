@@ -1,0 +1,24 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Monthly naphtha to ethylene spread in Southeast Asia during H1 2026",
+      "reason": "no_assessment",
+      "detail": "All attempts to retrieve the monthly naphtha to ethylene spread for Southeast Asia in H1 2026 returned tool errors, and no spread values or commentary are available in the evidence.",
+      "citations": []
+    },
+    {
+      "subject": "Evolution of the naphtha to ethylene spread in Southeast Asia during H1 2026",
+      "reason": "no_assessment",
+      "detail": "No spread values or trend data for H1 2026 are present in the evidence due to tool errors and lack of direct price series output.",
+      "citations": []
+    },
+    {
+      "subject": "Notable events or commentary explaining changes in the spread during H1 2026",
+      "reason": "no_assessment",
+      "detail": "The evidence contains no commentary or event explanations related to the naphtha to ethylene spread in Southeast Asia for H1 2026.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "No spread values, trend data, or commentary are available for the naphtha to ethylene spread in Southeast Asia during H1 2026 due to repeated tool errors and lack of direct price series output in the evidence."
+}

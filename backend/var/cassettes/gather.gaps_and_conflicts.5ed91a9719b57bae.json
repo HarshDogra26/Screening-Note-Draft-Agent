@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "capacity gaps OR unconfirmed capacity OR limitations OR caveats OR uncertainties",
+      "k": 6
+    },
+    "why": "The plant register shows one ethylene plant in Southeast Asia (Sungai Liang Cracker, Coral Bay Olefins) with unconfirmed capacity. To address the questions about main data gaps, uncertainties, and explicit limitations or caveats in sources, I need to search Part A documents for mentions of capacity gaps, unconfirmed capacity, or stated limitations."
+  },
+  "reason": "The register alone identifies one unconfirmed capacity, but to fully answer the section's questions about gaps, uncertainties, and explicit caveats, I need to check if any documents discuss these issues or provide further context."
+}

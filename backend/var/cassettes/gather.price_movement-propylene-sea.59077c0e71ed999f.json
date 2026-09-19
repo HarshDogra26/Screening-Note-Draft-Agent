@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "basis": "Contract",
+      "month_from": "2026-01",
+      "product": "Propylene",
+      "region": "Southeast Asia CFR"
+    },
+    "why": "The corpus description shows a contract price series for Southeast Asia propylene from 2026-01 to 2026-08. To answer the question about contract price movement and compare it to spot prices, I need to retrieve this series."
+  },
+  "reason": "Spot prices are available from 2024-01 to 2025-12, but contract prices are only available from 2026-01 onward. Retrieving contract prices will allow comparison and clarify coverage and gaps."
+}

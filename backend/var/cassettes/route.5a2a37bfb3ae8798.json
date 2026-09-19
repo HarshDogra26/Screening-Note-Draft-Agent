@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Cilegon Cracker 1 is a petrochemical plant, and questions about its ethylene capacity pertain to plant and process information, which is covered by the synthetic world dataset (PART_A).",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

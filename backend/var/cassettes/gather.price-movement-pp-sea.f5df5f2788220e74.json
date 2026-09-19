@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "PP",
+      "region": "Southeast Asia",
+      "basis": "CFR",
+      "market": "Spot"
+    },
+    "why": "The section asks for the latest assessed polypropylene price in Southeast Asia. The price series inventory confirms that 'PP|Southeast Asia CFR|Spot' exists, so querying this series will provide the most recent available price and any gaps."
+  },
+  "reason": "The price series exists and covers up to August 2026, but July and August have blank prices. Querying the series will confirm the latest non-blank price and any limitations."
+}

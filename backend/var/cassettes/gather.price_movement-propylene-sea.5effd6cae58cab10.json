@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Propylene",
+      "region": "Southeast Asia CFR",
+      "month_from": "2024-01",
+      "basis": "Spot"
+    },
+    "why": "The corpus description confirms a price series for 'Propylene|Southeast Asia CFR|Spot' from 2024-01 to 2025-12. This call will retrieve the monthly spot price movement for Southeast Asia propylene since January 2024, addressing the first question and establishing coverage and any gaps."
+  },
+  "reason": "The previous error was due to a missing basis and region suffix. The corpus confirms the exact series name and coverage, so I will now query the available spot price series for Southeast Asia propylene."
+}

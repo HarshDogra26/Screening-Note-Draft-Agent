@@ -1,0 +1,117 @@
+{
+  "claims": [
+    {
+      "text": "The total operating ethylene capacity in Southeast Asia as of the latest available data is 5,370.0 kta, covering 7 of 8 matched units.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The total excludes the Sungai Liang Cracker (Coral Bay Olefins, Brunei), which is operating but has no publicly confirmed capacity.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "The following plants contribute to the total: Cilegon Cracker 1 (Nusantara Olefins, Indonesia, 1,200.0 kta), Jurong Cracker 1 (Meridian Petrochemicals, Singapore, 850.0 kta), Jurong Cracker 2 (Meridian Petrochemicals, Singapore, 600.0 kta), Pengerang Cracker (Selat Kimia Berhad, Malaysia, 1,000.0 kta), Map Ta Phut Cracker (Andaman Polymer Group, Thailand, 900.0 kta), Batangas Cracker (Luzon Resins Corporation, Philippines, 320.0 kta), and Gresik Cracker (Java Timur Petrochemical, Indonesia, 500.0 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Vung Tau Cracker (PL-006) is excluded from the total as it is under construction, not operating.",
+      "citations": [],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Sungai Liang Cracker (Coral Bay Olefins, Brunei) operating capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "Capacity_kta is blank; source_type='Not publicly confirmed'.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The aggregate covers all operating units with publicly confirmed capacity. One operating unit (Sungai Liang Cracker) is excluded from the total due to lack of publicly confirmed capacity. The Vung Tau Cracker is excluded as it is not yet operating."
+}

@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Cilegon Cracker 1 capacity expansion"
+    },
+    "why": "The plant register provides the current ethylene capacity (1200.0 kta) for Cilegon Cracker 1, but to answer whether there have been recent expansions or changes and their effective dates, I need to check relevant documents for causation and timing."
+  },
+  "reason": "The register gives the current figure, but the section also asks about recent expansions or changes and their dates, which are only documented in Part A documents."
+}

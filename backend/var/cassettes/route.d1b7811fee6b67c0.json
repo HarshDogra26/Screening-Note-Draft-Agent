@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief asks for a summary of Reliance Industries' performance in Q1 FY2026-27. Reliance Industries is a real company covered in the real published filings dataset (PART_B). However, Q1 FY2026-27 would correspond to the period April-June 2026, which is within the data coverage for price assessments but not necessarily for company financial results, as the coverage period for filings is not specified. Assuming filings are up to date, this is answerable if filings for that quarter are included.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

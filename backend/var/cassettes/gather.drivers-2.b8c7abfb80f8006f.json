@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered from two targeted document searches covers both questions in the section. The results include: (1) specific operational events and supply disruptions (e.g., planned turnaround and force majeure at Pengerang, Cilegon cracker expansion and outage, stable operations at Batangas), (2) feedstock developments (naphtha dominance, Asian naphtha price firming, refinery maintenance), and (3) market commentary attributing ethylene price movements to these events. Plant expansions and outages are directly reported, and the price commentary document explicitly links these events to observed price movements. No further tool calls are needed; the section's questions are fully answered by the evidence held."
+}

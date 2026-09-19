@@ -1,0 +1,162 @@
+{
+  "claims": [
+    {
+      "text": "Reliance BP Mobility Limited (RBML) operated a country-wide network of 2,221 outlets in Q1 FY2026-27, up from 1,991 in Q1 FY2025-26.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RBML’s Motor Spirit (MS) volumes grew 16.8% year-on-year in Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RBML’s High-Speed Diesel (HSD) volumes decreased by 1.9% year-on-year in Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Jio-bp Pulse crossed a monthly footfall of over 50,000 customers in Q1 FY2026-27, supported by an expanding fast-charging network of 5,820 live charging points.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RBML’s CBG network had 131 operating outlets in Q1 FY2026-27, with CBG volumes up 161% year-on-year and CNG volumes up 13% year-on-year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Reliance Retail’s B2B business delivered steady growth led by higher ABV (+15% year-on-year) and transactions in Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 10,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Grocery Digital Commerce average daily orders were up 116% year-on-year in Q1 FY2026-27, with digital channel share contributing 13.4% (+160 bps year-on-year) of Grocery B2C revenue.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 10,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "JioMart serviced approximately 5,500 pin codes and connected 2,500+ Digital and Fashion & Lifestyle stores to two-hour delivery in Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 10,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The active seller base on JioMart grew 26% year-on-year in Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 10,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Reliance Industries’ Energy business delivered a strong performance in Q1 FY2026-27, attributed to deeply integrated O2C operations and agile response to market changes, despite macro challenges and energy market dislocation.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 15,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Standalone financial figures (revenue, profit, etc.) for Q1 FY2026-27",
+      "reason": "not_extractable",
+      "detail": "The evidence contains references to financial tables but does not provide explicit numbers for revenue, profit, or other key financial metrics for Q1 FY2026-27.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "page": 28,
+          "sheet": null,
+          "cell_range": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The evidence provides detailed operational and segmental performance metrics, but explicit headline financial figures (revenue, profit, EBITDA, etc.) for Q1 FY2026-27 are not extractable from the available filings."
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene supply base expansion OR capacity change OR new plant OR cracker expansion OR startup OR turnaround OR idled OR force majeure",
+      "date_from": "2025-09-01"
+    },
+    "why": "To find recent documents (since late 2025) discussing changes, expansions, or disruptions in the Southeast Asia ethylene supply base, including new startups, turnarounds, idled plants, or force majeure events. This will help answer the question about recent changes or expansions."
+  },
+  "reason": "The plant register provides the current supply base and contributors, but recent changes or expansions require documentary evidence. Searching for relevant documents will address this."
+}

@@ -1,0 +1,57 @@
+{
+  "claims": [
+    {
+      "text": "The Sungai Liang Cracker in Brunei is an ethane-based steam cracker operated by Coral Bay Olefins.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Sungai Liang Cracker is located in Sungai Liang, Brunei.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Sungai Liang Cracker is listed as operating as of 2024.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The capacity of the Sungai Liang Cracker is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Ethane-based steam crackers under construction in Southeast Asia",
+      "reason": "no_assessment",
+      "detail": "No ethane-based steam crackers under construction are listed in the evidence.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "Evidence covers only one operating ethane-based steam cracker in Southeast Asia and confirms no units under construction. Capacity for the operating unit is not publicly confirmed."
+}

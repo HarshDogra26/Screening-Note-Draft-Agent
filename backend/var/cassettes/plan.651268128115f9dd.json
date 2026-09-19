@@ -1,0 +1,27 @@
+{
+  "brief": "What is the latest assessed polypropylene price in Southeast Asia?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "price-movement-pp-sea",
+      "kind": "price_movement",
+      "title": "Latest Assessed Polypropylene Price in Southeast Asia",
+      "questions": [
+        "What is the most recent assessed price for polypropylene (PP) in Southeast Asia?",
+        "Are there any gaps or limitations in the latest available price data for this product and region?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_price_series"
+      ],
+      "tool_rationale": "'describe_corpus' will confirm the coverage and any gaps in the PP|Southeast Asia CFR|Spot price series; 'query_price_series' will retrieve the latest available assessed price and highlight any missing or blank values.",
+      "unanswerable_if": "If the PP|Southeast Asia CFR|Spot price series does not contain any non-blank price for the most recent months (i.e., July and August 2026), the latest assessed price cannot be provided."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Price forecast or outlook for polypropylene in Southeast Asia",
+      "reason": "The corpus and the ASEAN Petrochemical Monitor explicitly state that price forecasts or outlooks are not published or available."
+    }
+  ]
+}

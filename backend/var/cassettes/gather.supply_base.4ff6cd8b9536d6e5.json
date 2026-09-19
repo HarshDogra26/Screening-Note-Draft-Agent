@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Southeast Asia ethylene capacity base",
+      "k": 5
+    },
+    "why": "To check for any recent industry bulletins or company disclosures that clarify aggregate capacity, supply base composition, or limitations in public confirmation, especially for plants with undisclosed capacity."
+  },
+  "reason": "The plant register provides plant-level details, but does not address aggregate capacity or supply base limitations. Industry bulletins or company disclosures may clarify what is and isn't confirmed, and provide context for the regional capacity base."
+}

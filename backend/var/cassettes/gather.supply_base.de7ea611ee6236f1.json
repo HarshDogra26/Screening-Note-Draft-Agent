@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Coral Bay Olefins Sungai Liang Cracker capacity"
+    },
+    "why": "The plant register shows that the capacity for Coral Bay Olefins' Sungai Liang Cracker is not publicly confirmed. Searching for any company disclosures or industry bulletins mentioning its capacity may clarify whether this figure is available or remains unconfirmed, directly addressing the 'what we can’t confirm' question."
+  },
+  "reason": "To resolve the gap regarding the unconfirmed capacity of the Sungai Liang Cracker, which is necessary for a complete answer to the supply base and limitations."
+}

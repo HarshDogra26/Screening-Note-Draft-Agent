@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene capacity expansion OR addition OR turnaround OR debottleneck OR force majeure OR operational event",
+      "date_from": "2025-09-01"
+    },
+    "why": "To retrieve all documents from late 2025 onward that discuss ethylene capacity changes, expansions, turnarounds, debottleneckings, or force majeures in Southeast Asia, as these are directly relevant to the section questions."
+  },
+  "reason": "The section requires evidence of recent and imminent ethylene supply events in Southeast Asia. The corpus contains several potentially relevant documents from late 2025 onward, so a targeted search is the best first step."
+}

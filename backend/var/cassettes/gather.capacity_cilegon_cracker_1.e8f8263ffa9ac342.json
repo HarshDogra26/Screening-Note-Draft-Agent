@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "city": "Cilegon",
+      "product": "Ethylene",
+      "status": "Operating"
+    },
+    "why": "The plant register is the primary source for current ethylene capacity figures. Filtering by city (Cilegon), product (Ethylene), and status (Operating) should return the relevant entry for Cilegon Cracker 1."
+  },
+  "reason": "The section asks for the current ethylene capacity and any recent changes. The plant register is the authoritative source for capacity figures and status."
+}

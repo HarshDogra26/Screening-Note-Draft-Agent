@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Straits Advanced Materials is a synthetic company in the Part A dataset, and the brief concerns its cracker operations, which falls under plant operations and capacity topics covered by Part A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

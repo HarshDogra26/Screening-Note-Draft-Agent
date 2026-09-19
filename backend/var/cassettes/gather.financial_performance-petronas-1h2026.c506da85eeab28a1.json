@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "revenue",
+      "company": "PETRONAS",
+      "doc_type": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf"
+    },
+    "why": "The section asks for PETRONAS's reported revenue for 1H 2026, including currency, unit, and any relevant notes. The corpus contains the relevant interim financial report for this period. Searching for 'revenue' in this specific document should directly answer all questions."
+  },
+  "reason": "The PETRONAS Interim Financial Report 1H 2026 is present in the corpus and should contain the revenue figure and related context for the half year ended 30 June 2026."
+}

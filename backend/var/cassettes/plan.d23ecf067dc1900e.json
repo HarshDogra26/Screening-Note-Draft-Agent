@@ -1,0 +1,28 @@
+{
+  "brief": "Screening note on Southeast Asian polypropylene and HDPE price trends through 2026",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "price-movement-pp-hdpe",
+      "kind": "price_movement",
+      "title": "Southeast Asian Polypropylene and HDPE Price Trends (2024-2026)",
+      "questions": [
+        "What were the monthly price trends for polypropylene (PP) and high-density polyethylene (HDPE) in Southeast Asia from January 2024 to August 2026?",
+        "Were there any notable periods of price volatility, sustained increases, or declines for either product?",
+        "Are there any documented explanations for major price movements in this period?"
+      ],
+      "intended_tools": [
+        "query_price_series",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The price series provides the quantitative monthly price trends for PP and HDPE, while searching documents can reveal commentary or explanations for significant price changes or volatility.",
+      "unanswerable_if": "If the price series for PP or HDPE in Southeast Asia is missing or has major gaps for the 2024-2026 period, or if no documents discuss price movements or context."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Price forecast or outlook for PP and HDPE after August 2026",
+      "reason": "The price series and documents only cover up to August 2026, and the corpus explicitly states that forecasts or outlooks are not published."
+    }
+  ]
+}

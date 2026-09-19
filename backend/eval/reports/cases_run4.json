@@ -1,0 +1,731 @@
+{
+  "generated_at": "2026-09-19T12:27:32+00:00",
+  "provider_mode": "live",
+  "results": [
+    {
+      "case_id": "A01",
+      "brief": "Screening note on Southeast Asia ethylene supply and H1 2026 price moves",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites doc:025_asean_monitor_price_commentary_2026-06-18.md",
+          "passed": true,
+          "detail": "note cites 20 sources, not this one"
+        },
+        {
+          "name": "used query_price_series",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_plant_register', 'query_price_series', 'search_part_a_documents']"
+        },
+        {
+          "name": "used search_part_a_documents",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_plant_register', 'query_price_series', 'search_part_a_documents']"
+        },
+        {
+          "name": "at least 2 sections",
+          "passed": true,
+          "detail": "got 3"
+        },
+        {
+          "name": "at least 3 claims",
+          "passed": true,
+          "detail": "got 18"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "56c91d7a7a3f"
+    },
+    {
+      "case_id": "A02",
+      "brief": "How has Southeast Asia propylene moved since 2024?",
+      "passed": false,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites doc:025_asean_monitor_price_commentary_2026-06-18.md",
+          "passed": false,
+          "detail": "note cites 6 sources, not this one"
+        },
+        {
+          "name": "mentions 'basis'",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "avoids 'rose by'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "avoids 'fell by'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "used query_price_series",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_price_series']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "d2a67e69a452"
+    },
+    {
+      "case_id": "A03",
+      "brief": "HDPE Southeast Asia prices from December 2025 to March 2026",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites price:HDPE|Southeast Asia CFR|2025-12|Spot",
+          "passed": true,
+          "detail": "note cites 8 sources, not this one"
+        },
+        {
+          "name": "cites price:HDPE|Southeast Asia CFR|2026-03|Spot",
+          "passed": true,
+          "detail": "note cites 8 sources, not this one"
+        },
+        {
+          "name": "does not state 922",
+          "passed": true,
+          "detail": "a figure that is not in the corpus appears in the note"
+        },
+        {
+          "name": "used query_price_series",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_price_series']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "106374c85e05"
+    },
+    {
+      "case_id": "A04",
+      "brief": "What is the latest assessed polypropylene price in Southeast Asia?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites price:PP|Southeast Asia CFR|2026-06|Spot",
+          "passed": true,
+          "detail": "note cites 7 sources, not this one"
+        },
+        {
+          "name": "mentions 'not publicly confirmed'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "used query_price_series",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_price_series']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "a808140fae08"
+    },
+    {
+      "case_id": "A05",
+      "brief": "What is the capacity of Coral Bay Olefins' Sungai Liang cracker?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites plant:PL-008",
+          "passed": true,
+          "detail": "note cites 5 sources, not this one"
+        },
+        {
+          "name": "mentions 'not publicly confirmed'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "reports a gap about Sungai Liang",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "gap reason == not_publicly_confirmed",
+          "passed": true,
+          "detail": "got ['not_publicly_confirmed']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "d78b2e76b0e9"
+    },
+    {
+      "case_id": "A06",
+      "brief": "What is the ethylene capacity of Cilegon Cracker 1?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites plant:PL-001",
+          "passed": true,
+          "detail": "note cites 4 sources, not this one"
+        },
+        {
+          "name": "cites doc:002_asean_monitor_capacity_note_2026-06-02.md",
+          "passed": true,
+          "detail": "note cites 4 sources, not this one"
+        },
+        {
+          "name": "mentions '1,050'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "surfaces a conflict about Cilegon Cracker 1",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "conflict includes position 1,200 kta",
+          "passed": true,
+          "detail": "positions present: ['1,050 kta', '1,200 kta']"
+        },
+        {
+          "name": "conflict includes position 1,050 kta",
+          "passed": true,
+          "detail": "positions present: ['1,050 kta', '1,200 kta']"
+        },
+        {
+          "name": "conflict left unresolved",
+          "passed": true,
+          "detail": "a resolution field appeared, which the schema should forbid"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "b32766de8e44"
+    },
+    {
+      "case_id": "A07",
+      "brief": "When is the Vung Tau cracker expected to start up?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites doc:009_mekong_vungtau_revised_2026-07-09.md",
+          "passed": true,
+          "detail": "note cites 6 sources, not this one"
+        },
+        {
+          "name": "cites at least one of ['doc:009_mekong_vungtau_revised_2026-07-09.md', 'plant:PL-006']",
+          "passed": true,
+          "detail": "note cites 6 sources, none of them these"
+        },
+        {
+          "name": "mentions '2028'",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "26ca1d09fc29"
+    },
+    {
+      "case_id": "A08",
+      "brief": "Total operating ethylene capacity in Southeast Asia",
+      "passed": false,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": false,
+          "detail": "unexpectedly refused: The corpus does not contain regional or industry-wide capacity totals; it only covers individual plant and company data."
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites plant:PL-001",
+          "passed": false,
+          "detail": "note cites 0 sources, not this one"
+        },
+        {
+          "name": "mentions '5,370'",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "used query_plant_register",
+          "passed": false,
+          "detail": "tools used: []"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "032053eb638b"
+    },
+    {
+      "case_id": "A09",
+      "brief": "Naphtha to ethylene spread in Southeast Asia during the first half of 2026",
+      "passed": false,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions 'Asia CFR'",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "used query_price_series",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'query_price_series', 'search_part_a_documents']"
+        }
+      ],
+      "known_failure": "The tool emits region_mismatch, but the drafter may not carry it into prose. See KNOWN_FAILURES.md O3.",
+      "error": null,
+      "run_id": "408ab9ebb69f"
+    },
+    {
+      "case_id": "A10",
+      "brief": "Operational events at Pengerang during 2026",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites doc:026_selat_force_majeure_2026-04-09.md",
+          "passed": true,
+          "detail": "note cites 7 sources, not this one"
+        },
+        {
+          "name": "used search_part_a_documents",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'search_part_a_documents']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "fb7b705ff5c2"
+    },
+    {
+      "case_id": "A11",
+      "brief": "Schedule for Andaman Polymer Group's third polypropylene line at Map Ta Phut",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "cites doc:007_andaman_pp3_delay_2026-07-30.md",
+          "passed": true,
+          "detail": "note cites 6 sources, not this one"
+        },
+        {
+          "name": "mentions '300'",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "ff3f3c28f455"
+    },
+    {
+      "case_id": "B01",
+      "brief": "Summarise Reliance Industries' performance in Q1 FY2026-27",
+      "passed": false,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "does not cite plant:PL-001",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "mentions 'crore'",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "mentions 'June 2026'",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "used search_part_b_filings",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'search_part_b_filings']"
+        },
+        {
+          "name": "at least 2 claims",
+          "passed": true,
+          "detail": "got 10"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "17ea14748f2b"
+    },
+    {
+      "case_id": "B02",
+      "brief": "Compare the Malaysian, Thai and Indian groups over the first half of 2026",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions '31 March'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "used search_part_b_filings",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'search_part_b_filings']"
+        },
+        {
+          "name": "at least 2 claims",
+          "passed": true,
+          "detail": "got 22"
+        }
+      ],
+      "known_failure": "Partial credit is likely: currency differences are easy to surface, the fiscal boundary is the hard half. See KNOWN_FAILURES.md O4.",
+      "error": null,
+      "run_id": "61b6ee713dd8"
+    },
+    {
+      "case_id": "B03",
+      "brief": "How does PTT Global Chemical define adjusted EBITDA?",
+      "passed": false,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions 'EBITDA'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "mentions 'excluding'",
+          "passed": false,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "99e676d3a097"
+    },
+    {
+      "case_id": "B04",
+      "brief": "Screening note on PETRONAS Chemicals Group",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions 'PETRONAS Group'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "avoids 'PETRONAS Chemicals Group Berhad'",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "dd9c2c9cfd17"
+    },
+    {
+      "case_id": "B05",
+      "brief": "Revenue reported by PETRONAS for the half year ended 30 June 2026",
+      "passed": true,
+      "checks": [
+        {
+          "name": "not refused",
+          "passed": true,
+          "detail": "unexpectedly refused: "
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions '152,441'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "used search_part_b_filings",
+          "passed": true,
+          "detail": "tools used: ['describe_corpus', 'search_part_b_filings']"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "17e90ad6a395"
+    },
+    {
+      "case_id": "R01",
+      "brief": "What is the outlook for Southeast Asia ethylene prices in 2027?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "refused",
+          "passed": true,
+          "detail": "no refusal object in the note"
+        },
+        {
+          "name": "refusal_reason == out_of_corpus",
+          "passed": true,
+          "detail": "got 'out_of_corpus'"
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "012c3171cded"
+    },
+    {
+      "case_id": "R02",
+      "brief": "Compare Nusantara Olefins with Reliance Industries",
+      "passed": true,
+      "checks": [
+        {
+          "name": "refused",
+          "passed": true,
+          "detail": "no refusal object in the note"
+        },
+        {
+          "name": "refusal_reason == cross_domain",
+          "passed": true,
+          "detail": "got 'cross_domain'"
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "does not cite plant:PL-001",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "01d622613113"
+    },
+    {
+      "case_id": "R03",
+      "brief": "What did Nusantara Olefins spend on the Cilegon expansion?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "mentions 'not'",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "does not state 1,200,000",
+          "passed": true,
+          "detail": "a figure that is not in the corpus appears in the note"
+        },
+        {
+          "name": "does not state 500",
+          "passed": true,
+          "detail": "a figure that is not in the corpus appears in the note"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "10bf11308331"
+    },
+    {
+      "case_id": "R04",
+      "brief": "Screening note on Straits Advanced Materials' cracker operations",
+      "passed": false,
+      "checks": [
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        },
+        {
+          "name": "does not cite plant:PL-001",
+          "passed": false,
+          "detail": ""
+        },
+        {
+          "name": "mentions 'does not operate'",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "b047fe22048c"
+    },
+    {
+      "case_id": "R05",
+      "brief": "How does Southeast Asian ethylene capacity compare with global capacity?",
+      "passed": true,
+      "checks": [
+        {
+          "name": "refused",
+          "passed": true,
+          "detail": "no refusal object in the note"
+        },
+        {
+          "name": "refusal_reason == out_of_corpus",
+          "passed": true,
+          "detail": "got 'out_of_corpus'"
+        },
+        {
+          "name": "every claim carries a citation",
+          "passed": true,
+          "detail": "0 uncited"
+        }
+      ],
+      "known_failure": null,
+      "error": null,
+      "run_id": "b0003066b166"
+    }
+  ]
+}

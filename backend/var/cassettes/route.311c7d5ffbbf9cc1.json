@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information on Southeast Asia ethylene supply and price movements in H1 2026. Both plant supply (capacity, operations) and price assessments for ethylene are covered in the synthetic dataset (PART_A), and H1 2026 is within the historical period for which data is available. No entities from PART_B are named or required.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}
