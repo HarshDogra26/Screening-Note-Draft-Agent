@@ -1,0 +1,9 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "describe_corpus",
+    "arguments": {},
+    "why": "The price series query returned an error for Propylene in Southeast Asia. I need to check the exact available price series and their coverage for Propylene, including contract and spot, to clarify what exists and if any data is available for the period since January 2024."
+  },
+  "reason": "The initial price series query returned an error, so I need to confirm the available price series and their coverage for Propylene in Southeast Asia before proceeding."
+}

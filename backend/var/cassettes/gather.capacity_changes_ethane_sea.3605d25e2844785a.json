@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "process_route": "Steam Cracking (Ethane)"
+    },
+    "why": "To confirm which ethane-based crackers exist in Southeast Asia, their status, and whether any are new, expanded, or under construction since 2025. This will help cross-check the document findings and identify any capacity changes not mentioned in the documents."
+  },
+  "reason": "The documents provide some evidence of capacity changes and turnarounds, but to ensure completeness and accuracy, the plant register should be queried for ethane-based crackers in Southeast Asia to confirm their status and any recent changes."
+}

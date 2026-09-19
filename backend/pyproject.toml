@@ -1,0 +1,81 @@
+[project]
+name = "screening-note-agent"
+version = "0.1.0"
+description = "One-line brief to a structured, cited petrochemical screening note"
+requires-python = ">=3.11"
+
+# Every entry below is imported somewhere in the source. Verified rather than
+# assumed: an earlier version declared pymupdf4llm and openpyxl, which nothing
+# imported, while openai and pymupdf were imported but arrived only transitively
+# through langchain-openai — so a clean install could have failed.
+dependencies = [
+    "fastapi>=0.115.6",
+    "uvicorn[standard]>=0.34.0",
+    "pydantic>=2.11",
+    "pydantic-settings>=2.7",
+    "python-dotenv>=1.0",
+    "structlog>=24.4",
+    "pyyaml>=6.0",
+    # agent
+    "langgraph>=0.2",
+    "langsmith>=0.2",
+    "openai>=1.50",
+    # tools, served over MCP
+    "fastmcp>=2.13",
+    "mcp>=1.26",
+    # corpora
+    "pymupdf>=1.24",
+    "openpyxl>=3.1",
+    "chromadb>=0.5.20",
+    "rank-bm25>=0.2.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "pytest-cov>=6.0",
+    "ruff>=0.8",
+    "httpx>=0.28",  # required by fastapi's TestClient
+]
+# Kept separate: ragas drags in a large dependency tree and is a secondary
+# quality signal, not the build gate. See ARCHITECTURE.md section 11.3.
+eval = [
+    "ragas>=0.2",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+# Listed explicitly: this directory has several top-level packages, and
+# setuptools' auto-discovery refuses to guess between them.
+packages = [
+    "app",
+    "app.domain",
+    "app.graph",
+    "app.prompts",
+    "app.services",
+    "app.providers",
+    "mcp_servers",
+    "ingestion",
+]
+
+[tool.setuptools.package-data]
+# Prompts are read at runtime and are versioned with the code, so they must ship.
+"app.prompts" = ["*.md"]
+"ingestion" = ["*.yaml"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

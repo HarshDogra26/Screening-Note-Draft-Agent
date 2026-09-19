@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests revenue figures for PETRONAS, a real company included in the Part B dataset, for a historical period (first half of 2026) within the coverage of published filings.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

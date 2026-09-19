@@ -1,0 +1,62 @@
+{
+  "brief": "Screening note on Southeast Asia ethylene supply and H1 2026 price moves",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base",
+      "kind": "supply_base",
+      "title": "Southeast Asia Ethylene Supply Base",
+      "questions": [
+        "What is the current ethylene production capacity in Southeast Asia?",
+        "Which companies and plants are the main contributors to regional supply?",
+        "Have there been any recent changes or expansions in the supply base since late 2025?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register provides a structured view of ethylene capacity and plant operators in Southeast Asia, while documents reveal recent expansions, new startups, or operational changes not yet reflected in the register.",
+      "unanswerable_if": "If the register lacks Southeast Asia ethylene plant data or if no documents discuss recent supply base changes."
+    },
+    {
+      "id": "capacity_changes",
+      "kind": "capacity_changes",
+      "title": "Recent and Imminent Capacity Changes",
+      "questions": [
+        "What major ethylene capacity additions, expansions, or operational events have occurred in Southeast Asia since late 2025?",
+        "Are there any significant turnarounds, debottleneckings, or force majeures affecting supply in this period?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Documents provide details on recent and upcoming capacity changes, operational events, and disruptions that impact supply.",
+      "unanswerable_if": "If no documents from late 2025 onward discuss capacity changes, expansions, or operational events for Southeast Asia ethylene plants."
+    },
+    {
+      "id": "price_movement",
+      "kind": "price_movement",
+      "title": "Ethylene Price Movement in H1 2026",
+      "questions": [
+        "How did Southeast Asia CFR spot ethylene prices move during H1 2026?",
+        "What were the key drivers or events influencing these price changes?",
+        "How did price trends in Southeast Asia compare to Northeast Asia in the same period?"
+      ],
+      "intended_tools": [
+        "query_price_series",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Price series provide the quantitative movement of ethylene prices, while documents (especially industry bulletins) offer context and explanations for observed trends.",
+      "unanswerable_if": "If the price series for Southeast Asia ethylene is missing for H1 2026 or if no documents discuss price drivers or events in that period."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Aggregate regional ethylene capacity total",
+      "reason": "ASEAN Petrochemical Monitor explicitly does not publish aggregate regional capacity totals in its bulletins."
+    },
+    {
+      "topic": "Price forecast or outlook for ethylene after August 2026",
+      "reason": "The brief does not request a forecast, and the corpus does not contain forward-looking price assessments or outlooks."
+    }
+  ]
+}

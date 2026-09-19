@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Cilegon expansion spend OR capex OR capital expenditure OR investment",
+      "company": "Nusantara Olefins"
+    },
+    "why": "The section asks whether Nusantara Olefins disclosed the capital expenditure or total spend for the Cilegon cracker expansion. Searching company press releases for spend, capex, or investment terms will directly answer if a figure was disclosed and in what context."
+  },
+  "reason": "The question is about spend disclosure, and only company press releases or industry bulletins can provide causation or context. This search targets relevant terms and the correct company."
+}

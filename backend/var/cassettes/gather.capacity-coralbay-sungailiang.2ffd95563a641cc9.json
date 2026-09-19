@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Coral Bay Olefins",
+      "city": "Sungai Liang",
+      "status": "Operating"
+    },
+    "why": "The register description notes Coral Bay Olefins has a plant in Sungai Liang with capacity not publicly confirmed. Querying by company, city, and status should return the available register entry and clarify whether any capacity figure or indirect estimate is present, or if the entry explicitly states non-disclosure."
+  },
+  "reason": "The previous call failed due to an invalid argument. This call uses valid filter columns to retrieve the relevant register entry for the Sungai Liang cracker."
+}

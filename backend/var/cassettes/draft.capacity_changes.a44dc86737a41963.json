@@ -1,0 +1,129 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins announced mechanical completion of the Cilegon Cracker 1 expansion in March 2026, returning the unit to service with a company-described ethylene capacity of 1,200 kta.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor lists Cilegon Cracker 1 at a confirmed nameplate ethylene capacity of 1,050 kta and notes the operator's higher figure is contingent on a debottlenecking step not yet independently verified.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor's June capacity review lists Cilegon Cracker 1 (Nusantara Olefins) at a confirmed nameplate ethylene capacity of 1,050 kta. The Monitor notes that the operator has publicly referenced a higher figure following the March 2026 furnace replacement programme. The Monitor's position is that the additional volume is contingent on a debottlenecking step that has not yet been independently verified."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "Mekong Chemical Industries revised the expected startup of its Vung Tau steam cracker from 2027 to 2028, citing delayed delivery of the cracked gas compressor and slower progress on the marine offloading facility; ethylene design capacity remains 750 kta.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "Mekong Chemical Industries has revised the expected startup of its Vung Tau steam cracker from 2027 to 2028. Mekong said the ethylene design capacity of 750 kta is unchanged."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Luzon Resins Corporation has commissioned a study into debottlenecking options at its Batangas cracker, with no target capacity set and no comment on potential figures until the study concludes, expected in the first half of 2027.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "010_luzon_debottleneck_study_2026-05-14.md",
+          "quote": "No target capacity has been set and the company said it will not comment on potential figures until the study concludes, which it expects in the first half of 2027."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion found during a scheduled turnaround, extending the outage beyond the planned duration; the company does not expect the work to affect nameplate capacity once complete.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect... The company said it does not expect the work to affect nameplate capacity once complete."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals will modify the feed system at Jurong Cracker 1 to allow a higher proportion of LPG, with engineering work scheduled to begin in Q1 2027 and tie-ins during a planned turnaround; the modification does not change the nameplate ethylene capacity.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "004_meridian_feed_flexibility_2026-08-07.md",
+          "quote": "Engineering work is scheduled to begin in the first quarter of 2027 and the company expects to complete the tie-ins during a planned turnaround. The company said the modification is intended to improve margin resilience... and that it does not change the nameplate ethylene capacity of the unit."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins has begun pre-front-end engineering design work for a potential second steam cracker at Cilegon, with no investment decision, capacity, feedstock configuration, or schedule fixed; a decision is not expected before 2028.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "024_nusantara_cracker2_prefeed_2026-01-22.md",
+          "quote": "Nusantara Olefins has begun pre-front-end engineering design work for a potential second steam cracker at Cilegon. The company said no investment decision has been taken and no capacity, feedstock configuration or schedule has been fixed. The company said a decision would not be expected before 2028."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Andaman Polymer Group announced in July 2026 that mechanical completion for Polypropylene Line 3 at Map Ta Phut has moved from Q2 2028 to Q4 2028 due to permit and ground condition delays; the delay does not affect the existing two polypropylene lines or the cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "007_andaman_pp3_delay_2026-07-30.md",
+          "quote": "The company said mechanical completion has moved from the second quarter of 2028 to the fourth quarter of 2028... Andaman said the delay does not affect the existing two polypropylene lines or the cracker."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Luzon Resins Batangas cracker debottlenecking study",
+      "reason": "not_publicly_confirmed",
+      "detail": "No target capacity has been set and the company will not comment on potential figures until the study concludes, expected in the first half of 2027.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "010_luzon_debottleneck_study_2026-05-14.md",
+          "quote": "No target capacity has been set and the company said it will not comment on potential figures until the study concludes, which it expects in the first half of 2027."
+        }
+      ]
+    },
+    {
+      "subject": "Nusantara Olefins Cilegon Cracker 2 pre-FEED",
+      "reason": "not_publicly_confirmed",
+      "detail": "No investment decision, capacity, feedstock configuration, or schedule has been fixed for the potential second cracker at Cilegon; a decision is not expected before 2028.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "024_nusantara_cracker2_prefeed_2026-01-22.md",
+          "quote": "The company said no investment decision has been taken and no capacity, feedstock configuration or schedule has been fixed. The company said a decision would not be expected before 2028."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The section covers all major ethylene capacity additions, expansions, delays, and operational events in Southeast Asia reported in the past year. Where figures are disputed or not publicly confirmed, both positions are stated. No evidence of cancellations or significant capacity reductions was found in the retrieved documents."
+}

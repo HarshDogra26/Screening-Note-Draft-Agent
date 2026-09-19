@@ -1,0 +1,83 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins completed the expansion of Cilegon Cracker 1 in March 2026, increasing its ethylene capacity to 1,200 kta.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Cilegon Cracker 1 expansion involved replacing four cracking furnaces and upgrading the quench section, executed during a planned 45-day turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "The expansion replaced four cracking furnaces and upgraded the quench section. The company said the project was executed during a planned 45-day turnaround."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion found during a scheduled turnaround, extending the outage beyond the planned duration.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect. The company said inspection during the current scheduled turnaround identified corrosion in a quench tower internal that requires replacement, extending the outage beyond the planned duration."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The force majeure at Pengerang overlapped with the tail of the Cilegon furnace replacement programme in March, contributing to a supply outage in Southeast Asia in April 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad started up a 380 kta HDPE line at its Pengerang complex in September 2025, which takes ethylene from the existing Pengerang cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "018_selat_hdpe_startup_2025-09-30.md",
+          "quote": "Selat Kimia Berhad has started up a 380 kta HDPE line at its Pengerang complex. The line uses slurry loop technology and takes ethylene from the existing Pengerang cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Luzon Resins Corporation reported stable operations at its Batangas complex through early 2026, with no unplanned outages at the cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "023_luzon_operational_summary_2026-02-27.md",
+          "quote": "Luzon Resins Corporation reported stable operations across its Batangas complex for the year, with no unplanned outages at the cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad stated that the force majeure and extended turnaround at Pengerang are not expected to affect nameplate ethylene capacity once repairs are complete.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "The company said it does not expect the work to affect nameplate capacity once complete."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All major ethylene capacity additions, expansions, and operational events since late 2025 are covered by company press releases and industry bulletins. No evidence of debottleneckings or other significant events outside those listed. Capital cost figures for the Cilegon expansion were not disclosed."
+}

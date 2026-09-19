@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The register query provides a list of all Southeast Asia ethylene plants, their capacities (where publicly confirmed), companies, and status, directly answering the questions about current capacity and main contributors. The document search returns recent evidence of supply base changes since late 2025: a completed expansion at Cilegon (Nusantara Olefins), a force majeure and extended turnaround at Pengerang (Selat Kimia Berhad), and a completed turnaround at Map Ta Phut (Andaman Polymer Group), with explicit statements on capacity impact. No further tools are needed; all section questions are answered with available evidence."
+}

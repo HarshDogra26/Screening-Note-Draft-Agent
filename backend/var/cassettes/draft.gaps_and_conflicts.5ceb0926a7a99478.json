@@ -1,0 +1,136 @@
+{
+  "claims": [
+    {
+      "text": "The Sungai Liang Cracker operated by Coral Bay Olefins in Brunei is the only ethylene plant in Southeast Asia for which nameplate capacity is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Coral Bay Olefins has explicitly stated it does not disclose the nameplate capacity of the Sungai Liang ethane cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor does not publish estimates for units where the operator has not disclosed nameplate capacity, including the Sungai Liang Cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor does not publish estimates for units where the operator has not disclosed nameplate capacity."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Regional Energy Statistics Office does not publish producer-level petrochemical capacity figures and its naphtha note contains no plant-level capacity data.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "022_energy_agency_naphtha_note_2026-08-14.md",
+          "quote": "It does not contain plant-level petrochemical capacity data, and the Office does not publish producer-level capacity figures."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor does not publish aggregate regional capacity totals in its overview bulletin; it only lists units individually in its capacity database.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins has begun pre-FEED work for a potential second steam cracker at Cilegon, but no capacity, feedstock configuration, or schedule has been fixed and no investment decision has been taken.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "024_nusantara_cracker2_prefeed_2026-01-22.md",
+          "quote": "The company said no investment decision has been taken and no capacity, feedstock configuration or schedule has been fixed."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Sungai Liang Cracker (Coral Bay Olefins) ethylene capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "No nameplate capacity figure is disclosed for the Sungai Liang Cracker; operator and industry sources confirm this gap.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor does not publish estimates for units where the operator has not disclosed nameplate capacity."
+        }
+      ]
+    },
+    {
+      "subject": "Aggregate regional ethylene capacity totals",
+      "reason": "not_disclosed",
+      "detail": "The ASEAN Petrochemical Monitor does not publish aggregate regional capacity totals in its overview bulletin; only individual unit listings are available.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin."
+        }
+      ]
+    },
+    {
+      "subject": "Producer-level petrochemical capacity figures",
+      "reason": "not_disclosed",
+      "detail": "The Regional Energy Statistics Office does not publish producer-level capacity figures and its naphtha note contains no plant-level capacity data.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "022_energy_agency_naphtha_note_2026-08-14.md",
+          "quote": "It does not contain plant-level petrochemical capacity data, and the Office does not publish producer-level capacity figures."
+        }
+      ]
+    },
+    {
+      "subject": "Cilegon Cracker 2 (Nusantara Olefins)",
+      "reason": "not_publicly_confirmed",
+      "detail": "No capacity, feedstock configuration, or schedule is fixed for the proposed second Cilegon cracker; no investment decision has been taken.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "024_nusantara_cracker2_prefeed_2026-01-22.md",
+          "quote": "The company said no investment decision has been taken and no capacity, feedstock configuration or schedule has been fixed."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The main gap in the regional ethylene capacity base is the absence of a publicly confirmed figure for the Sungai Liang Cracker in Brunei. Other gaps include the lack of aggregate regional capacity totals and producer-level figures in some official sources. Proposed projects without fixed capacity or schedule are also not included in the confirmed base."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Andaman Polymer Group",
+      "city": "Map Ta Phut",
+      "product": "PP"
+    },
+    "why": "To directly answer which polypropylene (PP) production assets Andaman Polymer Group operates or has under development at Map Ta Phut, and to retrieve their status and characteristics."
+  },
+  "reason": "The plant register is filterable by company, city, and product, so this call will return all relevant Andaman Polymer Group PP assets at Map Ta Phut, including their status and characteristics."
+}

@@ -1,0 +1,18 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Legal entity and reporting structure of PETRONAS Group as represented in available filings",
+      "reason": "not_extractable",
+      "detail": "No evidence was successfully retrieved from PETRONAS Group filings due to repeated tool errors and missing arguments. No claims can be made about the legal entity or reporting structure.",
+      "citations": []
+    },
+    {
+      "subject": "Relationship between PETRONAS Group and PETRONAS Chemicals Group (PCG) and any information on PCG in parent filings",
+      "reason": "not_extractable",
+      "detail": "No evidence was successfully retrieved from PETRONAS Group filings due to repeated tool errors and missing arguments. No claims can be made about the relationship or any mention of PCG in parent filings.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "All attempts to retrieve evidence from PETRONAS Group filings failed due to tool errors and missing arguments. No claims can be made for this section."
+}

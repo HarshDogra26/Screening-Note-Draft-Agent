@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Coral Bay Olefins Sungai Liang ethylene capacity",
+      "k": 3
+    },
+    "why": "The register shows Coral Bay Olefins' Sungai Liang Cracker as operating but with capacity not publicly confirmed. Searching for documents may clarify whether any public statements, press releases, or industry bulletins provide a capacity figure or further context on disclosure limitations."
+  },
+  "reason": "The supply base and process routes are well evidenced, but the only unconfirmed capacity is Coral Bay Olefins' Sungai Liang Cracker. To address 'what we can’t confirm,' I need to check if any documents clarify or disclose its capacity."
+}

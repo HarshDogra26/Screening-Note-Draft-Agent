@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Coral Bay Olefins"
+    },
+    "why": "The plant register entry for Coral Bay Olefins may contain capacity information or a note about its public confirmation status. This is the most direct source for plant-level capacity data."
+  },
+  "reason": "The register is the primary source for capacity confirmation; querying it for Coral Bay Olefins will clarify if the Sungai Liang cracker's capacity is publicly available or explicitly not disclosed."
+}

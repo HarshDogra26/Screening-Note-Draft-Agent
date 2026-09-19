@@ -1,0 +1,19 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Ethylene",
+      "region": "Southeast Asia CFR",
+      "month_from": "2026-01",
+      "month_to": "2026-06",
+      "basis": "Spot",
+      "compute": "spread",
+      "spread_against": "Naphtha",
+      "spread_against_region": "Asia CFR",
+      "spread_against_basis": "Spot"
+    },
+    "why": "To directly obtain the monthly naphtha-to-ethylene spread in Southeast Asia for H1 2026, which answers the first two questions about the spread and its month-by-month evolution."
+  },
+  "reason": "The spread can be computed directly from the price series, and both required series are present and continuous for the period. This is the most efficient way to answer the first two questions."
+}

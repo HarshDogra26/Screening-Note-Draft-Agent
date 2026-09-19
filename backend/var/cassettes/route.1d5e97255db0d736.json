@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests revenue figures reported by PETRONAS, which is a real company included in the Part B dataset, and specifically asks for financial results for a defined period.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

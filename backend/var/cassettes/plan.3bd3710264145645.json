@@ -1,0 +1,30 @@
+{
+  "brief": "What did Nusantara Olefins spend on the Cilegon expansion?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "company_profile_cilegon_expansion",
+      "kind": "company_profile",
+      "title": "Nusantara Olefins Cilegon Expansion: Company Disclosures",
+      "questions": [
+        "Has Nusantara Olefins disclosed the capital expenditure or investment amount for the Cilegon cracker expansion?",
+        "Are there any figures, estimates, or statements regarding the cost of the expansion in company press releases or industry bulletins?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Only company press releases or industry bulletins may contain explicit statements or figures regarding project spending; the plant register does not include financial data.",
+      "unanswerable_if": "No document in the corpus contains a statement or figure for the Cilegon expansion's capital expenditure or investment amount."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Detailed project cost breakdown or future spending plans for Cilegon expansion",
+      "reason": "The corpus only contains company press releases and industry bulletins, which may state a total figure but do not provide detailed breakdowns or forward-looking spending plans."
+    },
+    {
+      "topic": "Any financial data from Nusantara Olefins' official filings or annual reports",
+      "reason": "The dataset is part_a, which does not include company financial filings or annual reports; only press releases and industry bulletins are available."
+    }
+  ]
+}

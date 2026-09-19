@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information on ethylene supply and price movements in Southeast Asia, which aligns with the synthetic world dataset (PART_A) containing plant registers and monthly price assessments for ethylene. However, the request for H1 2026 price moves is out of scope, as the sources do not publish forward-looking assessments.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requests a price outlook for H1 2026, which is not available as the dataset does not provide forecasts or projections.",
+  "requires_both_domains": false
+}

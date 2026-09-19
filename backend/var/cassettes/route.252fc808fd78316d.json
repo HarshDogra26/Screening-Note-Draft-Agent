@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests a screening note on PETRONAS Chemicals Group, which is a real company covered in the real published filings (PART_B). No synthetic entities are mentioned, so the note should be routed to PART_B.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

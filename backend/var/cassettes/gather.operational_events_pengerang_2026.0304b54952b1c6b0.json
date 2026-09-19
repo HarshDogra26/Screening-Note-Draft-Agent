@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "Pengerang operational events shutdown incident maintenance restart",
+      "date_from": "2026-01-01",
+      "date_to": "2026-12-31",
+      "k": 20
+    },
+    "why": "To identify any company filings in 2026 that mention operational events at the Pengerang facility, including shutdowns, incidents, maintenance, or restarts, as required by the section questions."
+  },
+  "reason": "The section requires evidence of operational events at Pengerang in 2026, and company filings are the only valid source for causation/context. This search targets relevant keywords and the correct date range."
+}

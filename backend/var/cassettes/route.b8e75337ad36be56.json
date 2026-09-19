@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests HDPE price assessments for Southeast Asia over a specific period; PART_A contains synthetic monthly price assessments for HDPE and covers this type of data. The date range is in the future, but the corpus does not provide forecasts, only historical or current data.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The request is for future (December 2025 to March 2026) HDPE prices, but the dataset does not provide forecasts or forward-looking assessments.",
+  "requires_both_domains": false
+}

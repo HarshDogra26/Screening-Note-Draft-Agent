@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests the total operating ethylene capacity in Southeast Asia. The synthetic register in PART_A lists every plant individually, including their capacities, so this total can be computed from PART_A. No real company filings or entities are named, and the request is answerable using the synthetic dataset.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

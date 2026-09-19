@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "doc_type": "interim_report",
+      "query": "outlook OR forward-looking OR prospects OR guidance OR strategy OR market conditions OR future"
+    },
+    "why": "To ensure coverage of the most recent quarters for Reliance, as interim reports may contain updated outlook or forward-looking statements beyond the annual report."
+  },
+  "reason": "The section requests the most recent outlook statements, including from the latest quarters. For Reliance, searching the interim report will help capture any updated outlook or strategic commentary not present in the annual report."
+}

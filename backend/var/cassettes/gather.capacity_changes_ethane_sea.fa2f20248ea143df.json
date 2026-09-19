@@ -1,0 +1,16 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "process_route": "Steam Cracking (Ethane)",
+      "region": "Southeast Asia",
+      "status": [
+        "Operating",
+        "Under construction"
+      ]
+    },
+    "why": "The previous plant register query returned only one plant (Coral Bay Olefins, Sungai Liang Cracker) with 'not publicly confirmed' capacity. However, documents mention a recent expansion at Nusantara Olefins (Cilegon Cracker 1). To ensure completeness, I will re-query the plant register for all operating and under-construction ethane-based crackers in Southeast Asia, to check for any additional plants (such as Nusantara Olefins) and their capacity/status details."
+  },
+  "reason": "The evidence so far identifies Coral Bay Olefins as the only ethane-based cracker in the plant register, but documents indicate at least one more (Nusantara Olefins). A full plant register query will clarify the plant list and capacity status for this section."
+}

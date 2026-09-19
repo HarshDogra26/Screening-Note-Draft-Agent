@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The plant register does not list Straits Advanced Materials as an operator of any cracker assets (no rows returned for the company under any status). This corpus cannot answer the section's questions, and this is a valid finding: Straits Advanced Materials does not appear in the register as an operator of any cracker assets."
+}

@@ -1,0 +1,41 @@
+{
+  "claims": [
+    {
+      "text": "Straits Advanced Materials has opened a specialty compounding facility on Jurong Island.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "019_straits_compounding_2026-06-12.md",
+          "quote": "Straits Advanced Materials has opened a specialty compounding facility on Jurong Island."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The company does not operate crackers or polymerisation units and purchases base resin from third parties.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "019_straits_compounding_2026-06-12.md",
+          "quote": "The company does not operate crackers or polymerisation units and purchases base resin from third parties."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Recent operational events, expansions, turnarounds, or strategic developments related to Straits Advanced Materials' cracker operations",
+      "reason": "not_disclosed",
+      "detail": "No evidence of cracker operations or related events for Straits Advanced Materials in the past year.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "019_straits_compounding_2026-06-12.md",
+          "quote": "The company does not operate crackers or polymerisation units and purchases base resin from third parties."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The only recent company press release found confirms Straits Advanced Materials does not operate crackers or polymerisation units. No evidence of cracker-related operational events or strategic developments was found."
+}

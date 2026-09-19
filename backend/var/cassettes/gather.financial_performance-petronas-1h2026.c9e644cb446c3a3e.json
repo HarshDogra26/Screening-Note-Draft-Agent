@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The search for 'revenue' in the PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf returned zero results. Since the section is unanswerable if this document does not contain a revenue figure for the half year ended 30 June 2026, and no such figure was found, the question cannot be answered from this corpus. This is a valid finding per the brief's criteria."
+}

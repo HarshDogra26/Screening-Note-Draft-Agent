@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered covers the available filings for PETRONAS (Malaysia), PTT Global Chemical (Thailand), and Reliance Industries Limited (India) for the first half of 2026. PETRONAS has an interim financial report specifically for 1H 2026, providing revenue, profit, margin, and operational event details. GC (PTT Global Chemical) only has an annual report for 2025, with no evidence of filings covering 1H 2026; the report discusses performance up to 2025 and planned meetings for 2026 but lacks financial or operational data for 1H 2026. RIL (Reliance Industries Limited) has an annual report for the year ended March 2026, but no interim or half-yearly report for 1H 2026, and the retrieved content does not provide financial or operational performance for that period. Therefore, a full competitor comparison for 1H 2026 cannot be answered from this corpus: only PETRONAS has relevant, detailed evidence for the period, while GC and RIL do not. This is a valid finding and completes evidence gathering for this section."
+}

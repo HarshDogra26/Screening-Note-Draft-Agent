@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The plant register returns zero results for Straits Advanced Materials, indicating that the company does not appear as an operator of any cracker assets. This directly answers the section questions: Straits Advanced Materials does not operate any cracker assets, and therefore there are no locations or main characteristics to report. The question is unanswerable from the corpus because the company is not listed as a cracker operator."
+}

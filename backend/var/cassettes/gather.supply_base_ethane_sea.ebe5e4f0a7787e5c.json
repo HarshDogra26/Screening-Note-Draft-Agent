@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The register confirms that the only ethane-based steam cracker in Southeast Asia is the Sungai Liang Cracker operated by Coral Bay Olefins in Brunei, with status 'Operating'. Its capacity is not publicly confirmed, but the plant's existence, operator, location, and status are established. No other plants with 'Steam Cracking (Ethane)' in Southeast Asia are listed. This fully answers the section's questions: which plants exist, their operators, locations, and status. No further evidence is needed."
+}

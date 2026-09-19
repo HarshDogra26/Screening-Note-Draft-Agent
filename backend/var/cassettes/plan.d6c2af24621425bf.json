@@ -1,0 +1,48 @@
+{
+  "brief": "Screening note on Straits Advanced Materials' cracker operations",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "company_profile",
+      "kind": "company_profile",
+      "title": "Company Profile: Straits Advanced Materials Cracker Operations",
+      "questions": [
+        "What cracker assets does Straits Advanced Materials operate?",
+        "Where are these assets located and what are their main characteristics (e.g., process route, product slate, status)?"
+      ],
+      "intended_tools": [
+        "query_plant_register"
+      ],
+      "tool_rationale": "The plant register provides asset-level details by company, including location, process route, product, and operational status.",
+      "unanswerable_if": "Straits Advanced Materials does not appear in the plant register as an operator of any cracker assets."
+    },
+    {
+      "id": "operational_events",
+      "kind": "operational_events",
+      "title": "Recent Operational Events and Developments",
+      "questions": [
+        "Have there been any recent operational events, expansions, turnarounds, or strategic developments related to Straits Advanced Materials' cracker operations?",
+        "Are there any relevant company press releases or industry bulletins mentioning Straits Advanced Materials' cracker activities in the past year?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Searching the documents identifies recent events, expansions, or strategic moves specific to Straits Advanced Materials' cracker operations.",
+      "unanswerable_if": "No documents in the corpus mention Straits Advanced Materials or its cracker operations."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Financial performance or profitability of Straits Advanced Materials",
+      "reason": "The corpus does not contain financial statements, earnings releases, or profitability data for Straits Advanced Materials."
+    },
+    {
+      "topic": "Price forecast or outlook for cracker products",
+      "reason": "The corpus only contains historical price assessments up to 2026-08 and explicitly excludes forecasts or outlooks."
+    },
+    {
+      "topic": "Aggregate regional capacity or market share for Straits Advanced Materials",
+      "reason": "Industry bulletins in the corpus do not publish aggregate regional capacity totals or company market share figures."
+    }
+  ]
+}

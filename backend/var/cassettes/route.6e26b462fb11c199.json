@@ -1,0 +1,7 @@
+{
+  "domain": null,
+  "reasoning": "Nusantara Olefins is part of the synthetic world (Part A), while Reliance Industries is a real company in Part B. The brief requires information from both datasets, which is not permitted.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requires comparison between a Part A company and a Part B company, which is not allowed as the datasets must not appear in the same note.",
+  "requires_both_domains": true
+}

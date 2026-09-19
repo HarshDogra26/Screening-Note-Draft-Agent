@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests a screening note on ethane-based cracking in Southeast Asia. This topic concerns process routes and plant technology, which are covered by the synthetic world dataset (PART_A), including plant registers and process information. No real company filings or financials are involved, and no entities from PART_B are named.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "HDPE",
+      "region": "Southeast Asia",
+      "month_from": "2025-12",
+      "month_to": "2026-03"
+    },
+    "why": "The section asks for assessed HDPE Southeast Asia CFR spot prices for each month from December 2025 to March 2026, and whether there are gaps or missing values. The price series metadata confirms coverage for this product and region, with explicit gaps in January and February 2026. This call will retrieve the actual price values and continuity information for the requested period."
+  },
+  "reason": "The next step is to retrieve the price series for HDPE|Southeast Asia CFR|Spot for the specified months to answer both questions directly."
+}

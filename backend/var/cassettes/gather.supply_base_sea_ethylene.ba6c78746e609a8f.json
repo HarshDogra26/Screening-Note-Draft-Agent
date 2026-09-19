@@ -1,0 +1,16 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene",
+      "status": [
+        "Operating"
+      ],
+      "aggregate": true
+    },
+    "why": "To obtain the total operating ethylene capacity in Southeast Asia as of the latest available data, directly from the plant register, which is the most authoritative source for plant-level and aggregate capacity figures."
+  },
+  "reason": "The first question asks for the total operating ethylene capacity in Southeast Asia. The plant register can provide this directly, including any limitations if some plant capacities are not publicly confirmed."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": null,
+  "reasoning": "The brief explicitly requests a comparison between Nusantara Olefins (from the synthetic dataset, PART_A) and Reliance Industries (from the real filings, PART_B). The rule prohibits mixing these datasets in a single note.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requires information from both the synthetic and real datasets, which is not permitted.",
+  "requires_both_domains": true
+}

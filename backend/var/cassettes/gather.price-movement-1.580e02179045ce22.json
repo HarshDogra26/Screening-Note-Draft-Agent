@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Ethylene",
+      "region": "Southeast Asia",
+      "month_from": "2025-03",
+      "month_to": "2026-08"
+    },
+    "why": "The section asks how Southeast Asian ethylene prices moved over the past eighteen months. The 'Ethylene|Southeast Asia CFR|Spot' price series is present and covers the required period. Querying this series will provide the price movement and allow identification of key inflection points or trends."
+  },
+  "reason": "The price series exists and is complete for the period. Querying it will directly answer the section's questions about price movement and trends."
+}

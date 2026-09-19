@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests a comparison of Malaysian, Thai, and Indian groups, which refers to PETRONAS Group (Malaysia), PTT Global Chemical (Thailand), and Reliance Industries (India), all of which are included in PART_B. The period requested (first half of 2026) is within the coverage of the real filings. No entities from PART_A are mentioned, so this is answerable using PART_B only.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

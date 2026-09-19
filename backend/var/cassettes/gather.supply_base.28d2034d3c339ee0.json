@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene"
+    },
+    "why": "To identify all ethylene plants in Southeast Asia, including their capacities, companies, process routes, and statuses, which directly addresses the questions about the regional supply base."
+  },
+  "reason": "The plant register is the primary source for the capacity base, plant list, and process routes/statuses. This call will establish the current ethylene production capacity and the makeup of the supply base."
+}

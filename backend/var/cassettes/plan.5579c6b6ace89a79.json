@@ -1,0 +1,46 @@
+{
+  "brief": "Screening note on ethane-based cracking in Southeast Asia.",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base_ethane_sea",
+      "kind": "supply_base",
+      "title": "Ethane-Based Cracker Supply Base in Southeast Asia",
+      "questions": [
+        "Which ethane-based steam crackers are operating or under construction in Southeast Asia?",
+        "Who are the operators, where are the plants located, and what is their status?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "describe_corpus"
+      ],
+      "tool_rationale": "The plant register filtered by region and process_route identifies ethane-based crackers and their operators/locations/status; describe_corpus confirms coverage and any limitations.",
+      "unanswerable_if": "No plants in Southeast Asia are listed with 'Steam Cracking (Ethane)' as process_route in the register."
+    },
+    {
+      "id": "capacity_changes_ethane_sea",
+      "kind": "capacity_changes",
+      "title": "Recent and Announced Capacity Changes for Ethane-Based Crackers",
+      "questions": [
+        "What capacity changes (expansions, new builds, debottlenecks, or major turnarounds) have occurred or been announced for ethane-based crackers in Southeast Asia since 2025?",
+        "Are there any relevant delays, FIDs, or project milestones?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents",
+        "query_plant_register"
+      ],
+      "tool_rationale": "Searching documents surfaces recent/announced events affecting ethane-based crackers; the register confirms plant status and process route for context.",
+      "unanswerable_if": "No documents since 2025 mention capacity changes, expansions, or project milestones for ethane-based ethylene crackers in Southeast Asia."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Feedstock cost or margin analysis specific to ethane-based crackers in Southeast Asia",
+      "reason": "No feedstock margin or cost data is present in the corpus; only price series and plant/document data are available."
+    },
+    {
+      "topic": "Price forecast or outlook for ethylene or derivatives",
+      "reason": "The corpus and price commentary explicitly exclude forecasts or forward-looking statements."
+    }
+  ]
+}

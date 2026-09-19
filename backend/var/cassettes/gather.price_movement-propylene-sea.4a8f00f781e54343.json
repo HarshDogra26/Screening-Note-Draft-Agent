@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Propylene",
+      "region": "Southeast Asia",
+      "month_from": "2024-01"
+    },
+    "why": "To retrieve the monthly price movement for Southeast Asia propylene since January 2024, addressing the first question and establishing available coverage."
+  },
+  "reason": "The section requires evidence of price movement since January 2024. The corpus description confirms two relevant price series: spot (2024-01 to 2025-12) and contract (2026-01 to 2026-08). Querying the spot series first will provide data for the period starting January 2024 and clarify coverage and any gaps."
+}

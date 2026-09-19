@@ -1,0 +1,31 @@
+{
+  "brief": "Compare the Malaysian, Thai and Indian groups over the first half of 2026",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "competitor_comparison-1",
+      "kind": "competitor_comparison",
+      "title": "Competitor Comparison: Malaysian, Thai, and Indian Groups (1H 2026)",
+      "questions": [
+        "How did the financial and operational performance of PETRONAS (Malaysia), PTT Global Chemical (Thailand), and Reliance Industries Limited (India) compare over the first half of 2026?",
+        "What were the key differences in revenue, profit, margins, and any notable operational events among these groups during this period?",
+        "Are there any differences in reporting currency, fiscal year, or adjusted measures that affect comparability?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "Company filings are required to extract and compare financial and operational results, as well as to clarify reporting conventions and any adjustments made by each group.",
+      "unanswerable_if": "If one or more of the companies do not have filings covering the first half of 2026, or if the filings lack sufficient financial or operational detail for that period."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Comparison with PETRONAS Chemicals Group (PCG) specifically",
+      "reason": "The corpus only contains filings for the PETRONAS parent, not the listed chemicals subsidiary."
+    },
+    {
+      "topic": "Forecasts or outlooks beyond August 2026",
+      "reason": "The brief is limited to the first half of 2026, which is fully historical and covered by the available filings."
+    }
+  ]
+}

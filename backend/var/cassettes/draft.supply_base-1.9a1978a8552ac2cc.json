@@ -1,0 +1,147 @@
+{
+  "claims": [
+    {
+      "text": "Cilegon Cracker 1 (Nusantara Olefins) is operating in Cilegon, Indonesia, with a publicly confirmed nameplate ethylene capacity of 1,200 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Jurong Cracker 1 (Meridian Petrochemicals) is operating in Jurong Island, Singapore, with a publicly confirmed nameplate ethylene capacity of 850 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Jurong Cracker 2 (Meridian Petrochemicals) is operating in Jurong Island, Singapore, with a publicly confirmed nameplate ethylene capacity of 600 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Pengerang Cracker (Selat Kimia Berhad) is operating in Pengerang, Malaysia, with a publicly confirmed nameplate ethylene capacity of 1,000 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Map Ta Phut Cracker (Andaman Polymer Group) is operating in Map Ta Phut, Thailand, with a publicly confirmed nameplate ethylene capacity of 900 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Batangas Cracker (Luzon Resins Corporation) is operating in Batangas, Philippines, with a publicly confirmed nameplate ethylene capacity of 320 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Gresik Cracker (Java Timur Petrochemical) is operating in Gresik, Indonesia, with a publicly confirmed nameplate ethylene capacity of 500 kta according to the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The total publicly confirmed operating ethylene capacity in Southeast Asia is 5,370 kta, derived as the sum of the confirmed capacities for Cilegon Cracker 1 (1,200 kta), Jurong Cracker 1 (850 kta), Jurong Cracker 2 (600 kta), Pengerang Cracker (1,000 kta), Map Ta Phut Cracker (900 kta), Batangas Cracker (320 kta), and Gresik Cracker (500 kta).",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Sungai Liang Cracker (Coral Bay Olefins) nameplate ethylene capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "The operator does not disclose the nameplate capacity for the Sungai Liang Cracker, and no independent source provides a figure. The plant register and company press release both confirm the unit is operating, but capacity is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor does not publish estimates for units where the operator has not disclosed nameplate capacity."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "All operating ethylene plants in Southeast Asia with publicly confirmed nameplate capacity are listed. The Sungai Liang Cracker is operating but its capacity is not publicly confirmed and is excluded from the total."
+}

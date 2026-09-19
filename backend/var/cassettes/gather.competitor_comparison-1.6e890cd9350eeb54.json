@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "query": "revenue profit margin operational performance 1H 2026",
+      "k": 5
+    },
+    "why": "The previous search for RIL returned director profiles and governance information but not financial or operational performance figures for 1H 2026. A more targeted query for revenue, profit, margin, and operational performance may retrieve the relevant financial data needed for comparison."
+  },
+  "reason": "PETRONAS has clear financial and operational data for 1H 2026. GC's only available filing covers 2025, not 1H 2026, so direct comparison is not possible for the Thai group. RIL's previous results did not include financial figures for 1H 2026; a more focused search may yield the necessary data for the Indian group."
+}

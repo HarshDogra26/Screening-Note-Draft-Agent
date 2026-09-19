@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Cilegon Cracker 1 is a plant, and questions about plant capacity are covered by the synthetic world dataset (PART_A), which includes plant registers and capacity data.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

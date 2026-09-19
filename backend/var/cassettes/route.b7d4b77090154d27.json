@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Cilegon Cracker 1 is named in the synthetic register (PART_A), and the brief asks for its ethylene capacity, which is a plant-specific detail covered by PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

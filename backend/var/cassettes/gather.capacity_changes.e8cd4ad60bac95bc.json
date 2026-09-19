@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The five documents retrieved directly address the section's questions: they cover major ethylene capacity additions (Nusantara Olefins Cilegon cracker expansion), operational events (Selat Kimia force majeure and turnaround at Pengerang), and confirm stable operations (Luzon Resins Batangas). The ASEAN Petrochemical Monitor commentary corroborates the timing and impact of these events on supply, and the Selat Kimia HDPE startup is noted as a downstream addition. No further documents are needed, and the evidence is sufficient to answer both questions for recent and imminent capacity changes in Southeast Asia ethylene supply."
+}

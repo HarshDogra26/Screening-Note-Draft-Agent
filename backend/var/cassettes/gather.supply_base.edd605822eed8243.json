@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Southeast Asia ethylene supply base OR main producers OR capacity total OR regional capacity OR plant list OR company list",
+      "k": 6
+    },
+    "why": "To supplement the plant register and recent event findings with any documents that discuss the overall regional ethylene supply base, main producers, or aggregate capacity totals. This may provide context or industry commentary on the current supply base and main contributors."
+  },
+  "reason": "The plant register and recent event documents provide plant-level and event-level detail, but a document discussing the overall supply base or main contributors may offer a more comprehensive or authoritative summary for the screening note."
+}

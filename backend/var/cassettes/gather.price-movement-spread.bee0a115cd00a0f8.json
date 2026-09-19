@@ -1,0 +1,21 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product1": "Ethylene",
+      "region1": "Southeast Asia",
+      "basis1": "CFR",
+      "type1": "Spot",
+      "product2": "Naphtha",
+      "region2": "Asia",
+      "basis2": "CFR",
+      "type2": "Spot",
+      "from": "2026-01",
+      "to": "2026-06",
+      "compute": "spread"
+    },
+    "why": "To answer the first two questions, I need the monthly naphtha to ethylene spread in Southeast Asia for H1 2026. This call will provide the spread values and their evolution over the period."
+  },
+  "reason": "The spread values are required to answer the first two questions about the monthly figures and their evolution."
+}

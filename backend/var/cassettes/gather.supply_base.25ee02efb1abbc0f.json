@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene"
+    },
+    "why": "To identify all ethylene plants in Southeast Asia, including their capacities, companies, process routes, and statuses, which directly addresses the questions about the regional supply base."
+  },
+  "reason": "The register contains ethylene plants in Southeast Asia. Querying for these plants will provide the current capacity base, the companies and plants involved, and their process routes and statuses."
+}

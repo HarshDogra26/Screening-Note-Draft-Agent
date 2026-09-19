@@ -1,0 +1,17 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Nusantara Olefins",
+      "process_route": "Steam Cracking (Ethane)",
+      "region": "Southeast Asia",
+      "status": [
+        "Operating",
+        "Under construction"
+      ]
+    },
+    "why": "Documents confirm a recent ethane cracker expansion at Nusantara Olefins (Cilegon Cracker 1) with a new capacity figure. The plant register query for this company and process route will verify the plant's entry, its capacity, and whether the register reflects the updated status or capacity, ensuring completeness and cross-verification."
+  },
+  "reason": "The evidence so far identifies a recent expansion at Nusantara Olefins, but the plant register has not yet been checked for this specific plant. This query will confirm its presence, capacity, and any additional details or gaps."
+}

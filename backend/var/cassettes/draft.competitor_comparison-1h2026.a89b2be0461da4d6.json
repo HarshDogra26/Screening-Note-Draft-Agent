@@ -1,0 +1,38 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Financial and operational performance comparison for PETRONAS (Malaysia), GC (Thailand), and RIL (India) in 1H 2026",
+      "reason": "not_disclosed",
+      "detail": "No headline financial or operational metrics for 1H 2026 are extractable for PETRONAS, GC, or RIL from the evidence provided. All attempts to retrieve relevant filings or data failed due to tool errors and missing arguments.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "quote": null
+        },
+        {
+          "kind": "document",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "quote": null
+        },
+        {
+          "kind": "document",
+          "filename": "24042026_Media_Release_RIL_Q4_FY2025-26_Financial_and_Operational_Performance.pdf",
+          "quote": null
+        },
+        {
+          "kind": "document",
+          "filename": "Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+          "quote": null
+        },
+        {
+          "kind": "document",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "quote": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "No financial or operational headline metrics for PETRONAS, GC, or RIL for 1H 2026 are available in the evidence due to tool errors and missing arguments. No claims can be made for this section."
+}

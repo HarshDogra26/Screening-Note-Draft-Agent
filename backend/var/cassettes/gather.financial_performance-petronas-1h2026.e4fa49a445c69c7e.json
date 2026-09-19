@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "revenue",
+      "company": "PETRONAS",
+      "doc_type": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf"
+    },
+    "why": "To directly locate the reported revenue figure for PETRONAS for the half year ended 30 June 2026 in the relevant interim financial report."
+  },
+  "reason": "The section requires the revenue figure, reporting currency/unit, and any notes/context. The specified filing is available and should contain the answer."
+}

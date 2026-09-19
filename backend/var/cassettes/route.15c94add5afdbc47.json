@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests the naphtha to ethylene spread in Southeast Asia for the first half of 2026, which is a historical period within the price assessment coverage. Both naphtha and ethylene prices are included in the synthetic dataset (PART_A), and the calculation of their spread is answerable using this data. No real company filings or entities are referenced.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

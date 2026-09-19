@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief requests revenue reported by PETRONAS for a specific historical period (half year ended 30 June 2026), and PETRONAS is a company covered in the real filings dataset (PART_B). The period is within the data coverage, so this is answerable from PART_B.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

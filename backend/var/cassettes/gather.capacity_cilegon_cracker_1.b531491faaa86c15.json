@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The current ethylene capacity of Cilegon Cracker 1 is publicly stated by Nusantara Olefins as 1,200 kta, following a March 2026 expansion that replaced furnaces and upgraded the quench section. This is confirmed in both the plant register and a company press release. The ASEAN Petrochemical Monitor notes a lower figure (1,050 kta) but acknowledges the operator's higher claim post-expansion, stating the additional volume is contingent on a debottlenecking step not yet independently verified. There is no evidence of further debottlenecking or expansion after March 2026. The questions are fully answered: the current capacity is 1,200 kta per the operator, with the most recent change being the March 2026 expansion. No further tool calls are needed."
+}

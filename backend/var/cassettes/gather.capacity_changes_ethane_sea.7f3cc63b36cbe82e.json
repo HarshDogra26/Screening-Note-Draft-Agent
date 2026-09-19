@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethane cracker capacity change expansion new build debottleneck turnaround delay FID milestone Southeast Asia since 2025"
+    },
+    "why": "The section requires evidence of recent and announced capacity changes for ethane-based crackers in Southeast Asia since 2025, including expansions, new builds, debottlenecks, turnarounds, delays, FIDs, and milestones. Part A documents are the only source of causation and project updates."
+  },
+  "reason": "The first step is to search Part A documents for mentions of ethane-based cracker capacity changes and project milestones in Southeast Asia since 2025, as this directly addresses the section's questions."
+}

@@ -1,0 +1,22 @@
+{
+  "brief": "Operational events at Pengerang during 2026",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "operational_events_pengerang_2026",
+      "kind": "operational_events",
+      "title": "Operational Events at Pengerang in 2026",
+      "questions": [
+        "What operational events occurred at the Pengerang facility during 2026?",
+        "Were there any shutdowns, incidents, restarts, or major maintenance activities at Pengerang in 2026?",
+        "What explanations or context do company filings provide for these events?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "Company filings are the primary source for disclosures of operational events, incidents, and maintenance at specific facilities such as Pengerang.",
+      "unanswerable_if": "No company filing in the 2026 period mentions Pengerang or describes operational events at that site."
+    }
+  ],
+  "excluded": []
+}

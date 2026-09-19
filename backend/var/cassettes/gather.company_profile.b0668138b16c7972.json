@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Straits Advanced Materials"
+    },
+    "why": "To determine if Straits Advanced Materials operates any cracker units, and if so, to retrieve their locations and key characteristics such as process route, product slate, and status."
+  },
+  "reason": "The plant register is the authoritative source for operator and plant details. This is the first step to answer whether Straits Advanced Materials operates any cracker units."
+}

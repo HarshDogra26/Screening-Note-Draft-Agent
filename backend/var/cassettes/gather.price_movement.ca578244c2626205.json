@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene price drivers OR price movement OR market events OR supply OR demand OR turnaround OR force majeure OR cracker OR capacity OR feedstock",
+      "date_from": "2026-01-01",
+      "date_to": "2026-06-30"
+    },
+    "why": "To identify the key drivers or events influencing Southeast Asia ethylene price changes in H1 2026, I need to search for documents discussing price drivers, market events, supply/demand changes, or operational disruptions in that period."
+  },
+  "reason": "I have the price movement and regional comparison from the price series, but need documentary evidence on the drivers or events behind these price changes."
+}

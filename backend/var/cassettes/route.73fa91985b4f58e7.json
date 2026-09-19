@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests a historical review of Southeast Asian ethylene prices over the past eighteen months, which is covered by the synthetic price assessments in PART_A. It also asks for drivers of price movements, which can be drawn from the synthetic documents. However, the request for an outlook is out of scope, as forecasts for periods after 2026-08 are not supported by the data.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

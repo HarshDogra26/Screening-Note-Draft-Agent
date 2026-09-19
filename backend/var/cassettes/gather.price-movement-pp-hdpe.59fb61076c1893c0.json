@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "polypropylene HDPE price volatility trend gap missing assessment Southeast Asia",
+      "k": 6
+    },
+    "why": "To gather causative evidence and commentary on notable periods of price volatility, gaps, or missing data in the PP and HDPE price series, as required by the section's second question."
+  },
+  "reason": "The price series queries have established the quantitative trends and identified gaps/unconfirmed months, but causation and context for volatility or missing data must be sourced from Part A documents."
+}

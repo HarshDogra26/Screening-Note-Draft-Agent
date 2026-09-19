@@ -1,0 +1,18 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Southeast Asian ethylene price movement (2025-03 to 2026-08)",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for Ethylene in Southeast Asia for the period March 2025 to August 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "no assessments for product='Ethylene' region='Southeast Asia'"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "No price data or assessments are available for Southeast Asian ethylene for the past eighteen months, so price movement and inflection points cannot be described."
+}

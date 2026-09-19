@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "Both section questions are fully answered: The assessed HDPE Southeast Asia CFR spot prices for December 2025 and March 2026 are 935.0 USD/tonne and 909.0 USD/tonne, respectively. There are explicit gaps in the price series for January and February 2026, with no assessments published for those months. The evidence includes the actual price values, the continuity block, and a comparability warning confirming the missing months. No further tool calls are needed."
+}

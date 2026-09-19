@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for an outlook or projection for Southeast Asia ethylene prices in 2027. The PART_A dataset contains synthetic price assessments and related information, but the corpus explicitly states that it does not publish forward-looking assessments or forecasts.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The corpus does not provide forecasts or outlooks for future prices, including for 2027.",
+  "requires_both_domains": false
+}

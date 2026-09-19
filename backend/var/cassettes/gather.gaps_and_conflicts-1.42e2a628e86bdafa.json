@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "capacity gap limitation ethylene Southeast Asia"
+    },
+    "why": "The register indicates at least one operating ethylene plant in Southeast Asia (Coral Bay Olefins, Sungai Liang Cracker) for which capacity is not publicly confirmed. To answer the section's questions about gaps and limitations, I need to check the documents for any discussion or confirmation of such gaps, limitations, or their impact on the total."
+  },
+  "reason": "The register provides a list of plants with unconfirmed capacity, but the section requires evidence from documents about gaps, limitations, and their effects. Searching the documents is necessary to complete the evidence."
+}

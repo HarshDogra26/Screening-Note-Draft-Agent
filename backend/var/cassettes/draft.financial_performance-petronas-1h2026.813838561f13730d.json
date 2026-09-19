@@ -1,0 +1,48 @@
+{
+  "claims": [
+    {
+      "text": "PETRONAS reported revenue of MYR 152,441 million for the half year ended 30 June 2026.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The reported revenue figure is consolidated for the PETRONAS Group (Petroliam Nasional Berhad).",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The reporting currency for PETRONAS's revenue is Malaysian Ringgit (MYR), and the units are millions.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": null
+}

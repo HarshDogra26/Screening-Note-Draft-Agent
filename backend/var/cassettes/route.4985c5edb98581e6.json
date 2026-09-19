@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The Vung Tau cracker is a plant, and questions about its startup schedule pertain to project schedules, which are covered in PART_A. The brief does not require information from the real company filings in PART_B.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "ethylene capacity expansion, addition, debottleneck, delay, cancellation, operational event, Southeast Asia, cracker, project, startup, turnaround, force majeure",
+      "k": 10
+    },
+    "why": "To identify recent and ongoing ethylene capacity developments, including expansions, additions, debottleneckings, delays, cancellations, and operational events in Southeast Asia, as described in company press releases and industry bulletins from the past year."
+  },
+  "reason": "The section requires causation and event evidence, which is only available in Part A documents. This search will surface relevant events and project updates."
+}

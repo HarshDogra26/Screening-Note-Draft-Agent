@@ -1,0 +1,110 @@
+{
+  "claims": [
+    {
+      "text": "The available filings report on Petroliam Nasional Berhad (PETRONAS Group), not PETRONAS Chemicals Group (PCG) as a standalone entity.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 19,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "No subsidiary-level financials or operational details specific to PETRONAS Chemicals Group (PCG) are disclosed in the retrieved filings; all figures and commentary pertain to the PETRONAS Group as a whole.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The PETRONAS Group filings include group-level financials such as revenue, EBITDA, PAT, cash flows, capital investments, total assets, and shareholders’ equity, but do not break out figures for PETRONAS Chemicals Group (PCG).",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 2,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Warnings in the filings explicitly state that the reports are for PETRONAS Group and not for PETRONAS Chemicals Group (PCG), and should not be treated as filings of PCG.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 19,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Subsidiary-level financials and operational details for PETRONAS Chemicals Group (PCG)",
+      "reason": "not_disclosed",
+      "detail": "No subsidiary-level financials or operational details for PETRONAS Chemicals Group (PCG) are disclosed in the retrieved PETRONAS Group filings.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+          "page": 19,
+          "sheet": null,
+          "cell_range": null
+        },
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Coverage is limited to PETRONAS Group filings; no direct or detailed information on PETRONAS Chemicals Group (PCG) is provided in the evidence."
+}

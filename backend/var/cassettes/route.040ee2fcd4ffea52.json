@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief asks about PTT Global Chemical's definition of adjusted EBITDA, which is a financial metric and pertains to the real published filings of PTT Global Chemical, a listed group included in PART_B.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

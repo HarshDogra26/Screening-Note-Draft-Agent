@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered includes direct documentation of operational events at Pengerang during 2026: a scheduled turnaround at the Pengerang cracker (offline for 38 days, completed April 22, 2026), and a force majeure declaration on ethylene deliveries (April 9, 2026) due to corrosion found during the turnaround, which extended the outage. The ASEAN Petrochemical Monitor commentary independently confirms these events and their impact on regional supply. No further tool calls are needed; the section's questions are fully answered by the documents retrieved."
+}

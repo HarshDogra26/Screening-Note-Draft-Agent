@@ -1,0 +1,30 @@
+{
+  "brief": "What did Nusantara Olefins spend on the Cilegon expansion?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "cilegon-expansion-spend",
+      "kind": "operational_events",
+      "title": "Nusantara Olefins Cilegon Expansion: Spend Disclosure",
+      "questions": [
+        "Did Nusantara Olefins disclose the capital expenditure or total spend for the Cilegon cracker expansion?",
+        "If so, what is the reported figure and in what context was it provided (e.g., press release, industry bulletin)?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Only company disclosures or industry bulletins may contain explicit spend figures; searching the documents is necessary to determine if the spend was reported.",
+      "unanswerable_if": "No document in the corpus contains a spend or capex figure for the Cilegon expansion."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Detailed project cost breakdown or benchmarking against other projects",
+      "reason": "The brief only asks for the total spend, and the corpus is unlikely to contain detailed breakdowns or comparative benchmarking unless specifically disclosed."
+    },
+    {
+      "topic": "Any spend forecast or future capex for Cilegon",
+      "reason": "The brief is historical, and the corpus only supports reporting on disclosed, past figures, not forecasts or future plans."
+    }
+  ]
+}

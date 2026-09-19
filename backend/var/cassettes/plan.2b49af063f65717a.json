@@ -1,0 +1,31 @@
+{
+  "brief": "Screening note on PETRONAS Chemicals Group",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "company_profile_petros_parent",
+      "kind": "company_profile",
+      "title": "Company Profile: PETRONAS Group (Parent)",
+      "questions": [
+        "What is the legal entity and reporting structure of PETRONAS Group as represented in the available filings?",
+        "What is the relationship between PETRONAS Group and PETRONAS Chemicals Group (PCG), and is there any information on PCG in the parent filings?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "'describe_corpus' to clarify the available entities and their filings; 'search_part_b_filings' to check if the parent filings mention PETRONAS Chemicals Group or provide relevant information about its operations or financials.",
+      "unanswerable_if": "If the parent PETRONAS Group filings do not mention PETRONAS Chemicals Group or provide any segmental or subsidiary information relevant to PCG."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Direct financial or operational data for PETRONAS Chemicals Group (PCG)",
+      "reason": "The corpus contains only PETRONAS Group (parent) filings, with no standalone PCG filings or segmental breakdowns guaranteed."
+    },
+    {
+      "topic": "Screening note specifically on PETRONAS Chemicals Group (PCG) as a separate entity",
+      "reason": "No filings for PCG are present; only the integrated parent (PETRONAS Group) is covered in the available documents."
+    }
+  ]
+}

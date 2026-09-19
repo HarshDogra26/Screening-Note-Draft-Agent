@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Andaman Polymer Group",
+      "product": "PP",
+      "region": "Southeast Asia"
+    },
+    "why": "The previous call failed due to an invalid 'city' argument. The register supports filtering by 'region', so I will use 'Southeast Asia' to identify Andaman Polymer Group's polypropylene plants at Map Ta Phut, including their status and process routes."
+  },
+  "reason": "The error indicated 'city' is not a valid filter. Using 'region' should return the relevant plants for Andaman Polymer Group in Map Ta Phut, as Map Ta Phut is in Southeast Asia."
+}

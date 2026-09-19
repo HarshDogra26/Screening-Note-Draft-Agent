@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Nusantara Olefins",
+      "product": "Ethylene",
+      "region": "Southeast Asia"
+    },
+    "why": "To retrieve ethylene capacity data for Cilegon Cracker 1, filtering by the operator (Nusantara Olefins), product (Ethylene), and region (Southeast Asia), since 'city' is not a valid filter."
+  },
+  "reason": "The previous call failed due to an invalid 'city' argument. Filtering by company, product, and region should return relevant plant register entries for Cilegon Cracker 1."
+}

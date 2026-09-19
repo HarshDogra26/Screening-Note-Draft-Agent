@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information about Andaman Polymer Group’s polypropylene position and project status at Map Ta Phut, both of which are named entities in the synthetic register (PART_A). The request concerns plant/project details, which are covered by PART_A. No real company filings are involved.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

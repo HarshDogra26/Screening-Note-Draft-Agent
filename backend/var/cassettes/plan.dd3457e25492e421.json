@@ -1,0 +1,43 @@
+{
+  "brief": "Total operating ethylene capacity in Southeast Asia",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base-1",
+      "kind": "supply_base",
+      "title": "Operating Ethylene Supply Base in Southeast Asia",
+      "questions": [
+        "Which ethylene plants are currently operating in Southeast Asia?",
+        "What is the nameplate capacity of each operating ethylene plant in the region?",
+        "What is the total operating ethylene capacity in Southeast Asia, based on publicly confirmed figures?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register provides a filterable list of operating ethylene plants in Southeast Asia and their capacities; documents are needed to clarify or supplement where capacity is not publicly confirmed or to address any register limitations.",
+      "unanswerable_if": "If the register does not contain capacity figures for operating ethylene plants in Southeast Asia, or if a significant portion of capacity is not publicly confirmed and cannot be supplemented from documents."
+    },
+    {
+      "id": "gaps_and_conflicts-1",
+      "kind": "gaps_and_conflicts",
+      "title": "Gaps and Limitations in Capacity Data",
+      "questions": [
+        "Are there any operating ethylene plants in Southeast Asia for which capacity is not publicly confirmed?",
+        "What are the limitations or gaps in the available capacity data, and how do they affect the total?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Describing the corpus and searching documents identifies plants with unconfirmed capacity and clarifies the scope and limitations of the available data.",
+      "unanswerable_if": "If there is no indication in the register or documents of any gaps or limitations in capacity data for operating ethylene plants in Southeast Asia."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Aggregate regional capacity total from industry association bulletins",
+      "reason": "ASEAN Petrochemical Monitor explicitly does not publish aggregate regional capacity totals in its bulletins."
+    }
+  ]
+}

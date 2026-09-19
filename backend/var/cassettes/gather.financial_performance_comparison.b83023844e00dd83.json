@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "doc_type": "annual_report",
+      "query": "revenue earnings EBITDA fiscal year"
+    },
+    "why": "To obtain PETRONAS's most recent full financial year revenue, earnings, and adjusted EBITDA figures, as well as reporting currency, units, and fiscal year end, from its annual report."
+  },
+  "reason": "GC's annual report has been reviewed for the required figures. Next, PETRONAS's annual report must be checked to compare its financial performance and reporting basis."
+}

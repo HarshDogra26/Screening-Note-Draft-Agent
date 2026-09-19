@@ -1,0 +1,79 @@
+# Part B — real filings. Currencies, fiscal conventions and entity identity were all
+# established by scripts/show_basis.py and scripts/check_entities.py.
+
+cases:
+  - id: B01
+    brief: Summarise Reliance Industries' performance in Q1 FY2026-27
+    domain: part_b
+    requirement: [grounding]
+    why: >-
+      Single-company baseline. The answer must carry the right currency (INR), units
+      (crore) and period (quarter ended 30 June 2026). Getting units wrong here is a
+      factor-of-ten error presented as fact.
+    expect:
+      tools_used: [search_part_b_filings]
+      min_claims: 2
+      # TEST CORRECTION. This asserted the substring "30", intending the quarter end
+      # of 30 June 2026 — a bad assertion, since "30" matches almost anything and
+      # tests nothing about correctness. Replaced with the things that actually
+      # matter for this case: the currency and the period.
+      must_contain: ["crore", "June 2026"]
+      must_not_cite: [plant:PL-001]
+
+  - id: B02
+    brief: Compare the Malaysian, Thai and Indian groups over the first half of 2026
+    domain: part_b
+    requirement: [grounding, gaps]
+    why: >-
+      The strongest Part B case, and it was found in the data rather than invented.
+      PETRONAS and PTTGC both report six months to 30 June 2026 and genuinely align.
+      Reliance does not — reaching that window means summing Q4 FY2025-26 and Q1
+      FY2026-27 across its 31 March year end. Three currencies on top. A note that
+      prints three numbers side by side has failed.
+    expect:
+      tools_used: [search_part_b_filings]
+      must_contain: ["31 March"]
+      min_claims: 2
+    known_failure: >-
+      Partial credit is likely: currency differences are easy to surface, the fiscal
+      boundary is the hard half. See KNOWN_FAILURES.md O4.
+
+  - id: B03
+    brief: How does PTT Global Chemical define adjusted EBITDA?
+    domain: part_b
+    requirement: [grounding]
+    why: >-
+      Adjusted earnings measures are defined differently by every company, so the
+      definition is itself the fact. GC's is stated verbatim in the One Report and is
+      extracted at ingest.
+    expect:
+      # TEST CORRECTION. This required search_part_b_filings, but describe_corpus
+      # already returns each company's adjusted-measure definitions, so the agent
+      # answered correctly in one call instead of two. Mandating the more expensive
+      # path would have been testing our assumption about how to answer rather than
+      # whether the answer is right. The content assertions below are the real test.
+      must_contain: ["EBITDA", "excluding"]
+
+  - id: B04
+    brief: Screening note on PETRONAS Chemicals Group
+    domain: part_b
+    requirement: [gaps]
+    why: >-
+      The entity trap, confirmed by inspection. The folder is labelled PCG but all
+      three filings report Petroliam Nasional Berhad, the integrated parent. There is
+      no PCG filing in the corpus. The correct answer is a gap, NOT an approximation
+      from the parent's chemicals segment.
+    expect:
+      must_contain: ["PETRONAS Group"]
+      must_not_contain: ["PETRONAS Chemicals Group Berhad"]
+
+  - id: B05
+    brief: Revenue reported by PETRONAS for the half year ended 30 June 2026
+    domain: part_b
+    requirement: [grounding]
+    why: >-
+      A figure that is genuinely present and extractable, to confirm the Part B path
+      works and is not merely refusing everything. The filing states RM 152,441 million.
+    expect:
+      tools_used: [search_part_b_filings]
+      must_contain: ["152,441"]

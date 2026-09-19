@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence shows that there are no filings of PETRONAS Chemicals Group (PCG) in the corpus. All results are from filings of the PETRONAS Group parent (Petroliam Nasional Berhad), and the warnings explicitly state not to treat these as filings of PCG. The filings only provide parent-level information, with occasional mentions of subsidiaries but no subsidiary-level structure, operations, or financials for PETRONAS Chemicals Group. This corpus cannot answer the company profile questions for PETRONAS Chemicals Group specifically."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The corpus description explicitly states that there are no PETRONAS Chemicals Group (PCG) filings in this dataset. The folder named for PCG contains only filings of Petroliam Nasional Berhad, the integrated parent. Therefore, there is no subsidiary-level detail for PETRONAS Chemicals Group available in the filings, and the questions cannot be answered from this corpus."
+}

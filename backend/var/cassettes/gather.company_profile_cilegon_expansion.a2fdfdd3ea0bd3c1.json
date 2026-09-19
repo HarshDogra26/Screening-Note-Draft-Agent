@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence from the company press release (doc:001_nusantara_cilegon_expansion_2026-03-11.md) directly states that Nusantara Olefins did not disclose the capital cost of the Cilegon expansion project. No other document in the search results provides a figure, estimate, or statement regarding the cost, investment, or spending for the expansion. This answers both section questions: the company has not disclosed the capital expenditure or investment amount, and no figures or estimates are present in company press releases or industry bulletins. The question is unanswerable from this corpus, and this is a valid finding."
+}

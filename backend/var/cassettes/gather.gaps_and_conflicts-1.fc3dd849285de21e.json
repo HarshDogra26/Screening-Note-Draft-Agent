@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Coral Bay Olefins Sungai Liang Cracker capacity"
+    },
+    "why": "The register specifically lists Coral Bay Olefins' Sungai Liang Cracker as an operating ethylene plant in Southeast Asia with unconfirmed capacity. Searching documents for references to this plant and its capacity will help clarify whether the gap is discussed, acknowledged, or explained, and whether any impact on regional totals is noted."
+  },
+  "reason": "To directly address the question of gaps and limitations, I need to see if the documents provide further detail or context about the unconfirmed capacity at Coral Bay Olefins' Sungai Liang Cracker."
+}

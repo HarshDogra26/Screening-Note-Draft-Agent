@@ -1,0 +1,61 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins describes the current ethylene capacity of Cilegon Cracker 1 as 1,200 kta following the completion of an expansion project in March 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor lists Cilegon Cracker 1 at a confirmed nameplate ethylene capacity of 1,050 kta in its June 2026 capacity review.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor's June capacity review lists Cilegon Cracker 1 (Nusantara Olefins) at a confirmed nameplate ethylene capacity of 1,050 kta."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "The Monitor notes that the operator has publicly referenced a higher figure (1,200 kta) after the March 2026 furnace replacement, but considers the additional volume contingent on a debottlenecking step that has not yet been independently verified.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor notes that the operator has publicly referenced a higher figure following the March 2026 furnace replacement programme. The Monitor's position is that the additional volume is contingent on a debottlenecking step that has not yet been independently verified, and it will continue to carry the lower figure until operating data supports a revision."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "The expansion of Cilegon Cracker 1 was mechanically completed in March 2026, replacing four cracking furnaces and upgrading the quench section during a planned 45-day turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "The expansion replaced four cracking furnaces and upgraded the quench section. The company said the project was executed during a planned 45-day turnaround."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The plant register lists Cilegon Cracker 1 (Nusantara Olefins) as operating with a public ethylene capacity of 1,200 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "There is a discrepancy between the operator's stated capacity (1,200 kta) and the industry monitor's confirmed figure (1,050 kta), with the higher figure pending independent verification. Both figures are directly cited from recent sources."
+}

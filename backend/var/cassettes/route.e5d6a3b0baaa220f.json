@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about ethylene capacity in Southeast Asia versus global capacity. PART_A contains synthetic data on Southeast Asian petrochemical plants and their capacities, but does not provide global capacity data, so a direct comparison is not possible. The brief requires information from both the synthetic world (Southeast Asia) and real/global data (outside the dataset), which is out of scope.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "Comparison with global capacity requires information from outside the PART_A dataset, which is not available.",
+  "requires_both_domains": true
+}

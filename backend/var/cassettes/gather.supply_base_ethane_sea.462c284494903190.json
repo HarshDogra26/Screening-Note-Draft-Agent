@@ -1,0 +1,15 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "process_route": "Steam Cracking (Ethane)",
+      "region": "Southeast Asia",
+      "status": [
+        "Under construction"
+      ]
+    },
+    "why": "To check if there are any ethane-based steam crackers under construction in Southeast Asia, as the section asks about both operating and under construction units."
+  },
+  "reason": "The section requires information on both operating and under construction ethane-based steam crackers in Southeast Asia. Only operating units have been identified so far; checking for under construction units is necessary to fully answer the questions."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All section questions are answerable from the evidence gathered. The monthly price trends for PP and HDPE in Southeast Asia from January 2024 through August 2026 are established from the price series, with only minor gaps (HDPE missing Jan-Feb 2026, PP unconfirmed July-Aug 2026). Notable periods of volatility and gaps are documented, with causative commentary from industry bulletins and logistics notes. The direct comparison between PP and HDPE price trends is provided via the computed spread. No further evidence is needed."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence includes a direct statement from Nusantara Olefins' company press release (doc:001_nusantara_cilegon_expansion_2026-03-11.md) that \"Nusantara Olefins did not disclose the capital cost of the project.\" No other document in the corpus provides a spend or capex figure for the Cilegon expansion. Therefore, the question is unanswerable from this dataset: the company has not disclosed the capital expenditure or total spend for the Cilegon cracker expansion."
+}

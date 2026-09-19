@@ -1,0 +1,7 @@
+{
+  "domain": "part_b",
+  "reasoning": "The brief asks about PTT Global Chemical (GC), which is one of the three listed groups in the real filings (PART_B), and specifically requests a definition of adjusted EBITDA, a financial metric likely defined in their filings. No synthetic (PART_A) entities are mentioned.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

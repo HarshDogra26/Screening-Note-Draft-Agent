@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Southeast Asia ethylene capacity",
+      "k": 5
+    },
+    "why": "To check for recent developments, expansions, or limitations in public capacity disclosure, and to confirm if any plants or figures are withheld or updated beyond the register."
+  },
+  "reason": "The plant register provides the base, but documents may clarify recent changes, expansions, or gaps in public confirmation, which are needed for a complete section."
+}

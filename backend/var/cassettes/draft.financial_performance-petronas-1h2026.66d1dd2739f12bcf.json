@@ -1,0 +1,62 @@
+{
+  "claims": [
+    {
+      "text": "PETRONAS reported revenue of MYR 152,441 million for the half year ended 30 June 2026.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The reporting currency for PETRONAS is Malaysian Ringgit (MYR), and the unit is millions.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The revenue figure of MYR 152,441 million includes both revenue from contract customers and other revenue, as detailed in the segment reconciliation table.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 19,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The filing specifies that the reported revenue is for Petroliam Nasional Berhad (PETRONAS Group), not PETRONAS Chemicals Group (PCG).",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 7,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "The revenue figure is consistently reported across multiple pages of the interim financial report. Segment breakdowns and explanatory notes are provided, but no additional context or unusual adjustments are noted for the headline revenue figure."
+}

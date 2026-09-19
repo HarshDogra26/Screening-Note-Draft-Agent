@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence includes two recent company press releases from Andaman Polymer Group directly addressing the schedule for the third polypropylene line at Map Ta Phut. The July 30, 2026 release provides the most current update: mechanical completion has been delayed from Q2 2028 to Q4 2028 due to permitting and ground condition issues. The January 15, 2026 release confirms the FID, line capacity (300 kta), technology, and original schedule. No further evidence is needed, as these documents answer all section questions: the current schedule, recent updates/delays, and the most recent public information on expected startup/commissioning date."
+}

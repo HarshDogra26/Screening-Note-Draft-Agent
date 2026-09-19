@@ -1,0 +1,24 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "PETRONAS (Malaysia) financial and operational performance for 1H 2026",
+      "reason": "not_disclosed",
+      "detail": "No filings or financial data for PETRONAS Chemicals Group (PCG) or PETRONAS Group are available in the corpus for the first half of 2026.",
+      "citations": []
+    },
+    {
+      "subject": "PTT Global Chemical (Thailand) financial and operational performance for 1H 2026",
+      "reason": "not_disclosed",
+      "detail": "No filings or financial data for PTT Global Chemical Public Company Limited are available in the corpus for the first half of 2026.",
+      "citations": []
+    },
+    {
+      "subject": "Reliance Industries Limited (India) financial and operational performance for 1H 2026",
+      "reason": "not_disclosed",
+      "detail": "No filings or financial data for Reliance Industries Limited are available in the corpus for the first half of 2026.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "No financial or operational performance data for PETRONAS, PTT Global Chemical, or Reliance Industries Limited for the first half of 2026 is available in the evidence. No claims can be made regarding revenue, profit, margins, or notable operational events. Differences in reporting currency, fiscal year, or adjusted measures cannot be assessed."
+}

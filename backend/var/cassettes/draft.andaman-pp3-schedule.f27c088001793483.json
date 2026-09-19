@@ -1,0 +1,72 @@
+{
+  "claims": [
+    {
+      "text": "Andaman Polymer Group has revised the mechanical completion schedule for its third polypropylene line at Map Ta Phut from the second quarter of 2028 to the fourth quarter of 2028.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "007_andaman_pp3_delay_2026-07-30.md",
+          "quote": "mechanical completion has moved from the second quarter of 2028 to the fourth quarter of 2028"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The delay was attributed to two factors: a longer-than-expected environmental permit amendment process for the revised flare tie-in, and a schedule extension requested by the civil contractor due to unsuitable ground conditions requiring additional piling.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "007_andaman_pp3_delay_2026-07-30.md",
+          "quote": "First, the environmental permit amendment covering the revised flare tie-in took longer than the company had assumed in its original schedule. Second, the appointed civil contractor requested a schedule extension after encountering unsuitable ground conditions at the foundation stage, which required additional piling."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group stated that the capital estimate for the third polypropylene line remains unchanged despite the schedule delay.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "007_andaman_pp3_delay_2026-07-30.md",
+          "quote": "Andaman said the capital estimate is unchanged and that the delay does not affect the existing two polypropylene lines or the cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The delay to the third polypropylene line does not affect the existing two polypropylene lines or the cracker at Map Ta Phut.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "007_andaman_pp3_delay_2026-07-30.md",
+          "quote": "the delay does not affect the existing two polypropylene lines or the cracker."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The third polypropylene line at Map Ta Phut is designed for a capacity of 300 kta and will use gas-phase technology, consistent with the site's existing two lines.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "006_andaman_pp3_fid_2026-01-15.md",
+          "quote": "The line is designed for 300 kta and will use gas-phase technology, consistent with the site's existing two lines."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Propylene for the third polypropylene line will be supplied from the existing Map Ta Phut propylene unit, and no additional cracker capacity is required.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "006_andaman_pp3_fid_2026-01-15.md",
+          "quote": "The company said propylene will be supplied from the existing Map Ta Phut propylene unit, and that no additional cracker capacity is required."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "The schedule revision and reasons for delay are directly addressed in the July 2026 company press release. Earlier statements about the project are superseded by this update. No evidence of further changes or additional delays beyond Q4 2028 is present."
+}

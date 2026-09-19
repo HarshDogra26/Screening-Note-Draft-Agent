@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests an outlook for Southeast Asia ethylene prices in 2027, which is after the coverage period (2026-08) of the price assessments. The sources explicitly state they do not publish forward-looking assessments, so forecasts for periods after the data ends are out of scope.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requests a forecast for 2027, which is outside the available data and not covered by the sources.",
+  "requires_both_domains": false
+}

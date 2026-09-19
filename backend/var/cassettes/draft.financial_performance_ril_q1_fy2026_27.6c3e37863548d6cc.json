@@ -1,0 +1,24 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Reliance Industries Q1 FY2026-27 financial results (revenue, EBITDA, net profit, segment performance)",
+      "reason": "not_disclosed",
+      "detail": "No financial figures or segment performance data for Reliance Industries in Q1 FY2026-27 are extractable from the evidence provided. Attempts to retrieve the relevant filing ('Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf') failed due to tool errors and missing arguments.",
+      "citations": []
+    },
+    {
+      "subject": "Comparison to previous quarter and same quarter last year",
+      "reason": "not_disclosed",
+      "detail": "No comparative financial data for Reliance Industries (previous quarter or same quarter last year) is extractable from the evidence provided. The relevant filing could not be accessed due to tool errors.",
+      "citations": []
+    },
+    {
+      "subject": "Drivers or explanations for performance in Q1 FY2026-27",
+      "reason": "not_disclosed",
+      "detail": "No commentary or explanations for Reliance Industries' performance in Q1 FY2026-27 are extractable from the evidence provided. The relevant media release could not be accessed.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "No financial results, segment performance, or commentary for Reliance Industries in Q1 FY2026-27 are available in the evidence due to repeated tool errors and inability to access the relevant filing. All section questions remain unanswered."
+}

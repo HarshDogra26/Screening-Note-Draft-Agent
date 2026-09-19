@@ -1,0 +1,74 @@
+{
+  "claims": [
+    {
+      "text": "The Southeast Asia propylene CFR spot price series is available from January 2024 to December 2025, with 24 monthly rows and no months with blank prices or missing rows.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "Propylene|Southeast Asia CFR|Spot: from: 2024-01, months_with_blank_price: [], months_with_no_row: [], n_rows: 24, to: 2025-12"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Southeast Asia propylene CFR contract price series begins in January 2026 and runs through August 2026, with 8 monthly rows and no months with blank prices or missing rows.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "Propylene|Southeast Asia CFR|Contract: from: 2026-01, months_with_blank_price: [], months_with_no_row: [], n_rows: 8, to: 2026-08"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There is a discontinuity in the Southeast Asia propylene price series: the spot series ends in December 2025 and the contract series begins in January 2026, with no overlap between the two series.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "Propylene|Southeast Asia CFR|Spot: ... to: 2025-12\nPropylene|Southeast Asia CFR|Contract: from: 2026-01 ..."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Values on the spot and contract bases are not directly comparable, as stated in the corpus description.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "A product assessed on two bases appears as two series. Values on different bases are not directly comparable."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There are no months with blank prices or missing rows in either the Southeast Asia propylene spot or contract price series since 2024.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "Propylene|Southeast Asia CFR|Spot: months_with_blank_price: [], months_with_no_row: []\nPropylene|Southeast Asia CFR|Contract: months_with_blank_price: [], months_with_no_row: []"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Southeast Asia propylene price series for 2026 (spot basis)",
+      "reason": "no_assessment",
+      "detail": "No Southeast Asia propylene spot price assessments are available for any month in 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "describe_corpus",
+          "quote": "Propylene|Southeast Asia CFR|Spot: ... to: 2025-12"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The corpus provides full monthly coverage for Southeast Asia propylene spot prices from January 2024 to December 2025, and for contract prices from January 2026 to August 2026. There is a clear discontinuity and change in assessment basis at the turn of 2026, with no overlap or missing months within each series."
+}

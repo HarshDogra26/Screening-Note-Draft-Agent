@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests the naphtha to ethylene spread in Southeast Asia for the first half of 2026, which falls within the historical price assessment period (2024-01 to 2026-08) covered by PART_A. The synthetic world includes monthly price assessments for naphtha and ethylene, making this brief answerable using PART_A data.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

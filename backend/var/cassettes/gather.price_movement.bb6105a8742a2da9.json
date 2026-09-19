@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Ethylene",
+      "region": "Southeast Asia",
+      "month_from": "2026-01",
+      "month_to": "2026-06"
+    },
+    "why": "To obtain the monthly Southeast Asia CFR spot ethylene price assessments for H1 2026, directly answering the first question about price movement."
+  },
+  "reason": "The first question requires actual price movement data for Southeast Asia ethylene in H1 2026, which is available in the price series. This is the foundational evidence for the section."
+}

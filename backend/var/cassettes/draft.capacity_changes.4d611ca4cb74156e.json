@@ -1,0 +1,107 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins announced the mechanical completion of the Cilegon Cracker 1 expansion in March 2026, returning the unit to service with an ethylene capacity of 1,200 kta.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Cilegon Cracker 1 expansion involved replacement of four cracking furnaces and an upgrade to the quench section, executed during a planned 45-day turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "The expansion replaced four cracking furnaces and upgraded the quench section. The company said the project was executed during a planned 45-day turnaround."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Downstream polyethylene and polypropylene units at the Cilegon complex resumed normal operation in the same week as the cracker returned to service.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "...downstream polyethylene and polypropylene units at the Cilegon complex resumed normal operation in the same week."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion found during a scheduled turnaround, extending the outage beyond the planned duration.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect. The company said inspection during the current scheduled turnaround identified corrosion in a quench tower internal that requires replacement, extending the outage beyond the planned duration."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad expects to lift the force majeure declaration once the unit returns to service and does not expect the work to affect nameplate capacity once complete.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "The company said it expects to lift the declaration once the unit returns to service. The company said it does not expect the work to affect nameplate capacity once complete."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Downstream polyethylene and polypropylene lines at Pengerang operated at reduced rates on inventory during the force majeure event.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Downstream polyethylene and polypropylene lines at Pengerang are operating at reduced rates on inventory."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor attributes the April 2026 ethylene price peak to concurrent supply outages: a planned turnaround at Pengerang extended into a force majeure, overlapping with the tail of the Cilegon furnace replacement programme in March.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Both the Pengerang and Cilegon units returned to service by May and June 2026, easing supply constraints.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Assessments eased through May and June as both units returned."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Aggregate regional ethylene capacity totals",
+      "reason": "not_disclosed",
+      "detail": "The Monitor does not publish aggregate regional capacity totals in its bulletins; readers are directed to consult the Monitor's capacity database for such figures.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin. Readers requiring totals should consult the Monitor's capacity database, which is updated quarterly and lists units individually."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Coverage is strong for major operational events and expansions at Cilegon and Pengerang in H1 2026. No evidence was found for other significant ethylene capacity additions, debottleneckings, or force majeures in Southeast Asia during this period."
+}

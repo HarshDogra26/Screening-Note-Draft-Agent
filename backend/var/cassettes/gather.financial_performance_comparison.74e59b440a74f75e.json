@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "filename": "PETRONAS Group FRA FY2025 - IFR_0.pdf",
+      "query": "revenue earnings EBITDA annual full year quarter"
+    },
+    "why": "To retrieve PETRONAS's most recent full financial year and latest quarterly results for revenue, earnings, and adjusted EBITDA, as well as reporting currency and fiscal year end, for comparison with GC."
+  },
+  "reason": "GC's results for the most recent periods are now retrieved. Next, PETRONAS must be searched for equivalent figures to enable comparison."
+}

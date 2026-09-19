@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence includes a company press release from Nusantara Olefins (March 2026) stating explicitly: \"Nusantara Olefins did not disclose the capital cost of the project.\" This directly answers the section's questions: the company did not disclose the capital expenditure or total spend for the Cilegon cracker expansion. No further evidence is needed, and the question is unanswerable from this corpus because the relevant disclosure does not exist."
+}

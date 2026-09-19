@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about propylene price movements in Southeast Asia since 2024. The synthetic world in PART_A includes monthly price assessments for propylene and covers Southeast Asia, making this answerable from PART_A. No real company financials or comparisons are involved.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

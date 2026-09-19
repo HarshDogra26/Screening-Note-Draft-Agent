@@ -1,0 +1,99 @@
+{
+  "claims": [
+    {
+      "text": "Selat Kimia Berhad completed a scheduled turnaround at its Pengerang cracker in 2026, with the unit offline for 38 days.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "Selat Kimia Berhad has completed a scheduled turnaround at its Pengerang cracker. The unit was offline for 38 days."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "All downstream units at Pengerang, including the propane dehydrogenation unit and the polyethylene and polypropylene lines, returned to normal rates after the turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "All downstream units, including the propane dehydrogenation unit and the polyethylene and polypropylene lines, have returned to normal rates."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion identified in a quench tower internal during the scheduled turnaround.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect. The company said inspection during the current scheduled turnaround identified corrosion in a quench tower internal that requires replacement, extending the outage beyond the planned duration."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "During the force majeure period, downstream polyethylene and polypropylene lines at Pengerang operated at reduced rates on inventory.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Downstream polyethylene and polypropylene lines at Pengerang are operating at reduced rates on inventory."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The Monitor attributes the April 2026 ethylene spot price peak in Southeast Asia principally to concurrent supply outages, including the planned turnaround at Pengerang, which was extended into a force majeure declaration.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Assessments eased through May and June 2026 as the Pengerang unit returned to service.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "Assessments eased through May and June as both units returned."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad reported no change to nameplate capacities at Pengerang as a result of the 2026 turnaround and force majeure.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "The company reported no change to nameplate capacities as a result of the turnaround."
+        },
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "The company said it does not expect the work to affect nameplate capacity once complete."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad stated the next major turnaround at Pengerang is scheduled for 2030.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "Selat Kimia said the next major turnaround at Pengerang is scheduled for 2030."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "Coverage is strong for the main operational events at Pengerang in 2026, including the scheduled turnaround, force majeure declaration, and subsequent return to service. No evidence was found for other disruptions or unplanned outages beyond those reported."
+}

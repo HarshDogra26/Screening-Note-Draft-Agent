@@ -1,0 +1,18 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "HDPE Southeast Asia CFR spot price data for December 2025 to March 2026",
+      "reason": "no_assessment",
+      "detail": "No price assessments are available for HDPE Southeast Asia CFR spot for the period December 2025 to March 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "no assessments for product='HDPE' region='Southeast Asia'"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The evidence confirms that there are no price assessments for HDPE Southeast Asia CFR spot for the entire period December 2025 to March 2026. No explanation for the missing data is provided in the corpus."
+}

@@ -1,0 +1,35 @@
+{
+  "brief": "Screening note on Andaman Polymer Group’s polypropylene position at Map Ta Phut, including project status.",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base_andaman_map_ta_phut",
+      "kind": "supply_base",
+      "title": "Andaman Polymer Group Polypropylene Supply Base at Map Ta Phut",
+      "questions": [
+        "What polypropylene plants does Andaman Polymer Group operate or have under construction at Map Ta Phut?",
+        "What are their status and process routes?"
+      ],
+      "intended_tools": [
+        "query_plant_register"
+      ],
+      "tool_rationale": "The plant register provides a structured list of all Andaman Polymer Group's polypropylene assets at Map Ta Phut, including their status and process routes.",
+      "unanswerable_if": "If the register does not list any Andaman Polymer Group polypropylene plants at Map Ta Phut."
+    },
+    {
+      "id": "capacity_changes_andaman_map_ta_phut",
+      "kind": "capacity_changes",
+      "title": "Recent and Announced Capacity Changes at Map Ta Phut",
+      "questions": [
+        "Has Andaman Polymer Group announced or implemented any recent or upcoming capacity changes for polypropylene at Map Ta Phut?",
+        "What is the status of the third polypropylene line project?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Company press releases and industry bulletins in the document set provide details on project FID, delays, and status updates for the third line and any other capacity changes.",
+      "unanswerable_if": "If there are no documents referencing Andaman Polymer Group's polypropylene projects or capacity changes at Map Ta Phut."
+    }
+  ],
+  "excluded": []
+}

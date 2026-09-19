@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All section questions are answered. The monthly naphtha-to-ethylene spread in Southeast Asia for H1 2026 is provided by the price series query, with values for each month from January to June 2026. The spread evolves from -282 USD/tonne in January to a low of -429 USD/tonne in April, then recovers to -346 USD/tonne in June. The ASEAN Petrochemical Monitor's June 2026 commentary explains key movements: the April peak is attributed to supply outages (planned turnaround and force majeure at Pengerang, overlapping with Cilegon furnace replacement), while naphtha prices firmed due to Northeast Asian refinery maintenance, compressing margins. Both units returned in May and June, easing assessments. No further evidence is needed; the questions are fully addressed with price data and causation commentary."
+}

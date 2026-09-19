@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers all questions for the 'Ethylene Capacity Base in Southeast Asia' section. The plant register provides a list of operating, under construction, and idled ethylene plants in Southeast Asia, including company, plant name, process route, and status. Most capacities are publicly confirmed, except for Coral Bay Olefins' Sungai Liang Cracker, which is explicitly stated in both the register and company press releases as not disclosed. Industry bulletins confirm that aggregate regional capacity totals are not published where operators withhold figures, and that the supply base is concentrated in Singapore, Malaysia, Indonesia, and Thailand, with naphtha as the dominant feedstock and ethane used in Brunei. No further evidence is available to confirm the withheld capacity or to provide aggregate figures beyond what is already disclosed. The section's questions are fully addressed, including what cannot be confirmed."
+}

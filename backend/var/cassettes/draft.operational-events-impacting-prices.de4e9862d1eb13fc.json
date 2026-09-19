@@ -1,0 +1,186 @@
+{
+  "claims": [
+    {
+      "text": "Selat Kimia Berhad started up a 380 kta HDPE line at its Pengerang complex in September 2025, bringing the site to two polyethylene lines alongside the existing 340 kta LLDPE unit.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "018_selat_hdpe_startup_2025-09-30.md",
+          "quote": "Selat Kimia Berhad has started up a 380 kta HDPE line at its Pengerang complex. The line uses slurry loop technology and takes ethylene from the existing Pengerang cracker.\n\nThe company said the addition brings the Pengerang complex to two polyethylene lines, alongside the existing 340 kta LLDPE unit."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Coral Bay Olefins commissioned its Sungai Liang ethane cracker and associated 250 kta HDPE line in Brunei in September 2025, reaching stable operation within six weeks of first feed.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "Coral Bay Olefins has commissioned its Sungai Liang ethane cracker and associated HDPE line in Brunei. The cracker uses ethane feedstock supplied under a long-term agreement.\n\nThe company said it does not disclose nameplate capacity for the cracker. The associated HDPE line is rated at 250 kta.\n\nCoral Bay said the complex reached stable operation within six weeks of first feed."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins completed the expansion of Cilegon Cracker 1 in March 2026, replacing four cracking furnaces and upgrading the quench section, with the unit returning to service and downstream HDPE and polypropylene lines resuming normal operation in the same week.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Nusantara Olefins announced today that the expansion of Cilegon Cracker 1 has been mechanically completed and the unit has returned to service. Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta.\n\nThe expansion replaced four cracking furnaces and upgraded the quench section. The company said the project was executed during a planned 45-day turnaround and that downstream polyethylene and polypropylene units at the Cilegon complex resumed normal operation in the same week."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor lists Cilegon Cracker 1 at a confirmed nameplate ethylene capacity of 1,050 kta as of June 2026, noting that the operator has referenced a higher figure post-expansion but considers the additional volume contingent on a debottlenecking step not yet independently verified.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "002_asean_monitor_capacity_note_2026-06-02.md",
+          "quote": "The Monitor's June capacity review lists Cilegon Cracker 1 (Nusantara Olefins) at a confirmed nameplate ethylene capacity of 1,050 kta.\n\nThe Monitor notes that the operator has publicly referenced a higher figure following the March 2026 furnace replacement programme. The Monitor's position is that the additional volume is contingent on a debottlenecking step that has not yet been independently verified, and it will continue to carry the lower figure until operating data supports a revision."
+        }
+      ],
+      "status": "disputed"
+    },
+    {
+      "text": "Nusantara Olefins completed a debottlenecking of its Cilegon polypropylene line in August 2026, raising output capability, but did not state a revised nameplate figure and will confirm the new rating after a sustained performance test.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "017_nusantara_pp_debottleneck_2026-08-25.md",
+          "quote": "Nusantara Olefins has completed a debottlenecking of its Cilegon polypropylene line, raising output capability. The company did not state a revised nameplate figure and said it would confirm the new rating after a sustained performance test."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion found during a scheduled turnaround, extending the outage beyond the planned duration and causing downstream polyethylene and polypropylene lines to operate at reduced rates on inventory.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia Berhad has declared force majeure on ethylene deliveries from its Pengerang complex with immediate effect.\n\nThe company said inspection during the current scheduled turnaround identified corrosion in a quench tower internal that requires replacement, extending the outage beyond the planned duration. Selat Kimia said it expects to lift the declaration once the unit returns to service.\n\nDownstream polyethylene and polypropylene lines at Pengerang are operating at reduced rates on inventory."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad completed a scheduled turnaround at its Pengerang cracker in April 2026, with the unit offline for 38 days and all downstream units, including polyethylene and polypropylene lines, returning to normal rates; no change to nameplate capacities was reported.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "005_selat_pengerang_turnaround_2026-04-22.md",
+          "quote": "Selat Kimia Berhad has completed a scheduled turnaround at its Pengerang cracker. The unit was offline for 38 days. All downstream units, including the propane dehydrogenation unit and the polyethylene and polypropylene lines, have returned to normal rates.\n\nThe company reported no change to nameplate capacities as a result of the turnaround."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "A planned turnaround at Pengerang, extended into a force majeure declaration, overlapped with the tail of the Cilegon furnace replacement programme in March 2026, contributing to a supply outage and a peak in Southeast Asian ethylene spot assessments in April 2026, according to the ASEAN Petrochemical Monitor.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "025_asean_monitor_price_commentary_2026-06-18.md",
+          "quote": "The Monitor attributes the April peak principally to concurrent supply outages: a planned turnaround at Pengerang, which the operator extended into a force majeure declaration, overlapping with the tail of the Cilegon furnace replacement programme in March.\nAssessments eased through May and June as both units returned."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Berth congestion at Southeast Asian container terminals in October and November 2025 led to delays of up to eleven days for polymer export cargoes, tightening prompt cargo availability and firming regional polyethylene and polypropylene offers; congestion eased from late November as additional berth capacity was brought back into service.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "027_port_congestion_note_2025-11-20.md",
+          "quote": "Berth congestion at several Southeast Asian container terminals lengthened waiting times for polymer export cargoes through October and November, with delays of up to eleven days reported at peak.\n\nResin shipments were among the affected categories. Regional polyethylene and polypropylene offers firmed over the period as available prompt cargoes tightened.\n\nCongestion eased from late November as additional berth capacity was brought back into service following maintenance."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group completed a scheduled turnaround at its Map Ta Phut steam cracker in September 2025, with the unit offline for 31 days and all downstream units resuming normal rates; no change to capacity was reported.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "020_andaman_turnaround_2025-09-11.md",
+          "quote": "Andaman Polymer Group has completed a scheduled turnaround at its Map Ta Phut steam cracker. The unit was offline for 31 days. The company reported no change to capacity and said all downstream units have resumed normal rates."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Luzon Resins Corporation reported stable operations across its Batangas complex for 2025-2026, with no unplanned outages at the cracker and its polypropylene line running at high rates; capacity figures were not restated.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "023_luzon_operational_summary_2026-02-27.md",
+          "quote": "Luzon Resins Corporation reported stable operations across its Batangas complex for the year, with no unplanned outages at the cracker.\n\nThe company said its polypropylene line ran at high rates through the period. Capacity figures were not restated in this summary."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals confirmed both Jurong Island steam crackers operated at full rates through the fourth quarter of 2025, with combined ethylene capacity across the two units at 1,450 kta; the complex includes HDPE, LDPE, and polypropylene lines.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "003_meridian_jurong_utilisation_2026-02-19.md",
+          "quote": "Meridian Petrochemicals confirmed that both of its Jurong Island steam crackers operated at full rates through the fourth quarter.\n\nThe company operates two crackers on the site. Jurong Cracker 1, commissioned in 2012, runs on mixed feed. Jurong Cracker 2, commissioned in 2021, is naphtha-based. Meridian states that its combined ethylene capacity across the two units is 1,450 kta, which the company describes as the largest single-operator ethylene position in Southeast Asia.\n\nThe Jurong complex also includes HDPE, LDPE and polypropylene lines and a propylene recovery unit."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Java Timur Petrochemical modified its Gresik LLDPE line in March 2026 to allow production of higher-density grades, broadening the product slate but not changing the line's 200 kta nameplate capacity; the complex also includes a naphtha cracker, propylene recovery unit, LLDPE, and polypropylene lines.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "012_javatimur_lldpe_swing_2026-03-03.md",
+          "quote": "Java Timur Petrochemical has modified its Gresik LLDPE line to allow production of higher-density grades. The company said the modification does not change the line's 200 kta nameplate capacity but broadens the product slate.\n\nThe Gresik complex comprises a naphtha cracker, a propylene recovery unit, an LLDPE line and a polypropylene line."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Luzon Batangas cracker debottlenecking study",
+      "reason": "not_publicly_confirmed",
+      "detail": "No target capacity has been set and the company said it will not comment on potential figures until the study concludes, expected in the first half of 2027.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "010_luzon_debottleneck_study_2026-05-14.md",
+          "quote": "No target capacity has been set and the company said it will not comment on potential figures until the study concludes, which it expects in the first half of 2027."
+        }
+      ]
+    },
+    {
+      "subject": "Coral Bay Olefins Sungai Liang cracker nameplate capacity",
+      "reason": "not_disclosed",
+      "detail": "The company said it does not disclose nameplate capacity for the cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ]
+    },
+    {
+      "subject": "Nusantara Olefins Cilegon polypropylene line post-debottlenecking nameplate capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "The company did not state a revised nameplate figure and said it would confirm the new rating after a sustained performance test.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "017_nusantara_pp_debottleneck_2026-08-25.md",
+          "quote": "The company did not state a revised nameplate figure and said it would confirm the new rating after a sustained performance test."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Coverage is strong for major operational events affecting PP and HDPE production in Southeast Asia during 2025-2026, including plant startups, expansions, turnarounds, force majeures, and logistics disruptions. Some capacity figures remain undisclosed or not publicly confirmed, particularly for debottlenecking projects and new crackers."
+}

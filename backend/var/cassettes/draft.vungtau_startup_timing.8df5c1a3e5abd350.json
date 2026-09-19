@@ -1,0 +1,44 @@
+{
+  "claims": [
+    {
+      "text": "Mekong Chemical Industries most recently revised the expected startup of its Vung Tau steam cracker from 2027 to 2028.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "Mekong Chemical Industries has revised the expected startup of its Vung Tau steam cracker from 2027 to 2028."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The revision to the Vung Tau cracker's startup schedule was attributed to delayed delivery of the cracked gas compressor and slower-than-planned progress on the site's marine offloading facility.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "The company attributed the revision to delayed delivery of the cracked gas compressor and to slower-than-planned progress on the site's marine offloading facility."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The July 2026 announcement supersedes the previous schedule guidance issued by Mekong Chemical Industries in January 2026, which had targeted startup in 2027.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "This announcement supersedes the schedule guidance issued by the company in January 2026."
+        },
+        {
+          "kind": "document",
+          "filename": "008_mekong_vungtau_schedule_2026-01-28.md",
+          "quote": "Mekong Chemical Industries confirmed that construction of its Vung Tau steam cracker is progressing and that the company is targeting startup in 2027."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "The evidence is limited to company press releases from Mekong Chemical Industries, which provide direct statements on the revised startup schedule and reasons for delay. No independent or third-party confirmation is present."
+}

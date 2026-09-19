@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "Both the plant register and the company's own press release confirm that Coral Bay Olefins does not publicly disclose the nameplate capacity of the Sungai Liang cracker. The register entry explicitly states 'not publicly confirmed,' and the press release says 'the company said it does not disclose nameplate capacity for the cracker.' There is no public confirmation or estimate of this capacity in the available sources. The question is unanswerable from this corpus, and this is a valid finding."
+}

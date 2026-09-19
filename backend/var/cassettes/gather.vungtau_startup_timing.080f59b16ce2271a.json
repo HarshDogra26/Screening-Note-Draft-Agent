@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Vung Tau cracker startup"
+    },
+    "why": "The section asks about the expected startup date and any recent changes for the Vung Tau cracker. The most direct evidence will be found in Part A documents discussing its startup schedule or revisions. This search will target relevant causation statements."
+  },
+  "reason": "The question is about operational events and causation, which are only addressed in Part A documents. Searching for mentions of the Vung Tau cracker's startup will help answer both timing and revision questions."
+}

@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence includes two company press releases from Mekong Chemical Industries, the operator of the Vung Tau cracker. The most recent, dated July 9, 2026, explicitly revises the expected startup from 2027 to 2028, citing delayed equipment delivery and slower progress on marine facilities. This supersedes the earlier January 2026 guidance. No other document in the corpus discusses the Vung Tau cracker's startup schedule. Therefore, the latest disclosed startup schedule is 2028, and the expected startup date has changed recently, with the most current guidance being the July 2026 revision."
+}

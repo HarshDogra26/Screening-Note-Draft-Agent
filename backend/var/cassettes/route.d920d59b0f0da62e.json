@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks for a comparison between Southeast Asian ethylene capacity (which could be answered from the synthetic world dataset) and global capacity. However, the datasets do not contain global capacity figures, only data for the synthetic world. Therefore, the brief is out of scope because it requires information from outside the provided datasets.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The datasets do not contain global ethylene capacity figures, so a comparison with global capacity is not possible.",
+  "requires_both_domains": false
+}

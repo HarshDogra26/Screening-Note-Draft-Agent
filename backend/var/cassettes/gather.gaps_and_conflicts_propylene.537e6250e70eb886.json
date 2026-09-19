@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Propylene",
+      "region": "Southeast Asia",
+      "basis": "Spot"
+    },
+    "why": "To check for gaps, discontinuities, and changes in the Southeast Asia propylene spot price series since 2024, as well as to confirm its coverage and assessment basis."
+  },
+  "reason": "The previous call failed due to incorrect argument structure. The corpus description confirms the existence of both spot and contract price series for Southeast Asia propylene, so I will query the spot series first to examine its continuity and basis."
+}

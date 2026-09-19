@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "process_route": "Steam Cracking (Ethane)"
+    },
+    "why": "To directly identify ethane-based steam crackers in Southeast Asia, including their operators, locations, and status, as required by the section's questions."
+  },
+  "reason": "The register confirms that 'Steam Cracking (Ethane)' is a valid process_route and 'Southeast Asia' is a valid region. This call will return the relevant plants, if any, or show if none exist."
+}

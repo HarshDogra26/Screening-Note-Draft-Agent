@@ -1,0 +1,150 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins' Cilegon Cracker 1 in Cilegon, Indonesia, is operating with a publicly confirmed ethylene capacity of 1,200 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals operates two crackers on Jurong Island, Singapore: Jurong Cracker 1 with a capacity of 850 kta and Jurong Cracker 2 with a capacity of 600 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": "capacity_kta"
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad's Pengerang Cracker in Malaysia is operating with a publicly confirmed ethylene capacity of 1,000 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group's Map Ta Phut Cracker in Thailand is operating with a publicly confirmed ethylene capacity of 900 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Mekong Chemical Industries' Vung Tau Cracker in Vietnam is under construction with a publicly confirmed planned ethylene capacity of 750 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Luzon Resins Corporation's Batangas Cracker in the Philippines is operating with a publicly confirmed ethylene capacity of 320 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Coral Bay Olefins' Sungai Liang Cracker in Brunei is operating, but its ethylene capacity is not publicly confirmed.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Java Timur Petrochemical's Gresik Cracker in Indonesia is operating with a publicly confirmed ethylene capacity of 500 kta.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins completed an expansion of Cilegon Cracker 1 in March 2026, returning the unit to service with a capacity of 1,200 kta after replacing four cracking furnaces and upgrading the quench section.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta. The expansion replaced four cracking furnaces and upgraded the quench section."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Selat Kimia Berhad declared force majeure on ethylene deliveries from its Pengerang complex in April 2026 due to corrosion found during a scheduled turnaround, but stated that nameplate capacity would not be affected once repairs are complete.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "026_selat_force_majeure_2026-04-09.md",
+          "quote": "Selat Kimia said it expects to lift the declaration once the unit returns to service. The company said it does not expect the work to affect nameplate capacity once complete."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Andaman Polymer Group completed a scheduled turnaround at its Map Ta Phut cracker in September 2025, with no change to capacity reported.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "020_andaman_turnaround_2025-09-11.md",
+          "quote": "The company reported no change to capacity and said all downstream units have resumed normal rates."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Coral Bay Olefins Sungai Liang Cracker ethylene capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "The capacity of Coral Bay Olefins' Sungai Liang Cracker is not publicly confirmed in the available evidence.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "All operating and under-construction ethylene plants in Southeast Asia with publicly confirmed capacities are listed. Recent expansions and outages since late 2025 are covered. The capacity for Coral Bay Olefins' Sungai Liang Cracker is not publicly confirmed."
+}

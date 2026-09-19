@@ -1,0 +1,15 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "product": "Propylene",
+      "region": "Southeast Asia",
+      "basis": "Contract",
+      "month_from": "2026-01",
+      "month_to": "2026-08"
+    },
+    "why": "The corpus description shows a contract price series for Southeast Asia Propylene from Jan 2026 to Aug 2026. I need to retrieve this series to answer questions about price movement, trends, and coverage for contract prices since 2024 (or as far as available)."
+  },
+  "reason": "The contract price series is available for Southeast Asia Propylene from Jan 2026 to Aug 2026. Retrieving this data will help answer the section's questions about price movement and coverage for contract prices."
+}

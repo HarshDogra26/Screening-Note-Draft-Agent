@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about Southeast Asian ethylene capacity, which could be answered using the synthetic world dataset (PART_A) if it contains relevant data. However, it also requests a comparison with global capacity, which is not available in either dataset. The datasets do not contain global totals or data outside their own scope.",
+  "out_of_scope": true,
+  "out_of_scope_reason": "The brief requires a comparison with global ethylene capacity, which is not available in the datasets.",
+  "requires_both_domains": false
+}

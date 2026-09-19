@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Coral Bay Olefins"
+    },
+    "why": "Previous attempts to query the plant register failed due to incorrect argument structure. The register description confirms Coral Bay Olefins operates the Sungai Liang Cracker, but its capacity is 'not publicly confirmed.' Querying only by company should return all plants for Coral Bay Olefins, including any notes or indirect estimates for the Sungai Liang Cracker."
+  },
+  "reason": "The register is the primary source for plant-level capacity disclosure or explicit non-disclosure. Querying by company alone avoids argument errors and should return the relevant entry for the Sungai Liang Cracker."
+}

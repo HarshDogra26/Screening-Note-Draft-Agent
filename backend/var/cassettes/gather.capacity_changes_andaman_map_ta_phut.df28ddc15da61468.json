@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Andaman Polymer Group polypropylene Map Ta Phut capacity change",
+      "company": "Andaman Polymer Group",
+      "k": 5
+    },
+    "why": "The section requires evidence of recent or announced polypropylene capacity changes by Andaman Polymer Group at Map Ta Phut, including project status. Searching for documents with these keywords and company filter will directly address both questions."
+  },
+  "reason": "The questions are about causation and project status, which are only evidenced in Part A documents. This targeted search should return relevant press releases or bulletins."
+}

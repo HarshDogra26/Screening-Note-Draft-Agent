@@ -1,0 +1,15 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "filter": {
+        "product": "Propylene",
+        "region": "Southeast Asia"
+      },
+      "compute": "none"
+    },
+    "why": "To directly examine the available Southeast Asia propylene price series since 2024, including their continuity, gaps, and assessment basis changes."
+  },
+  "reason": "The section requires evidence of gaps, discontinuities, and changes in the Southeast Asia propylene price series since 2024. The corpus description confirms two relevant series (spot and contract), so querying the price series will provide the necessary details."
+}

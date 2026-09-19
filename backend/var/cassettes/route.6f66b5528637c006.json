@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information about ethylene supply and price movements in Southeast Asia, specifically for H1 2026. The synthetic dataset (PART_A) contains plant registers and monthly price assessments for ethylene, as well as relevant documents covering this period. No real company filings or financial results are mentioned, and the entities referenced are regional and product-based, not company-specific. The period requested (H1 2026) is within the historical coverage of the price assessments and documents.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

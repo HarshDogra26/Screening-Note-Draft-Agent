@@ -1,0 +1,40 @@
+{
+  "brief": "Competitor analysis: compare the petrochemical financial performance of GC, PCG and Reliance over their most recent full financial year, with the most recent quarters where available. Cover revenue, earnings, and what each company says about its own outlook.",
+  "domain": "part_b",
+  "sections": [
+    {
+      "id": "financial_performance_comparison",
+      "kind": "financial_performance",
+      "title": "Financial Performance Comparison: GC, PETRONAS, and Reliance",
+      "questions": [
+        "What were the revenue and earnings (including adjusted EBITDA where disclosed) for GC, PETRONAS, and Reliance in their most recent full financial year?",
+        "What are the most recent quarterly results for each company, and how do they compare?",
+        "What reporting currency and units does each company use, and what are their fiscal year ends?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "Company filings are the only source for financial results, reporting periods, currencies, and units.",
+      "unanswerable_if": "If any company does not have a filing covering its most recent full financial year or latest quarter, its results cannot be reported."
+    },
+    {
+      "id": "company_outlook_statements",
+      "kind": "company_profile",
+      "title": "Company Outlook Statements",
+      "questions": [
+        "What does each company (GC, PETRONAS, Reliance) say about its outlook for the petrochemical business in its most recent filings?"
+      ],
+      "intended_tools": [
+        "search_part_b_filings"
+      ],
+      "tool_rationale": "Only company filings contain management commentary or outlook statements.",
+      "unanswerable_if": "If a company does not provide an outlook or forward-looking statement in its most recent filings, this cannot be reported."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "PCG (Petronas Chemicals Group) financials",
+      "reason": "The corpus contains only PETRONAS (the parent), not PCG; no PCG-specific filings are available."
+    }
+  ]
+}

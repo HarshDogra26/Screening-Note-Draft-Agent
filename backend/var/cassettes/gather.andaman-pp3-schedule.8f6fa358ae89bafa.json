@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Andaman Polymer Group Map Ta Phut polypropylene schedule"
+    },
+    "why": "The section asks for the current schedule, updates, and expected startup date for Andaman Polymer Group's third PP line at Map Ta Phut. The document list includes two recent Andaman press releases directly referencing this project, so searching Part A documents for schedule-related information is the most direct way to find causation and timeline updates."
+  },
+  "reason": "The questions require causation and timeline evidence, which is only available in Part A documents. The corpus contains relevant Andaman press releases, so searching for schedule information is the logical first step."
+}

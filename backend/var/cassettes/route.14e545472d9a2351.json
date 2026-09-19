@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information on ethylene capacity in Southeast Asia, including the capacity base and recent developments. This is answerable using the synthetic register of plants and related documents in PART_A, which covers plant capacities and operational updates. No real company filings or financials are involved, and no entities from PART_B are named.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

@@ -1,0 +1,30 @@
+{
+  "claims": [
+    {
+      "text": "Nusantara Olefins did not disclose the capital cost of the Cilegon cracker expansion project in its press release dated 2026-03-11.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Nusantara Olefins did not disclose the capital cost of the project."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Cilegon cracker expansion capital expenditure",
+      "reason": "not_disclosed",
+      "detail": "No capital expenditure or total spend figure was provided by Nusantara Olefins for the Cilegon cracker expansion in available company press releases.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Nusantara Olefins did not disclose the capital cost of the project."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Coverage is limited to company press releases. No capital expenditure or spend figure is disclosed for the Cilegon cracker expansion."
+}

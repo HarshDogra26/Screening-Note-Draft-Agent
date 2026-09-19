@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Southeast Asia ethylene capacity limitations exclusions",
+      "k": 5
+    },
+    "why": "To check for any published limitations or exclusions in the figures, and to confirm whether the exclusion of Coral Bay Olefins' Sungai Liang Cracker is consistent with industry reporting. This addresses the second question about limitations or exclusions in the published total."
+  },
+  "reason": "The plant register aggregate provides the total and notes an exclusion, but the section also asks about limitations or exclusions in published figures. Industry bulletins or press releases may clarify whether this exclusion is standard practice or if other limitations exist."
+}

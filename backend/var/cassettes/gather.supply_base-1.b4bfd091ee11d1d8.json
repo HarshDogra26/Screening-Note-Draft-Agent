@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "region": "Southeast Asia",
+      "product": "Ethylene",
+      "status": "Operating"
+    },
+    "why": "To identify all currently operating ethylene plants in Southeast Asia and obtain their publicly confirmed nameplate capacities, as required for the section's questions."
+  },
+  "reason": "The register is the primary source for plant status and capacity figures. Filtering for operating ethylene plants in Southeast Asia will directly address the questions about the supply base and total capacity."
+}

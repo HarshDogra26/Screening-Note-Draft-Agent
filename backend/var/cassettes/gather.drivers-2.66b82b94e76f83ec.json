@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "date_from": "2025-03",
+      "date_to": "2026-08",
+      "query": "outage expansion feedstock ethylene Southeast Asia"
+    },
+    "why": "The section also asks about plant outages, expansions, and feedstock developments. The previous search focused on operational events; this search will explicitly target outages, expansions, and feedstock developments to ensure all relevant drivers are captured."
+  },
+  "reason": "The first search returned some relevant operational summaries and price commentary, but to fully answer the section's questions, a targeted search for outages, expansions, and feedstock developments is needed."
+}

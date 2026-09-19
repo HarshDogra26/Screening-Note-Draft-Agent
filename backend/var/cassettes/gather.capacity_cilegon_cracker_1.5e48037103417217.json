@@ -1,0 +1,16 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "city": "Cilegon",
+      "product": "Ethylene",
+      "status": [
+        "Operating"
+      ],
+      "aggregate": false
+    },
+    "why": "To identify the ethylene plants in Cilegon that are currently operating, and retrieve their individual capacity figures if available. This is the most direct way to find the current ethylene capacity of Cilegon Cracker 1."
+  },
+  "reason": "The plant register is the primary source for publicly confirmed plant-level capacity figures. We need to see if Cilegon Cracker 1 is listed and if its ethylene capacity is disclosed."
+}

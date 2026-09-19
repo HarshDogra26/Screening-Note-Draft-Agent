@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "Cilegon Cracker 1 is named in the synthetic register, which is covered by PART_A. The brief asks about the ethylene capacity of this plant, which is a plant-level capacity question and fits the scope of PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

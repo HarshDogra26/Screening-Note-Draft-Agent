@@ -1,0 +1,61 @@
+{
+  "brief": "Screening note on ethylene capacity in Southeast Asia: the capacity base, recent developments, and what we can’t confirm.",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "supply_base",
+      "kind": "supply_base",
+      "title": "Ethylene Capacity Base in Southeast Asia",
+      "questions": [
+        "What is the current ethylene production capacity in Southeast Asia?",
+        "Which companies and plants make up the regional ethylene supply base?",
+        "What are the main process routes and statuses of these plants?"
+      ],
+      "intended_tools": [
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The plant register provides the list and details of ethylene plants in Southeast Asia, including company, process route, and status; documents may clarify or update plant status or capacity where relevant.",
+      "unanswerable_if": "If the register does not contain ethylene plants in Southeast Asia, or if all relevant capacity figures are withheld or not disclosed."
+    },
+    {
+      "id": "capacity_changes",
+      "kind": "capacity_changes",
+      "title": "Recent and Ongoing Capacity Developments",
+      "questions": [
+        "What major ethylene capacity additions, expansions, or status changes have occurred in Southeast Asia in the past year?",
+        "Are there any announced projects, expansions, or debottleneckings affecting ethylene capacity?",
+        "Have there been any delays, cancellations, or significant operational events impacting capacity?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents",
+        "query_plant_register"
+      ],
+      "tool_rationale": "Documents provide details on recent expansions, startups, debottleneckings, and operational events; the register can confirm current status and filter for recent changes.",
+      "unanswerable_if": "If there are no documents or register entries describing recent or upcoming ethylene capacity changes in Southeast Asia."
+    },
+    {
+      "id": "gaps_and_conflicts",
+      "kind": "gaps_and_conflicts",
+      "title": "Gaps and Unconfirmed Capacity",
+      "questions": [
+        "Are there any ethylene plants in Southeast Asia for which capacity is not publicly confirmed?",
+        "What are the main data gaps or uncertainties in the regional ethylene capacity base?",
+        "Are there any explicit limitations or caveats in the available sources?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_plant_register",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "The register flags plants with unconfirmed capacity; documents and corpus notes may highlight data gaps or source limitations; describe_corpus can summarize known limitations.",
+      "unanswerable_if": "If the register does not flag any unconfirmed capacities and documents do not mention any data gaps or limitations."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Aggregate regional ethylene capacity total",
+      "reason": "The ASEAN Petrochemical Monitor explicitly states it does not publish aggregate regional capacity totals in its bulletins."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "claims": [
+    {
+      "text": "Southeast Asia CFR propylene spot prices were assessed every month from January 2024 to December 2025, with no missing months in this period.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The spot price for Southeast Asia CFR propylene was USD 875/tonne in January 2024.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The spot price for Southeast Asia CFR propylene was USD 918/tonne in December 2025.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-12",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The minimum spot price for Southeast Asia CFR propylene in this period was USD 834/tonne (January 2025).",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The maximum spot price for Southeast Asia CFR propylene in this period was USD 918/tonne (December 2025).",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-12",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The mean spot price for Southeast Asia CFR propylene from January 2024 to December 2025 was USD 871.5/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "From January 2026, price assessments for Southeast Asia CFR propylene are available only on a contract basis, not spot.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Contract prices for Southeast Asia CFR propylene were assessed every month from January 2026 to August 2026, with no missing months in this period.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The contract price for Southeast Asia CFR propylene was USD 841/tonne in January 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The contract price for Southeast Asia CFR propylene was USD 776/tonne in August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The minimum contract price for Southeast Asia CFR propylene in this period was USD 776/tonne (August 2026).",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The maximum contract price for Southeast Asia CFR propylene in this period was USD 870/tonne (April 2026).",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The mean contract price for Southeast Asia CFR propylene from January 2026 to August 2026 was USD 818.38/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There is a change in price assessment basis from spot (January 2024 to December 2025) to contract (January 2026 onwards); these series are not directly comparable.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2024-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Propylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Contract"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "Monthly price assessments for Southeast Asia CFR propylene are available for spot basis from January 2024 to December 2025, and for contract basis from January 2026 to August 2026. There are no missing months in either series, but the change in basis means the two periods are not directly comparable."
+}

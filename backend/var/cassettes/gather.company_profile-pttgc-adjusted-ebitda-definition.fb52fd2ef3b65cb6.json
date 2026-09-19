@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The corpus description directly provides PTT Global Chemical's definition of adjusted EBITDA: 'Adjusted EBITDA refers to EBITDA excluding Stock gain/(loss), NRV, Gain/(loss) from commodity hedging, and Extra item.' This answers both questions about the definition and the specific items excluded. No further tool calls are needed."
+}

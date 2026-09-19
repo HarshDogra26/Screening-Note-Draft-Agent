@@ -1,0 +1,30 @@
+{
+  "brief": "How has Southeast Asia propylene moved since 2024?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "price_movement-propylene-sea",
+      "kind": "price_movement",
+      "title": "Southeast Asia Propylene Price Movement Since 2024",
+      "questions": [
+        "What has been the monthly price movement for Southeast Asia propylene since January 2024?",
+        "Are there any notable trends, spikes, or declines in the available price series for this period?",
+        "How do contract and spot prices compare, and what is the coverage for each?",
+        "Are there any gaps or limitations in the price data for this period?"
+      ],
+      "intended_tools": [
+        "describe_corpus",
+        "query_price_series",
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "'describe_corpus' to confirm the available price series and their coverage; 'query_price_series' to extract the actual monthly price data for Southeast Asia propylene (spot and contract); 'search_part_a_documents' to identify any commentary or explanations for significant price movements or trends.",
+      "unanswerable_if": "If neither the spot nor contract price series for Southeast Asia propylene covers any months since January 2024, or if all available months are blank or missing."
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Propylene price movement after August 2026",
+      "reason": "The latest available price data for Southeast Asia propylene is August 2026 (contract) and December 2025 (spot); no forecast or post-August 2026 data is available."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "claims": [
+    {
+      "text": "GC states that the petrochemical industry faces challenges from geopolitical conflicts, sluggish global economic recovery, supply chain disruptions, and a slowdown in consumption, impacting demand for end products and intensifying competition in Southeast Asia due to increased production capacity and oversupply from low-cost producer countries in Asia, the United States, and the Middle East.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 50,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC plans to enhance integrated competitiveness through holistic optimization, including sourcing low-cost feedstock from overseas, group collaboration, strategic investment, and market-focused business transformation initiatives to create added value and maintain domestic and target market bases.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 50,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC expects MEG prices to be in the range of 430-460 USD/ton, with demand recovery projected to remain limited but improve gradually in line with the global economy and economic stimulus measures; excess supply is expected to continue with new capacity entering the market in 2026.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 69,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC forecasts the average price of HDPE in 2026 to range between 900-920 USD/ton, representing a decline from 2025, with demand expected to improve slightly but global supply materially increasing due to new capacity additions estimated to increase total capacity by approximately 4%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 69,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC forecasts the utilization rate of its polyethylene plants in 2026 to be 105%.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 69,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC aims to adjust its commodity-to-specialty ratio of its business portfolio to 70:30 by 2030 and increase the revenue proportion from sustainable products to 20-30% by 2030.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 9,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC has revised its interim target for GHG reduction to more than 20% by 2035, with the Net Zero emissions target maintained at 2050.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 9,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC identifies emerging risks including geopolitical and geoeconomic policy volatility, supply chain disruptions, and trade restrictions, which may impact production, export costs, key markets, and long-term profitability.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 53,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC conducts scenario analysis on various raw material price levels, regularly monitors economic and political situations, and develops scenario planning to anticipate and mitigate the impact of potential changes and uncertainties in the future.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 53,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC is optimizing its portfolio by evaluating the long-term competitive capabilities of each business unit and recognizes the necessity of operational restructuring within GC Group to achieve alignment with its future strategic direction.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 52,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "GC has announced its Net Zero goal, with a medium-term target of reducing 20% of emissions by 2035 and achieving Net Zero emissions by 2050, and is managing risks related to decarbonization implementation, including efficiency-driven, portfolio-driven, and compensation-driven pathways.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "GC",
+          "filename": "pttgc-one-report2025-en.pdf",
+          "page": 52,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group states that the global energy landscape remains fragile and uncertain amid elevated geopolitical headwinds and prolonged West Asia conflict, influencing prices, trade flows, and cost structures, creating a challenging operating environment and cost pressures across the value chain.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 20,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group is demonstrating resilience through prudent financial management and a commitment to advancing its transformation agenda, with the Board and management ensuring the Group remains well-positioned to navigate market volatility and create long-term value.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 20,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group is resolute in capturing growth opportunities and delivering sustainable value by leveraging its integrated portfolio across businesses, guided by its energy transition agenda and commitment to meeting customers' energy needs.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 20,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "PETRONAS Group highlights significant milestones including the establishment of Searah joint venture with ENI, upstream discoveries in Malaysia, Suriname, and Indonesia, and the expected completion of the acquisition of full ownership in PRefChem during the second half of the year.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "PETRONAS",
+          "filename": "PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+          "page": 14,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Reliance Industries Limited (RIL) states that global oil demand growth is expected to be sluggish due to higher oil prices and economic slowdown in FY 2026-27 amid Middle East conflict, with refinery and oil infrastructure damages causing product supply losses likely to take a longer period to recover, resulting in continual volatility in the market.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 13,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL identifies threats including geopolitical tensions, sanctions, tariff pressures, rising Chinese exports, global overcapacity affecting downstream chemical product margins, and energy transition, EV growth, and carbon regulations reducing long-term fossil fuel demand.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 13,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "RIL states that in FY 2026-27, volatile product and feedstock prices, supply disruptions from the Middle East, Government of India directives on SAED, petrochemical feedstock usage, and duty exemption on key petrochemical products may weigh on domestic demand and margins.",
+      "citations": [
+        {
+          "kind": "filing",
+          "company": "RIL",
+          "filename": "RIL-Integrated-Annual-Report-2025-26.pdf",
+          "page": 13,
+          "sheet": null,
+          "cell_range": null
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "PETRONAS Chemicals Group (PCG) specific outlook statements",
+      "reason": "not_disclosed",
+      "detail": "No passages matched for PCG-specific outlook or forward-looking statements in the most recent annual or interim reports. Available evidence is for PETRONAS Group, not PCG.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "GC and RIL provide detailed outlook statements for their petrochemical businesses in their most recent annual reports. PETRONAS Group provides general outlook and transformation commentary in its interim report, but no PCG-specific outlook statements are available in the evidence."
+}

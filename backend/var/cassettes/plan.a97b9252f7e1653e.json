@@ -1,0 +1,21 @@
+{
+  "brief": "When is the Vung Tau cracker expected to start up?",
+  "domain": "part_a",
+  "sections": [
+    {
+      "id": "vungtau_startup_timing",
+      "kind": "operational_events",
+      "title": "Vung Tau Cracker Startup Timing",
+      "questions": [
+        "What is the most recent expected startup date for the Vung Tau cracker?",
+        "Has the startup date changed recently, and if so, what is the revised schedule?"
+      ],
+      "intended_tools": [
+        "search_part_a_documents"
+      ],
+      "tool_rationale": "Searching company press releases and industry bulletins is necessary to find the latest disclosed startup schedule and any revisions for the Vung Tau cracker.",
+      "unanswerable_if": "No document in the corpus discusses the Vung Tau cracker's startup schedule or any recent revisions."
+    }
+  ],
+  "excluded": []
+}

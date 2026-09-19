@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence from the plant register answers both section questions: (1) The total operating ethylene capacity in Southeast Asia is 5,370 kta, covering 7 of 8 matched units. (2) The contributing plants are listed, and the only limitation is the exclusion of Coral Bay Olefins' Sungai Liang Cracker, whose capacity is not publicly confirmed and thus not included in the total. The register explicitly states that units with undisclosed capacity are excluded from the aggregate, not counted as zero. No further evidence is needed."
+}

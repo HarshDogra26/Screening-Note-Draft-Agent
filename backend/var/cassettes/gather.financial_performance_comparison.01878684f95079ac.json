@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "doc_type": "media_release",
+      "query": "quarter revenue earnings EBITDA"
+    },
+    "why": "To obtain Reliance's most recent quarterly financial performance figures (revenue, earnings, EBITDA) from its media releases, as these typically contain quarterly results and outlook."
+  },
+  "reason": "GC and PETRONAS full-year figures are already gathered, and RIL's annual report covers the full year. To complete the comparison, the most recent quarterly results for RIL are needed, which are likely found in its media releases."
+}

@@ -1,0 +1,12 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Pengerang operational events 2026",
+      "k": 5
+    },
+    "why": "To directly search for documents mentioning operational events at Pengerang during 2026, as this is the most targeted way to answer the section's questions about turnarounds, force majeures, or disruptions."
+  },
+  "reason": "The section requires causation and event detail, which only Part A documents provide. A targeted search is the most efficient first step."
+}

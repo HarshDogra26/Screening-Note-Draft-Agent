@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests historical price assessments for HDPE in Southeast Asia from December 2025 to March 2026, which falls within the coverage period of the synthetic dataset (PART_A). No real company filings or entities are named, and the request is answerable using the synthetic price data.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

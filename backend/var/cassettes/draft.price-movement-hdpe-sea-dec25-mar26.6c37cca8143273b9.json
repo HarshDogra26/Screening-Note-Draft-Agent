@@ -1,0 +1,61 @@
+{
+  "claims": [
+    {
+      "text": "The assessed HDPE Southeast Asia CFR spot price for December 2025 was 935.0 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2025-12",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The assessed HDPE Southeast Asia CFR spot price for March 2026 was 909.0 USD/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-03",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "HDPE Southeast Asia CFR spot price for January 2026",
+      "reason": "no_assessment",
+      "detail": "No assessment was published for January 2026; the price is not available and is not interpolated.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        }
+      ]
+    },
+    {
+      "subject": "HDPE Southeast Asia CFR spot price for February 2026",
+      "reason": "no_assessment",
+      "detail": "No assessment was published for February 2026; the price is not available and is not interpolated.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "HDPE",
+          "region": "Southeast Asia CFR",
+          "month": "2026-02",
+          "basis": "Spot"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Only December 2025 and March 2026 have published HDPE Southeast Asia CFR spot price assessments. January and February 2026 are explicit gaps with no published values."
+}

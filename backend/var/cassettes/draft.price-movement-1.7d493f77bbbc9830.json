@@ -1,0 +1,152 @@
+{
+  "claims": [
+    {
+      "text": "Southeast Asian ethylene spot prices ranged from USD 886/tonne in March 2025 to USD 938/tonne in August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-03",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The lowest monthly spot price in the period was USD 886/tonne in March 2025.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-03",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The highest monthly spot price in the period was USD 1059/tonne in April 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The mean spot price for Southeast Asian ethylene over the eighteen months was USD 942.11/tonne.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-03",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Prices rose from USD 886/tonne in March 2025 to a peak of USD 1009/tonne in September 2025, then declined to USD 887/tonne in January 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-03",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-09",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "After January 2026, prices increased sharply, reaching the period high of USD 1059/tonne in April 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-01",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Following the April 2026 peak, prices declined to USD 960/tonne in June 2026 and ended at USD 938/tonne in August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-04",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-06",
+          "basis": "Spot"
+        },
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2026-08",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There were no missing or unconfirmed months in the price series from March 2025 to August 2026.",
+      "citations": [
+        {
+          "kind": "price",
+          "product": "Ethylene",
+          "region": "Southeast Asia CFR",
+          "month": "2025-03",
+          "basis": "Spot"
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "All claims are directly supported by the monthly spot price assessments for Southeast Asian ethylene from March 2025 to August 2026. No gaps or missing months are present in the evidence."
+}

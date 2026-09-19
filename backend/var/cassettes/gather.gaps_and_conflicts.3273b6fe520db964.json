@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence answers all section questions. The plant register confirms one ethylene plant in Southeast Asia (Sungai Liang Cracker, Coral Bay Olefins) for which capacity is not publicly confirmed. A company press release explicitly states that Coral Bay Olefins does not disclose nameplate capacity for this cracker. The ASEAN Petrochemical Monitor bulletin states it does not publish estimates for units where the operator has not disclosed nameplate capacity, confirming a data gap. The same bulletin notes that published figures for some units (e.g., Cilegon Cracker 1) differ depending on source, and that the Monitor will not revise its figure until independent verification. Other documents and government sources confirm further explicit limitations: some sources do not publish plant-level or aggregate capacity data. Thus, the main data gap is the undisclosed capacity at Sungai Liang, and there are explicit caveats about coverage and comparability in the available sources. No further tool calls are needed."
+}

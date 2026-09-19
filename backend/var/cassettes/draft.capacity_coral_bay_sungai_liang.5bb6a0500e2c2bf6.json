@@ -1,0 +1,41 @@
+{
+  "claims": [
+    {
+      "text": "The Sungai Liang cracker operated by Coral Bay Olefins does not have a publicly confirmed nameplate or reported capacity in the plant register.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "Coral Bay Olefins stated in a company press release that it does not disclose the nameplate capacity for the Sungai Liang cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Sungai Liang cracker capacity",
+      "reason": "not_disclosed",
+      "detail": "No public confirmation or estimate of the cracker's capacity is available; the company explicitly does not disclose this figure.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        }
+      ]
+    }
+  ],
+  "coverage_note": "Both the plant register and company press release confirm that the capacity of the Sungai Liang cracker is not publicly disclosed. No estimates or third-party figures are present in the available evidence."
+}

@@ -1,0 +1,28 @@
+{
+  "claims": [
+    {
+      "text": "Straits Advanced Materials does not operate crackers or polymerisation units and purchases base resin from third parties.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "019_straits_compounding_2026-06-12.md",
+          "quote": "The company does not operate crackers or polymerisation units and purchases base resin from third parties."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "There have been no recent operational events, expansions, turnarounds, or strategic developments related to Straits Advanced Materials' cracker operations, as the company does not operate any cracker units.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "019_straits_compounding_2026-06-12.md",
+          "quote": "The company does not operate crackers or polymerisation units and purchases base resin from third parties."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "The only relevant company press release confirms Straits Advanced Materials does not operate crackers. No other documents mention Straits Advanced Materials' cracker activities in the past year."
+}

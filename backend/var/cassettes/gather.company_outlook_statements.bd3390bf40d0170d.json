@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "PETRONAS",
+      "k": 10,
+      "query": "outlook OR forward-looking OR future OR guidance OR prospects OR strategy"
+    },
+    "why": "To find PETRONAS's most recent statements about its outlook for the petrochemical business, searching for relevant keywords in its filings."
+  },
+  "reason": "GC's outlook evidence is gathered. Next, PETRONAS must be covered for the same question, using the same approach."
+}

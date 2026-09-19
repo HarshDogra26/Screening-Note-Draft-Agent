@@ -1,0 +1,39 @@
+{
+  "claims": [
+    {
+      "text": "Mekong Chemical Industries revised the expected startup of its Vung Tau steam cracker from 2027 to 2028, citing delayed delivery of the cracked gas compressor and slower progress on the site's marine offloading facility.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "Mekong Chemical Industries has revised the expected startup of its Vung Tau steam cracker from 2027 to 2028.\n\nThe company attributed the revision to delayed delivery of the cracked gas compressor and to slower-than-planned progress on the site's marine offloading facility."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The latest disclosed startup schedule for the Vung Tau cracker is 2028, as announced by Mekong Chemical Industries in July 2026.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "009_mekong_vungtau_revised_2026-07-09.md",
+          "quote": "Mekong Chemical Industries has revised the expected startup of its Vung Tau steam cracker from 2027 to 2028."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Prior to the July 2026 revision, Mekong Chemical Industries had targeted startup of the Vung Tau cracker in 2027.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "008_mekong_vungtau_schedule_2026-01-28.md",
+          "quote": "Mekong Chemical Industries confirmed that construction of its Vung Tau steam cracker is progressing and that the company is targeting startup in 2027."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [],
+  "coverage_note": "The evidence includes two company press releases from Mekong Chemical Industries, one confirming a 2027 target and a later one revising the schedule to 2028. No other sources or independent confirmations are present."
+}

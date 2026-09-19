@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "doc_type": "annual_report",
+      "query": "revenue earnings EBITDA fiscal year"
+    },
+    "why": "To obtain Reliance's most recent full financial year revenue, earnings, and EBITDA figures, as well as reporting currency, units, and fiscal year end, from its annual report."
+  },
+  "reason": "GC and PETRONAS full-year results have been retrieved. Reliance's full-year figures are needed for a complete comparison."
+}

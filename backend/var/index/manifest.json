@@ -1,0 +1,206 @@
+{
+  "built_at": "2026-09-19T13:04:50+00:00",
+  "chunker_version": "1",
+  "counts": {
+    "documents": 27,
+    "part_b_files": 9,
+    "plants": 52,
+    "prices": 190
+  },
+  "embedding_model": null,
+  "ingest_version": "1",
+  "part_a": [
+    {
+      "bytes": 8065,
+      "path": "data-part a/plants.csv",
+      "sha256": "64342496146d977306767c1b01a364b366c5c453d3907dec9ba7934549378f86"
+    },
+    {
+      "bytes": 13940,
+      "path": "data-part a/prices.csv",
+      "sha256": "820eaafcc2e774bb9cd4c98f4b6610e0e3945fe7fb2839eb77793f14983e49b2"
+    },
+    {
+      "bytes": 1060,
+      "path": "data-part a/documents/001_nusantara_cilegon_expansion_2026-03-11.md",
+      "sha256": "d97826fc1c2e9a206d86bc05859f8298555ce05fd37f27a8e62ffa220dcbd84a"
+    },
+    {
+      "bytes": 899,
+      "path": "data-part a/documents/002_asean_monitor_capacity_note_2026-06-02.md",
+      "sha256": "786d4a824c0ba63fb898bea1d56fad016ed9663885b312941af0720256dc84d0"
+    },
+    {
+      "bytes": 938,
+      "path": "data-part a/documents/003_meridian_jurong_utilisation_2026-02-19.md",
+      "sha256": "21a33f84cf96a77568de57c3ffbd26960e65ce9384c8619ab7915bb1963e3025"
+    },
+    {
+      "bytes": 721,
+      "path": "data-part a/documents/004_meridian_feed_flexibility_2026-08-07.md",
+      "sha256": "c31b3df0f3d6f6e382853b4c3691208c3f09ec75dd9f1197a940a8e2479d873b"
+    },
+    {
+      "bytes": 563,
+      "path": "data-part a/documents/005_selat_pengerang_turnaround_2026-04-22.md",
+      "sha256": "4489043812c6d7e339c75e4e0070ae5c64bcb16cbcdb910759eee412945b57bc"
+    },
+    {
+      "bytes": 725,
+      "path": "data-part a/documents/006_andaman_pp3_fid_2026-01-15.md",
+      "sha256": "b8af5d4517915e547bfa0dd9581480049de47d5223ac8d6d766ff19612a4b362"
+    },
+    {
+      "bytes": 872,
+      "path": "data-part a/documents/007_andaman_pp3_delay_2026-07-30.md",
+      "sha256": "01ba6177038c9bcb56ac42219eaaeeff8fe84c498245d44593c7fd105d6a6887"
+    },
+    {
+      "bytes": 561,
+      "path": "data-part a/documents/008_mekong_vungtau_schedule_2026-01-28.md",
+      "sha256": "d3e4932ddd5b9a9dfe34d4238025b8a0d05ac07a1f8dc0d1fd42d28138e1a685"
+    },
+    {
+      "bytes": 624,
+      "path": "data-part a/documents/009_mekong_vungtau_revised_2026-07-09.md",
+      "sha256": "23e46815572ae02550535cc5ea81950ac59a55c61789f83c44be65d2da9008d3"
+    },
+    {
+      "bytes": 633,
+      "path": "data-part a/documents/010_luzon_debottleneck_study_2026-05-14.md",
+      "sha256": "2b2c1b5b885f2528aad74b6518f5e8f97cd270b5916f0e357a18fda545976d8a"
+    },
+    {
+      "bytes": 527,
+      "path": "data-part a/documents/011_coralbay_commissioning_2025-09-18.md",
+      "sha256": "3dbdc195ad267d71d53f6deca9cf1c53bd84718f085567462bd6a1b453122aec"
+    },
+    {
+      "bytes": 498,
+      "path": "data-part a/documents/012_javatimur_lldpe_swing_2026-03-03.md",
+      "sha256": "10ebe258986b7b2451adf614178bc0a8789070be8d2bd10c5901a3444dacba14"
+    },
+    {
+      "bytes": 843,
+      "path": "data-part a/documents/013_asean_monitor_overview_2026-02-05.md",
+      "sha256": "36cf37e227ad8f279b268570b3301b0598f13e23ec47bad772dc28e2ae101390"
+    },
+    {
+      "bytes": 453,
+      "path": "data-part a/documents/014_bengal_haldia_pdh_2026-04-10.md",
+      "sha256": "5f8e216244a7e4a38629e058ef5595ca13e86aced8deef5d84ec86f7c11ce5f9"
+    },
+    {
+      "bytes": 648,
+      "path": "data-part a/documents/015_gulfmeridian_jubail_2026-06-21.md",
+      "sha256": "972c366b1fff62140585a28cf7b29ff24d9c143259cec875344f44cb699b44ab"
+    },
+    {
+      "bytes": 421,
+      "path": "data-part a/documents/016_bohai_tianjin_2026-05-06.md",
+      "sha256": "4b3a32fae68c42ff782856d432224ab2d796eb9e5413bf6aa474c14e177182c3"
+    },
+    {
+      "bytes": 534,
+      "path": "data-part a/documents/017_nusantara_pp_debottleneck_2026-08-25.md",
+      "sha256": "2faf880ff6f843d01231b03c4746c3715a0d73a7cd77d25c638d2260426e37e9"
+    },
+    {
+      "bytes": 456,
+      "path": "data-part a/documents/018_selat_hdpe_startup_2025-09-30.md",
+      "sha256": "54a69484ea625ed07967d7344a766d2442cbc4ee02c4ff43189018d1ba9ede89"
+    },
+    {
+      "bytes": 453,
+      "path": "data-part a/documents/019_straits_compounding_2026-06-12.md",
+      "sha256": "fe204996eea432b14b8e84a253f0509b23b88d50cc31d158cbfccb089df4a76a"
+    },
+    {
+      "bytes": 375,
+      "path": "data-part a/documents/020_andaman_turnaround_2025-09-11.md",
+      "sha256": "56de863e9e0454b9ee0f55ba056a2732ed3e727f22d5e768872770e3cb02ba2d"
+    },
+    {
+      "bytes": 423,
+      "path": "data-part a/documents/021_mekong_feedstock_agreement_2026-03-20.md",
+      "sha256": "399a00e763cb9450b155f16c3d1a246e5d6deb9e98545b433c4a19134d23e0f3"
+    },
+    {
+      "bytes": 500,
+      "path": "data-part a/documents/022_energy_agency_naphtha_note_2026-08-14.md",
+      "sha256": "0f006e01aa08d56e2725b5704b048bd600d05bbefb515d266852186e4fa33c99"
+    },
+    {
+      "bytes": 423,
+      "path": "data-part a/documents/023_luzon_operational_summary_2026-02-27.md",
+      "sha256": "14894c71a29474d2c35a9472f3e516f52293fce15c4e1e389420ffd3033c5efc"
+    },
+    {
+      "bytes": 459,
+      "path": "data-part a/documents/024_nusantara_cracker2_prefeed_2026-01-22.md",
+      "sha256": "4ad6f527c7b3d8c26e8cf60124de8090f5d0507da72f0d0b0191e4313149adf2"
+    },
+    {
+      "bytes": 1376,
+      "path": "data-part a/documents/025_asean_monitor_price_commentary_2026-06-18.md",
+      "sha256": "589cad7d565d1e7de35c24ea6017cd129f1d4a36355339be53f4a203147eeb82"
+    },
+    {
+      "bytes": 749,
+      "path": "data-part a/documents/026_selat_force_majeure_2026-04-09.md",
+      "sha256": "abeab3731500e50fe93c587e6970859ee6abf0314f20a4699294f25f93395135"
+    },
+    {
+      "bytes": 752,
+      "path": "data-part a/documents/027_port_congestion_note_2025-11-20.md",
+      "sha256": "06e7e022f7e21e7393bbf015de015a97439a19fa6e97628a9ed6ef85a13359e2"
+    }
+  ],
+  "part_b": [
+    {
+      "bytes": 370583,
+      "path": "data-part b/PETRONAS Chemicals Group (PCG)/Financial Report 1H 2025.pdf",
+      "sha256": "dccb5b2d63f52e2a777b122892818750389d71246805c01de3d6342657bd1cb3"
+    },
+    {
+      "bytes": 468730,
+      "path": "data-part b/PETRONAS Chemicals Group (PCG)/PETRONAS Group FRA FY2025 - IFR_0.pdf",
+      "sha256": "8790fe4687df6cb18500746b9dc9abe066372358203f118820987a96a094514f"
+    },
+    {
+      "bytes": 426236,
+      "path": "data-part b/PETRONAS Chemicals Group (PCG)/PETRONAS Interim Financial Report 1H 2026 28.8.2026.pdf",
+      "sha256": "8134db1173d275427f1d7a37d54016eb44b687e5b21946c10efbd9ed9a5979ad"
+    },
+    {
+      "bytes": 393063,
+      "path": "data-part b/PTT Global Chemical (GC)/FINANCIAL_STATEMENTS (1).XLSX",
+      "sha256": "10e984b782529f4e64bc7c230cc9ac0893d9c0514dee86d1d0b848e02ae323f7"
+    },
+    {
+      "bytes": 423844,
+      "path": "data-part b/PTT Global Chemical (GC)/FINANCIAL_STATEMENTS.XLSX",
+      "sha256": "646373a5f93c6e5eeade6a72231171ff241ca6b75ffc479d4d70ea0823718cc7"
+    },
+    {
+      "bytes": 34809931,
+      "path": "data-part b/PTT Global Chemical (GC)/pttgc-one-report2025-en.pdf",
+      "sha256": "ee17f7fe02adfe0322e5ed88ac407aaa7325c0cc1069a9d7c8f76f60af2193a0"
+    },
+    {
+      "bytes": 986633,
+      "path": "data-part b/Reliance Industries (RIL)/24042026_Media_Release_RIL_Q4_FY2025-26_Financial_and_Operational_Performance.pdf",
+      "sha256": "2c9080813978f2377f944298e4498332ae1b032edb1e0224b2c86f03a557b915"
+    },
+    {
+      "bytes": 858218,
+      "path": "data-part b/Reliance Industries (RIL)/Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf",
+      "sha256": "cc99e455d2501f8084bf3d3e36a3c628fc8c8c4992ae896aabaa548b01578dff"
+    },
+    {
+      "bytes": 9681400,
+      "path": "data-part b/Reliance Industries (RIL)/RIL-Integrated-Annual-Report-2025-26.pdf",
+      "sha256": "ed8affb5e7d2da16e19ed925be925b04a8ee581038ff75ada1a5d0cb7309c1e0"
+    }
+  ]
+}

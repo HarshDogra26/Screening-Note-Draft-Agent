@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All questions for the section are answered by the evidence gathered. The monthly price movement for Southeast Asia propylene since January 2024 is covered by two series: spot prices from 2024-01 to 2025-12, and contract prices from 2026-01 to 2026-08. The spot series shows a range from $875/tonne to $918/tonne, with a dip in late 2024 and a recovery in 2025. The contract series starts at $841/tonne in 2026-01 and declines to $776/tonne by 2026-08, with a brief peak in April. There are no gaps or missing months in either series. A document from ASEAN Petrochemical Monitor (2026-06-18) explains that the change from spot to contract basis in January 2026 is a methodological shift, not a market movement, and advises against direct comparison between the two. The same document attributes the April 2026 peak to supply outages and notes easing as units returned. Thus, price movement, trends, basis change, and coverage limitations are all evidenced and explained."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "query": "Pengerang shutdown incident maintenance restart",
+      "k": 20,
+      "company": "PETRONAS"
+    },
+    "why": "PETRONAS is the operator of the Pengerang facility. The previous search did not specify company, and returned no evidence of operational events at Pengerang in 2026. This targeted search may yield filings that mention shutdowns, incidents, maintenance, or restarts at Pengerang in 2026."
+  },
+  "reason": "A company-specific search for PETRONAS is needed to directly address the section's questions about operational events at Pengerang in 2026, as the prior search was not company-filtered and returned no relevant evidence."
+}

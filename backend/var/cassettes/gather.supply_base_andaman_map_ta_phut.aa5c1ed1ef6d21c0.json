@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The plant register query using 'company', 'product', and 'region' filters returned three Andaman Polymer Group polypropylene plants at Map Ta Phut: two operating (PP 1 and PP 2, both Gas Phase) and one under construction (PP 3, Gas Phase, startup 2028). Their status and process routes are clearly listed. This fully answers the section's questions: the supply base consists of Map Ta Phut PP 1 (operating, Gas Phase, 350 kt/a), Map Ta Phut PP 2 (operating, Gas Phase, 250 kt/a), and Map Ta Phut PP 3 (under construction, Gas Phase, 300 kt/a, startup 2028). No further evidence is needed."
+}

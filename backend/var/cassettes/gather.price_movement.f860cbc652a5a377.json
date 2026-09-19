@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "All three section questions are answered by the evidence gathered. The monthly Southeast Asia CFR spot ethylene price series for H1 2026 is available and shows a clear movement: prices rose from $887/tonne in January to a peak of $1059/tonne in April, then eased to $960/tonne in June. The Northeast Asia CFR spot series is also available for the same period, allowing direct comparison: prices there started higher, peaked in May, and ended at $995/tonne in June. Key drivers and events are documented in the ASEAN Petrochemical Monitor's June 2026 price commentary and Selat Kimia Berhad's press releases, attributing the April peak to concurrent supply outages (Pengerang turnaround and force majeure, Cilegon furnace replacement), with easing as units returned. Feedstock costs (firm naphtha) also contributed. No further tool calls are needed."
+}

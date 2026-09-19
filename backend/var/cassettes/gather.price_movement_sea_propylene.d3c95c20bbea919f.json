@@ -1,0 +1,14 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_price_series",
+    "arguments": {
+      "compute": "none",
+      "product": "Propylene",
+      "region": "Southeast Asia CFR",
+      "basis": "Spot"
+    },
+    "why": "The corpus inventory shows a 'Propylene|Southeast Asia CFR|Spot' series from Jan 2024 to Dec 2025. The previous call did not specify 'basis', so I will explicitly request the spot series to check for price movement and gaps."
+  },
+  "reason": "The previous call returned an error due to missing basis. The inventory confirms a relevant spot series, so I will query it directly to answer the section's questions."
+}

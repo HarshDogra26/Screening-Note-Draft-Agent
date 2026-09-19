@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_b_filings",
+    "arguments": {
+      "company": "RIL",
+      "doc_type": "interim_report",
+      "query": "outlook OR forward-looking OR prospects OR guidance OR strategy OR market conditions OR future"
+    },
+    "why": "To capture Reliance's most recent outlook or forward-looking statements, including any updates since the annual report, as interim reports may contain more current commentary on market conditions and strategy."
+  },
+  "reason": "GC and PETRONAS outlooks have been gathered from their most recent filings. Reliance's annual report has been searched, but to ensure completeness and recency, the interim report should also be checked for outlook statements."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Andaman Polymer Group Map Ta Phut polypropylene schedule update delay timeline",
+      "company": "Andaman Polymer Group",
+      "k": 5
+    },
+    "why": "The section asks for the current schedule and any recent updates or delays for Andaman Polymer Group's third PP line at Map Ta Phut. Searching for documents from Andaman Polymer Group mentioning schedule, updates, delays, or timeline will directly address these questions."
+  },
+  "reason": "The most direct evidence for project schedule and updates comes from company press releases or industry bulletins discussing the project. Searching for relevant documents is the planned approach and matches the section's requirements."
+}

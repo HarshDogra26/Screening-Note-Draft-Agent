@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence gathered answers the section's questions. Documents confirm two relevant events for ethane-based crackers in Southeast Asia since 2025: (1) Nusantara Olefins completed a major expansion of Cilegon Cracker 1 in Indonesia, raising ethylene capacity to 1,200 kta (mechanical completion in 2026, executed during a planned turnaround); (2) Coral Bay Olefins commissioned the Sungai Liang ethane cracker in Brunei in 2025, but the company does not disclose nameplate capacity. The plant register confirms only the Coral Bay plant, with capacity 'not publicly confirmed', and does not list the Nusantara Olefins cracker under ethane-based entries, indicating a gap in public register data. No other operating or under-construction ethane-based crackers are found in Southeast Asia. No documents since 2025 mention relevant delays, FIDs, or milestones for ethane-based cracker projects in the region beyond these events. The questions are fully answered by the documents and register; further tool calls would not add material evidence."
+}

@@ -1,0 +1,12 @@
+{
+  "claims": [],
+  "gaps": [
+    {
+      "subject": "Company profile information for PETRONAS Chemicals Group",
+      "reason": "no_assessment",
+      "detail": "No evidence was retrieved regarding PETRONAS Chemicals Group's structure, operations, or financials.",
+      "citations": []
+    }
+  ],
+  "coverage_note": "No filings or documents were available in the evidence to answer questions about PETRONAS Chemicals Group's profile, structure, operations, or financials."
+}

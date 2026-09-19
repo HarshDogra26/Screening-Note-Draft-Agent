@@ -1,0 +1,99 @@
+{
+  "claims": [
+    {
+      "text": "Coral Bay Olefins commissioned the Sungai Liang ethane cracker in Brunei in 2025, marking the startup of the only ethane-based cracker in Southeast Asia since 2025.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "Coral Bay Olefins has commissioned its Sungai Liang ethane cracker and associated HDPE line in Brunei."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Coral Bay Olefins does not disclose the nameplate capacity of the Sungai Liang ethane cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "No expansions, debottlenecks, or major turnarounds have been reported for the Sungai Liang ethane cracker in Brunei since its commissioning in 2025.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "Coral Bay said the complex reached stable operation within six weeks of first feed."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "No delays, FIDs, or project milestones have been reported for ethane-based crackers in Southeast Asia since 2025, other than the commissioning of Sungai Liang.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "Coral Bay Olefins has commissioned its Sungai Liang ethane cracker and associated HDPE line in Brunei."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Nusantara Olefins completed an expansion of Cilegon Cracker 1 in Indonesia in 2026, increasing ethylene capacity to 1,200 kta, but the evidence does not specify the feedstock and therefore cannot confirm if this is ethane-based.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "001_nusantara_cilegon_expansion_2026-03-11.md",
+          "quote": "Following the expansion, the company describes the unit as having an ethylene capacity of 1,200 kta."
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Sungai Liang cracker nameplate capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "Coral Bay Olefins does not disclose the nameplate capacity for the Sungai Liang ethane cracker.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "011_coralbay_commissioning_2025-09-18.md",
+          "quote": "The company said it does not disclose nameplate capacity for the cracker."
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": "capacity_kta"
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The evidence confirms only one ethane-based cracker in Southeast Asia (Sungai Liang, Brunei) with no publicly confirmed capacity or subsequent changes since commissioning in 2025. No other ethane-based projects, expansions, or milestones are reported for the region. The Cilegon expansion is noted but cannot be confirmed as ethane-based from available evidence."
+}

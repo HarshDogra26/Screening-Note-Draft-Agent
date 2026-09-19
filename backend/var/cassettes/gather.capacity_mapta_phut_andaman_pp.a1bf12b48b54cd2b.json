@@ -1,0 +1,13 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "query_plant_register",
+    "arguments": {
+      "company": "Andaman Polymer Group",
+      "product": "PP",
+      "country": "Thailand"
+    },
+    "why": "The register does not accept 'city' as a filter, but does accept 'country'. Map Ta Phut is in Thailand, so filtering by company, product, and country should return Andaman Polymer Group's PP assets at Map Ta Phut."
+  },
+  "reason": "The previous call failed due to an unsupported 'city' argument. Adjusting to use 'country' (Thailand) should yield the relevant assets for Map Ta Phut."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief asks about Nusantara Olefins and the Cilegon expansion, both of which are entities in the synthetic register (PART_A). The question concerns project spending, which is within the scope of plant/project information in PART_A.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

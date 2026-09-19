@@ -1,0 +1,11 @@
+{
+  "action": "call_tool",
+  "tool_call": {
+    "tool": "search_part_a_documents",
+    "arguments": {
+      "query": "Sungai Liang cracker"
+    },
+    "why": "The plant register confirms that the capacity of the Sungai Liang cracker is not publicly confirmed, but does not provide any indirect estimate or commentary. Searching Part A documents for 'Sungai Liang cracker' may reveal any public statements, commentary, or indirect estimates regarding its scale or reasons for non-disclosure."
+  },
+  "reason": "The register confirms non-disclosure but does not answer whether there is any indirect estimate or commentary. Part A documents may provide further evidence."
+}

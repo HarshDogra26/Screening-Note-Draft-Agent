@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The three documents retrieved directly address both section questions. Document 006 confirms the announcement and FID for a third polypropylene line at Map Ta Phut (300 kta, gas-phase, propylene from existing unit, no cracker expansion, targeted for 2028). Document 007 provides a project status update: mechanical completion delayed from Q2 2028 to Q4 2028 due to environmental permit and ground conditions, with capital estimate unchanged and no impact on existing lines. Document 020 confirms no recent capacity changes for existing units following a turnaround. No further evidence is needed; the section is fully answered from the available corpus."
+}

@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information about total operating ethylene capacity in Southeast Asia, which relates to plant capacities and process routes covered in the synthetic world dataset (PART_A).",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

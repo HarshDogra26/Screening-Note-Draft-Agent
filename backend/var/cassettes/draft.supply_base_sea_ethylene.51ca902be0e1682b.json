@@ -1,0 +1,115 @@
+{
+  "claims": [
+    {
+      "text": "The total operating ethylene capacity in Southeast Asia as of the latest available data is 5,370.0 kta, covering 7 of 8 matched units.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-001",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-002",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-003",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-004",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-005",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-007",
+          "field": null
+        },
+        {
+          "kind": "plant",
+          "plant_id": "PL-009",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The published total excludes Coral Bay Olefins' Sungai Liang Cracker, as its capacity is not publicly confirmed (capacity_kta is blank).",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "not_publicly_confirmed"
+    },
+    {
+      "text": "The published total does not count excluded units as zero; only units with publicly confirmed capacity are included.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Vung Tau Cracker is excluded from the total as it is under construction and not operating.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-006",
+          "field": null
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "The ASEAN Petrochemical Monitor does not publish aggregate regional capacity totals in its bulletins; readers are advised to consult the Monitor's capacity database for unit-level data.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "013_asean_monitor_overview_2026-02-05.md",
+          "quote": "The Monitor does not publish aggregate regional capacity totals in this bulletin. Readers requiring totals should consult the Monitor's capacity database, which is updated quarterly and lists units individually."
+        }
+      ],
+      "status": "asserted"
+    },
+    {
+      "text": "Meridian Petrochemicals states its combined ethylene capacity at Jurong Island is 1,450 kta, described as the largest single-operator ethylene position in Southeast Asia.",
+      "citations": [
+        {
+          "kind": "document",
+          "filename": "003_meridian_jurong_utilisation_2026-02-19.md",
+          "quote": "Meridian states that its combined ethylene capacity across the two units is 1,450 kta, which the company describes as the largest single-operator ethylene position in Southeast Asia."
+        }
+      ],
+      "status": "asserted"
+    }
+  ],
+  "gaps": [
+    {
+      "subject": "Coral Bay Olefins' Sungai Liang Cracker capacity",
+      "reason": "not_publicly_confirmed",
+      "detail": "Capacity is not publicly confirmed and is blank in the source register; excluded from total.",
+      "citations": [
+        {
+          "kind": "plant",
+          "plant_id": "PL-008",
+          "field": null
+        }
+      ]
+    }
+  ],
+  "coverage_note": "The published total is based on unit-level data from the plant register and excludes units without publicly confirmed capacity. Industry bulletins do not publish aggregate regional totals, and the exclusion of Coral Bay Olefins' Sungai Liang Cracker is consistent with this practice."
+}

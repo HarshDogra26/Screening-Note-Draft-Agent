@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The brief requests information about operational events at Pengerang, which is a plant location; this falls under the synthetic world of Part A, which covers plants, capacity, process routes, turnarounds, outages, and project schedules.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

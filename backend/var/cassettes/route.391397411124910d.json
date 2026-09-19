@@ -1,0 +1,7 @@
+{
+  "domain": "part_a",
+  "reasoning": "The Vung Tau cracker is a petrochemical plant, and questions about its startup schedule pertain to plant operations and project timelines, which are covered in PART_A's synthetic world. The brief does not reference any real company from PART_B or require financial data.",
+  "out_of_scope": false,
+  "out_of_scope_reason": null,
+  "requires_both_domains": false
+}

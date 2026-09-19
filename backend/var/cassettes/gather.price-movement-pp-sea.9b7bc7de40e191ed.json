@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The price series 'PP|Southeast Asia CFR|Spot' runs through 2026-08, but the last two months (2026-07, 2026-08) are blank, and querying the most recent months (2026-06 to 2026-08) returned an error: 'no assessments for product='PP' region='Southeast Asia''. This confirms that there is no assessed polypropylene price for Southeast Asia in the latest available months. The question cannot be answered from this corpus, and the gap itself is a valid finding."
+}

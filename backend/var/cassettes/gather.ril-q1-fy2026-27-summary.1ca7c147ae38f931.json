@@ -1,0 +1,5 @@
+{
+  "action": "done",
+  "tool_call": null,
+  "reason": "The evidence retrieved includes multiple excerpts from Reliance Industries' Q1 FY2026-27 media release, covering key financial results, operational updates, explanations for performance, and leadership commentary. The results include unaudited standalone financial results for the quarter, business segment performance, and comparative context with previous quarters. All section questions are answered by the evidence held; no further tool calls are needed."
+}
